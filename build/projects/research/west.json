@@ -1,0 +1,842 @@
+{
+  "lines": [
+    {
+      "id": "izmir-buca-metro",
+      "city": "izmir",
+      "code": "HRS-5",
+      "type": "metro",
+      "name": "Üçyol – Buca Koop – Çamlıkule – Gaziemir Yeni Fuar Alanı (Buca Metrosu)",
+      "status": "construction",
+      "authority": "İzmir Büyükşehir Belediyesi",
+      "contractor": "Gülermak Ağır Sanayi İnşaat ve Taahhüt A.Ş.",
+      "km": 17.8,
+      "fleet": "108 araç (18 set), sürücüsüz; araç alımı ihalesi için teknik şartname hazırlanıyor (Ağustos 2026)",
+      "progress": 54.37,
+      "update": "Ağustos 2026 itibarıyla yapım işi ilerlemesi %54,37; 28,93 km'lik çift tüp tünelin yaklaşık 22-23,7 km'si açıldı, Çamlıkule–Üçyol tünelleri tamam, Çamlıkule–Fuar İzmir uzatmasında 4 TBM ile kazı sürüyor. İşletmeye geçiş 2028 hedefleniyor.",
+      "target": "2028",
+      "statusNote": "Resmi hat kodu bulunamadı; kod belediyenin 'İzmir HRS 5. Aşama' adından türetildi (OSM/Vikipedi 'M2' kullanıyor). Uzunluk resmi kaynaklarda farklı: haberlerde 17,8 km/14 istasyon, proje sayfasında 18 km/11 istasyon, 2026 Yatırım Programı'nda 19,30 km. Çamlıkule–Fuar İzmir uzatması AYGM onayıyla projeye eklendi; bu kesimdeki 3 rezerv istasyonun (biri 'Buca Anadolu Lisesi') fizibilitesi sürüyor, listeye alınmadı. Bozyaka'da General Asım Gündüz istasyonuna bağlanan giriş-çıkış yapısı var (istasyon değil). Genel ilerleme Ocak 2026'da %47, Nisan 2026'da %45 (Raylı Sistemler Dairesi Başkanı), Ağustos 2026 proje sayfasında %54,37 olarak verildi. Yapım işinin 2027 sonunda bitmesi, işletmenin araç tedarikinden sonra 2028'de başlaması hedefleniyor; Ocak 2026'da ilk etabın 2027'de açılabileceği de söylenmişti.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Ocak 2022",
+          "text": "04.01.2022'de sözleşme imzalandı, 21.01.2022'de yer teslimi yapıldı."
+        },
+        {
+          "date": "Şubat 2022",
+          "text": "14 Şubat 2022'de temel atma töreni yapıldı; yüklenici Gülermak."
+        },
+        {
+          "date": "Ekim 2025",
+          "text": "Hattın Fuar İzmir'e (Gaziemir) uzatılması açıklandı; tünel kazılarında yaklaşık %84 seviyesine gelindi."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "Son TBM Şirinyer'de ışığı gördü; Üçyol–Çamlıkule 13,5 km'lik tüneller tamamlandı, genel ilerleme %47."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "Raylı Sistemler Dairesi Başkanı ilerlemeyi %45, tünelleri %67 olarak açıkladı; hedef 2028."
+        },
+        {
+          "date": "Ağustos 2026",
+          "text": "Tünellerin yaklaşık 22 km'si tamamlandı; proje sayfasında yapım ilerlemesi %54,37."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Üçyol",
+          "existing": true
+        },
+        {
+          "name": "Zafertepe"
+        },
+        {
+          "name": "General Asım Gündüz"
+        },
+        {
+          "name": "Şirinyer",
+          "existing": true
+        },
+        {
+          "name": "Buca Belediyesi"
+        },
+        {
+          "name": "Kasaplar Meydanı"
+        },
+        {
+          "name": "Hasanağa Bahçesi"
+        },
+        {
+          "name": "Dokuz Eylül Üniversitesi"
+        },
+        {
+          "name": "Buca Koop."
+        },
+        {
+          "name": "Çamlıkule"
+        },
+        {
+          "name": "Gaziemir Yeni Fuar Alanı"
+        }
+      ],
+      "osm_hint": "Üçyol–Fuar İzmir Metro Hattı 1. Etap; Üçyol–Fuar İzmir Metro Hattı 2. Etap; Üçyol–Fuar İzmir Metro Depo Hattı; M2 (Buca Belediyesi) Makas Yapısı (muhtemelen lon 27.2/lat 38.4 civarındaki adsız inşaat parçaları da bu hat)",
+      "sources": [
+        {
+          "title": "İzmir HRS 5. Aşama Üçyol - Buca Hattı Yapım İşi (proje sayfası, güncellenme 27.08.2026)",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2026-08-27",
+          "url": "https://www.izmir.bel.tr/tr/Projeler/izmir-hrs-5-asama-ucyol---buca-hatti-yapim-isi/2662/4"
+        },
+        {
+          "title": "Tünellerin büyük bölümü tamamlandı",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2026-08-09",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/tunellerin-buyuk-bolumu-tamamlandi/59143/156"
+        },
+        {
+          "title": "Buca Metrosu'nda 2028 hedefi için çalışmalar sürüyor",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2026-04-29",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/buca-metrosu-nda-2028-hedefi-icin-calismalar-suruyor/58491/156"
+        },
+        {
+          "title": "Buca Metrosu'nda tarihi an",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2026-01-30",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/buca-metrosu-nda-tarihi-an/57773/156"
+        },
+        {
+          "title": "Buca Metrosu tünelleri 2027'nin sonunda Fuar İzmir'le buluşacak",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2025-10-09",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/buca-metrosu-tunelleri-2027-nin-sonunda-fuar-izmir-le-bulusacak/57037/156"
+        },
+        {
+          "title": "Yapılması Planlanan Raylı Sistem Projeleri (güncellenme 20.08.2026)",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2026-08-20",
+          "url": "https://www.izmir.bel.tr/tr/Projeler/2872/4"
+        },
+        {
+          "title": "Başkan Soyer: Ekonomik krizin tam ortasında İzmir tarihinin en büyük yatırımını başlatıyoruz",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2022-02-14",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/baskan-soyer-ekonomik-krizin-tam-ortasinda-izmir-tarihinin-en-buyuk-yatirimini-baslatiyoruz/46248/156"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı, s. 149 (PDF s. 174): Üçyol-Buca Metro Hattı 2019E06-135625",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.izmir.bel.tr/tr/Projeler/izmir-hrs-5-asama-ucyol---buca-hatti-yapim-isi/2662/4"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Projeler/izmir-hrs-5-asama-ucyol---buca-hatti-yapim-isi/2662/4"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Projeler/izmir-hrs-5-asama-ucyol---buca-hatti-yapim-isi/2662/4"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/tunellerin-buyuk-bolumu-tamamlandi/59143/156"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/buca-metrosu-nda-2028-hedefi-icin-calismalar-suruyor/58491/156"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/buca-metrosu-nda-2028-hedefi-icin-calismalar-suruyor/58491/156"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/buca-metrosu-nda-tarihi-an/57773/156"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Projeler/2872/4"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/baskan-soyer-ekonomik-krizin-tam-ortasinda-izmir-tarihinin-en-buyuk-yatirimini-baslatiyoruz/46248/156"
+        }
+      ]
+    },
+    {
+      "id": "izmir-halkapinar-otogar-metro",
+      "city": "izmir",
+      "code": "HO",
+      "type": "metro",
+      "name": "Halkapınar – Otogar",
+      "status": "planned",
+      "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü (AYGM)",
+      "km": 4.5,
+      "fleet": "40 metro aracı (2026 Yatırım Programı)",
+      "update": "Ocak 2026'da yayımlanan 2026 Yatırım Programı'nda Bakanlık projesi olarak (2014E06-106968, 4,50 km, 40 araç, 2014–2029) yer alıyor; 2026 ödeneği 3.000 TL ile sembolik. AYGM sitesinde 'Planlanan Projeler' arasında listeleniyor; yapım ihalesine dair resmi bilgi bulunamadı.",
+      "target": "2029",
+      "statusNote": "Resmi hat kodu yok; 'HO' nötr kısaltma. Hedef yıl, yatırım programındaki bitiş yılıdır (2014–2029), açılış tarihi olarak açıklanmış değil. AYGM'nin 2020 tarihli proje kartında 5 istasyon verildi, istasyon adları yayımlanmadı. Proje önceki yıllarda demiryolu sektöründe 'Halkapınar-Otogar Demiryolu Bağlantısı' (2014E010080) olarak yer alıyordu. Ekim 2026'daki Bakan–Büyükşehir görüşmesinde bu hat anılmadı.",
+      "extension": false,
+      "history": [
+        {
+          "date": "2019",
+          "text": "AYGM'ye göre projelendirme tamamlandı ve proje 2019 yatırım programına alındı; ihale hazırlığı sürüyordu."
+        },
+        {
+          "date": "Ocak 2023",
+          "text": "Büyükşehir Belediye Başkanı, 2023 yatırım programında hatta 2014'ten beri 3 bin liralık ödenek konduğunu eleştirdi."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "2026 Yatırım Programı'nda UAB projesi olarak 3.000 TL ödenekle devam ediyor."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Halkapınar",
+          "existing": true
+        },
+        {
+          "name": "Otogar"
+        }
+      ],
+      "osm_hint": "Halkapınar–Otogar Metrosu",
+      "sources": [
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı, s. 150 (PDF s. 175): Halkapınar-Otogar Metro Hattı 2014E06-106968",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "title": "Kentiçi Raylı Sistemler Daire Başkanlıkları – Planlanan Projeler (erişim tarihi)",
+          "publisher": "UAB Altyapı Yatırımları Genel Müdürlüğü",
+          "date": "2026-11-11",
+          "url": "https://aygm.uab.gov.tr/birimler/kentici-rayli-sistemler-daire-baskanliklari/"
+        },
+        {
+          "title": "İzmir Halkapınar-Otogar Metrosu proje kartı",
+          "publisher": "UAB Altyapı Yatırımları Genel Müdürlüğü",
+          "date": "2020-05-05",
+          "url": "https://aygm.uab.gov.tr/media/aygm/lcepp3un/izmir.pdf"
+        },
+        {
+          "title": "Karabağlar-Gaziemir Metrosu yola çıkıyor (Otogar-Halkapınar ödeneği eleştirisi)",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2023-01-31",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/karabaglar-gaziemir-metrosu-yola-cikiyor/47884/156"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://aygm.uab.gov.tr/birimler/kentici-rayli-sistemler-daire-baskanliklari/"
+        },
+        {
+          "url": "https://aygm.uab.gov.tr/media/aygm/lcepp3un/izmir.pdf"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/karabaglar-gaziemir-metrosu-yola-cikiyor/47884/156"
+        }
+      ]
+    },
+    {
+      "id": "izmir-karabaglar-gaziemir-metro",
+      "city": "izmir",
+      "code": "HRS-6",
+      "type": "metro",
+      "name": "Halkapınar – Menderes (Karabağlar–Gaziemir Metrosu)",
+      "status": "planned",
+      "authority": "İzmir Büyükşehir Belediyesi",
+      "km": 32.5,
+      "update": "Nisan 2026'da İBB Raylı Sistemler Dairesi Başkanı projenin Bakanlık tarafından onaylandığını, finansman ve ihale çalışmalarının başlayacağını açıkladı; Mart 2026'da 2026 yatırım programına alınması için SBB'ye başvurulduğu bildirildi. Proje 2026 Yatırım Programı'nda yer almıyor; yapım ihalesi yok.",
+      "statusNote": "Resmi hat kodu bulunamadı; kod belediyenin 'İzmir Hafif Raylı Sistemi 6. Aşama' adından türetildi (OSM 'M3' kullanıyor). 'Planlı' statüsü, belediyenin açıkladığı Bakanlık (AYGM) proje onayına ve SBB başvurusuna dayanıyor; meclis kararı, yapım ihalesi veya finansman anlaşması bulunamadı. Uzunluk 2026'da 32,5 km, 2023'te 32,6 km verildi. İstasyon listesi Ocak 2023 tanıtımından; 2023 metninde hattın mevcut metronun Stadyum İstasyonu'na entegre edilerek bağımsız bir istasyonla başlayacağı belirtildi. General Asım Gündüz ve Fuar İzmir, yapımı süren Buca Metrosu ile, Gürçeşme yapımı süren İZBAN istasyonu ile aktarma noktası olacak.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Ocak 2023",
+          "text": "Hat 32,6 km, 24 yeraltı istasyonu ve 2,105 milyar avro maliyetle tanıtıldı; proje AYGM onayına sunuldu."
+        },
+        {
+          "date": "Mart 2026",
+          "text": "Hattın 32,5 km ve 24 istasyonlu planlandığı, 2026 yatırım programı için SBB'ye başvurulduğu açıklandı."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "Projenin Bakanlık tarafından onaylandığı, finansman ve ihale çalışmalarının başlayacağı açıklandı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Konak"
+        },
+        {
+          "name": "Halkapınar",
+          "existing": true
+        },
+        {
+          "name": "Gıda Çarşısı"
+        },
+        {
+          "name": "Tepecik"
+        },
+        {
+          "name": "İstikbal"
+        },
+        {
+          "name": "Gürçeşme"
+        },
+        {
+          "name": "Yeni Yol"
+        },
+        {
+          "name": "General Asım Gündüz"
+        },
+        {
+          "name": "Çalıkuşu"
+        },
+        {
+          "name": "Eski İzmir"
+        },
+        {
+          "name": "Seniha Mayda"
+        },
+        {
+          "name": "Dostluk Bulvarı"
+        },
+        {
+          "name": "Atatürk A.T.M.L."
+        },
+        {
+          "name": "Altan Aydın"
+        },
+        {
+          "name": "Fuar İzmir"
+        },
+        {
+          "name": "ESBAŞ"
+        },
+        {
+          "name": "Gaziemir Eski Kaymakamlık"
+        },
+        {
+          "name": "Abdullah Arda"
+        },
+        {
+          "name": "Gaziemir Stadyum"
+        },
+        {
+          "name": "Gaziemir Güvenpark"
+        },
+        {
+          "name": "Adnan Menderes Havaalanı"
+        },
+        {
+          "name": "Sanayi"
+        },
+        {
+          "name": "Görece"
+        },
+        {
+          "name": "Menderes"
+        }
+      ],
+      "osm_hint": "M3 Menderes–Gaziemir–Karabağlar–Konak Metrosu",
+      "sources": [
+        {
+          "title": "Buca Metrosu'nda 2028 hedefi için çalışmalar sürüyor (Karabağlar Metrosu onayı)",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2026-04-29",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/buca-metrosu-nda-2028-hedefi-icin-calismalar-suruyor/58491/156"
+        },
+        {
+          "title": "Dev ulaşım projeleri tamamlanıyor",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2026-03-20",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/dev-ulasim-projeleri-tamamlaniyor/58201/156"
+        },
+        {
+          "title": "Karabağlar-Gaziemir Metrosu yola çıkıyor",
+          "publisher": "İzmir Büyükşehir Belediyesi",
+          "date": "2023-01-31",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/karabaglar-gaziemir-metrosu-yola-cikiyor/47884/156"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/buca-metrosu-nda-2028-hedefi-icin-calismalar-suruyor/58491/156"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/dev-ulasim-projeleri-tamamlaniyor/58201/156"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/dev-ulasim-projeleri-tamamlaniyor/58201/156"
+        },
+        {
+          "url": "https://www.izmir.bel.tr/tr/Haberler/karabaglar-gaziemir-metrosu-yola-cikiyor/47884/156"
+        }
+      ]
+    },
+    {
+      "id": "bursa-b1-sehir-hastanesi",
+      "city": "bursa",
+      "code": "B1",
+      "type": "metro",
+      "name": "Geçit/Balat – Şehir Hastanesi (Emek–YHT Gar–Şehir Hastanesi HRS)",
+      "status": "construction",
+      "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü (AYGM); tamamlanınca Bursa Büyükşehir Belediyesine devredilecek",
+      "km": 6.1,
+      "fleet": "20 hafif raylı sistem aracı (2026 Yatırım Programı)",
+      "update": "Ekim 2026 tarihli 2027 Yıllık Programı'na göre Bakanlıkça yapımı süren hattın 2026 sonuna kadar hizmete açılması planlanıyor. Emek–Geçit/Balat kesimi 2024'te açılmıştı; kalan kesimde çalışma sürüyor.",
+      "target": "2026 sonu",
+      "statusNote": "Kod, haritadaki mevcut BursaRay B1 hattının kodu (OSM); hat B1'in Geçit/Balat'tan devamıdır. 6,10 km, Geçit/Balat dahil tüm Emek–Şehir Hastanesi projesinin uzunluğudur (AYGM kartında 6 km, 4 istasyon). Proje adında 'YHT Gar' ara durağı geçiyor; ara istasyon adları resmi kaynakta yayımlanmadığı için yalnız uçlar verildi (basında 'Ahmet Yesevi' ve 'YHT Gar' istasyonları geçiyor). Basında (İHA aracılığıyla Gazete Vatan, 3 Eylül 2026) AYGM verisine atfen 31 Ağustos 2026 itibarıyla %83,80 fiziki ilerleme ve bir milletvekiline atfen 2027 açılış hedefi bildirildi; resmi kaynakta doğrulanamadığı için progress alanına yazılmadı. Görükle depo sahası ve 1,2 km'lik Görükle uzatması aynı proje kapsamında (ayrı kayıt: bursa-b2-gorukle).",
+      "extension": true,
+      "extends": "bursa-b1",
+      "history": [
+        {
+          "date": "2020",
+          "text": "Proje yatırım programına 2020E06-155267 numarasıyla Bakanlık projesi olarak girdi."
+        },
+        {
+          "date": "Şubat 2022",
+          "text": "AYGM proje kartı: 6 km, 4 istasyon, günlük 410.000 yolcu kapasitesi."
+        },
+        {
+          "date": "2024",
+          "text": "Geçit/Balat istasyonu tamamlanıp işletmeye açıldı ve Büyükşehir Belediyesine devredildi."
+        },
+        {
+          "date": "Kasım 2025",
+          "text": "Bakan Uraloğlu kalan kesimin 2026'da hizmete sunulacağını açıkladı."
+        },
+        {
+          "date": "Ekim 2026",
+          "text": "2027 Yıllık Programı, hattın 2026 sonuna kadar açılmasının planlandığını belirtti."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Geçit/Balat",
+          "existing": true
+        },
+        {
+          "name": "Şehir Hastanesi"
+        }
+      ],
+      "osm_hint": "BursaRay Emek–Şehir Hastanesi Metro İnşaatı",
+      "sources": [
+        {
+          "title": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı, s. 391 (PDF s. 408)",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-10-27",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/10/2027-yilli-cumhurbaskanligi-yillik-programi.pdf"
+        },
+        {
+          "title": "Bursa Şehir Hastanesi ve YHT Garı'na ulaşım kolaylaşacak",
+          "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+          "date": "2025-11-21",
+          "url": "https://www.uab.gov.tr/haberler/bursa-sehir-hastanesi-ve-yht-gari-na-ulasim-kolaylasacak/"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı, s. 151 (PDF s. 176): Bursa Emek Şehir Hastanesi HRS Hattı 2020E06-155267",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "title": "Kentiçi Raylı Sistemler Daire Başkanlıkları – Devam Eden Projeler (erişim tarihi)",
+          "publisher": "UAB Altyapı Yatırımları Genel Müdürlüğü",
+          "date": "2026-11-11",
+          "url": "https://aygm.uab.gov.tr/birimler/kentici-rayli-sistemler-daire-baskanliklari/"
+        },
+        {
+          "title": "Bursa Emek-YHT-Şehir Hastanesi Hafif Raylı Sistem Hattı proje kartı",
+          "publisher": "UAB Altyapı Yatırımları Genel Müdürlüğü",
+          "date": "2022-02-14",
+          "url": "https://aygm.uab.gov.tr/media/aygm/chkbpy2i/bursa-emek-yht-sehir-hastanesi-hafif-rayli-sistem-hatti.pdf"
+        },
+        {
+          "title": "Bursa'da metro hattında sona gelindi (yalnız işaretçi; resmi olmayan basın)",
+          "publisher": "Gazete Vatan (İHA)",
+          "date": "2026-09-03",
+          "url": "https://www.gazetevatan.com/galeri/bursada-metro-hattinda-sona-gelindi-acilis-icin-geri-sayim-basladi-tarih-belli-oldu-2403871"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/10/2027-yilli-cumhurbaskanligi-yillik-programi.pdf"
+        },
+        {
+          "url": "https://www.uab.gov.tr/haberler/bursa-sehir-hastanesi-ve-yht-gari-na-ulasim-kolaylasacak/"
+        },
+        {
+          "url": "https://www.uab.gov.tr/haberler/bursa-sehir-hastanesi-ve-yht-gari-na-ulasim-kolaylasacak/"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "bursa-b2-gorukle",
+      "city": "bursa",
+      "code": "B2",
+      "type": "metro",
+      "name": "Üniversite – Görükle (Görükle uzatması ve depo bağlantı hattı)",
+      "status": "construction",
+      "authority": "Bursa Büyükşehir Belediyesi, UAB Altyapı Yatırımları Genel Müdürlüğü ve Bursa Uludağ Üniversitesi (Emek–Şehir Hastanesi HRS projesi kapsamında)",
+      "km": 1.2,
+      "update": "Ocak 2026'da Emek–Şehir Hastanesi HRS projesi kapsamında 1,2 km'lik Görükle uzatması ve depo sahası ulaşım hattı çalışmalarının başlatıldığı açıklandı; Eylül 2025'te Görükle depo sahası inşaatının sürdüğü bildirilmişti.",
+      "statusNote": "Kod, haritadaki mevcut BursaRay B2 (Kestel–Üniversite) hattının kodu (OSM). Uzatmanın Görükle'deki bitiş istasyonunun adı ve istasyon sayısı resmi kaynakta verilmedi; uç 'Görükle' olarak yazıldı. Eylül 2025 açıklamasında hattın 'Üniversite, Görükle ve Balkan Mahallesi'ne' gideceği söylendi; Balkan Mahallesi kesimi için ayrı bir resmi adım bulunamadı. Depo sahası 112 bin m², 100 araç kapasiteli; depoya 1 km'lik bağlantı hattı planlı. OSM'deki adsız iki 'BursaRay' inşaat parçası (≈2,1 km ve ≈1,4 km) büyük olasılıkla bu uzatma ve depo bağlantı hattıdır.",
+      "extension": true,
+      "extends": "bursa-b2",
+      "history": [
+        {
+          "date": "Eylül 2025",
+          "text": "Görükle Depo Sahası'nda çalışmaların sürdüğü, Üniversite–Görükle hattı çalışmalarının başladığı açıklandı."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "Üç kurum arasında protokol imzalandı; 1,2 km'lik Görükle uzatması ve depo sahası ulaşım hattı çalışmaları başlatıldı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Üniversite",
+          "existing": true
+        },
+        {
+          "name": "Görükle"
+        }
+      ],
+      "osm_hint": "Adsız 'BursaRay' inşaat parçaları (≈2,1 km ve ≈1,4 km)",
+      "sources": [
+        {
+          "title": "Bursa'da raylı sistem hattı genişliyor",
+          "publisher": "Bursa Büyükşehir Belediyesi",
+          "date": "2026-01-08",
+          "url": "https://www.bursa.bel.tr/haber/bursada-rayli-sistem-hatti-genisliyor-2"
+        },
+        {
+          "title": "Bursa'nın raylı sistemine dev yatırım",
+          "publisher": "Bursa Büyükşehir Belediyesi",
+          "date": "2025-09-03",
+          "url": "https://www.bursa.bel.tr/haber/bursanin-rayli-sistemine-dev-yatirim"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bursa.bel.tr/haber/bursada-rayli-sistem-hatti-genisliyor-2"
+        },
+        {
+          "url": "https://www.bursa.bel.tr/haber/bursada-rayli-sistem-hatti-genisliyor-2"
+        },
+        {
+          "url": "https://www.bursa.bel.tr/haber/bursanin-rayli-sistemine-dev-yatirim"
+        }
+      ]
+    },
+    {
+      "id": "bursa-ucevler-terminal",
+      "city": "bursa",
+      "code": "UT",
+      "type": "metro",
+      "name": "Üçevler – Terminal (Hafif Raylı Sistem)",
+      "status": "planned",
+      "authority": "Bursa Büyükşehir Belediyesi",
+      "update": "Büyükşehir Belediye Meclisi 16 Nisan 2026'da (karar 433) Üçevler–Terminal HRS ve Terminal–Demirtaş tramvay hatlarının ulaşım ve fizibilite etüdünü oybirliğiyle kabul ederek AYGM'ye sunulmasına karar verdi; Üçevler–Terminal birinci öncelikli etap olarak belirlendi.",
+      "statusNote": "Resmi hat kodu yok; 'UT' nötr kısaltma. Hat, 2019'da onaylanan Bursa Ulaşım Ana Planı 2035'teki Çalı–Demirtaş koridorunun bir kesimidir. Meclis kararı uzunluk ve istasyon vermiyor; basında (Ekonomi Gazetesi, Eylül 2026, Ağustos 2026 tarihli ÇED Proje Tanıtım Dosyası'na atfen) 13,49 km ve 9 istasyon, ÇED sürecinin başladığı bildirildi; resmi kaynakta doğrulanamadı. Basında 2027'de yapıma başlanması hedefi geçiyor (resmi değil). Uçlardaki 'Terminal', T2 tramvayının mevcut Terminal durağı.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Şubat 2019",
+          "text": "Bursa Ulaşım Ana Planı 2035 meclisçe onaylandı (Çalı–Demirtaş raylı sistem koridoru dahil)."
+        },
+        {
+          "date": "Şubat 2026",
+          "text": "AYGM, ulaşım ana planındaki projelerin meclis kararıyla onaylanarak sunulmasını istedi."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "Meclis, Üçevler–Terminal ve Terminal–Demirtaş ulaşım ve fizibilite etüdünü kabul etti (karar 433)."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Üçevler"
+        },
+        {
+          "name": "Terminal",
+          "existing": true
+        }
+      ],
+      "osm_hint": "M4 Çalı–Demirtaş Metrosu (bu kesim)",
+      "sources": [
+        {
+          "title": "Meclis Kararı No 433: Üçevler-Terminal, Terminal-Demirtaş Ulaşım ve Fizibilite Etüdünün Onaylanması",
+          "publisher": "Bursa Büyükşehir Belediye Meclisi",
+          "date": "2026-04-16",
+          "url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/athjq08ma3kkgw.pdf"
+        },
+        {
+          "title": "Meclis kararları listesi (2026)",
+          "publisher": "Bursa Büyükşehir Belediyesi",
+          "date": "2026-09-15",
+          "url": "https://www.bursa.bel.tr/meclis-kararlari"
+        },
+        {
+          "title": "Bursa'ya 20,6 kilometrelik yeni raylı sistem koridoru (yalnız işaretçi; basın)",
+          "publisher": "Ekonomi Gazetesi",
+          "date": "2026-09-15",
+          "url": "https://www.ekonomigazetesi.com/sehirler/bursaya-206-kilometrelik-yeni-rayli-sistem-koridoru-87488"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/athjq08ma3kkgw.pdf"
+        },
+        {
+          "url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/athjq08ma3kkgw.pdf"
+        }
+      ]
+    },
+    {
+      "id": "bursa-terminal-demirtas-tram",
+      "city": "bursa",
+      "code": "TD",
+      "type": "tram",
+      "name": "Terminal – Demirtaş (Tramvay)",
+      "status": "planned",
+      "authority": "Bursa Büyükşehir Belediyesi",
+      "update": "Büyükşehir Belediye Meclisi 16 Nisan 2026'da (karar 433) Terminal–Demirtaş kesiminin ana hatta besleme yapacak bir tramvay hattı olarak kurgulandığı ulaşım ve fizibilite etüdünü kabul edip AYGM'ye sunulmasına karar verdi.",
+      "statusNote": "Resmi hat kodu yok; 'TD' nötr kısaltma. Meclis kararı hattı 'Tramvay Hattı (T-Hattı)' olarak tanımlıyor ama T2'nin uzatması olduğunu açıkça yazmıyor; basında (Ekonomi Gazetesi, Eylül 2026) mevcut T2 hattının 3,83 km ve 3 yeni istasyonla uzatması olarak geçiyor (resmi kaynakta doğrulanamadı). Temmuz 2026'da Osmangazi Alaşar Mahallesi'nde bir Hazine parselinin 'tramvay hattı ve alanı' için belediyeye tahsisine meclis kararı verildi; bu hatla ilişkisi resmi olarak belirtilmedi.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Şubat 2019",
+          "text": "Bursa Ulaşım Ana Planı 2035 meclisçe onaylandı (Çalı–Demirtaş koridoru)."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "Meclis, Terminal–Demirtaş tramvay hattını da içeren ulaşım ve fizibilite etüdünü kabul etti (karar 433)."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Terminal",
+          "existing": true
+        },
+        {
+          "name": "Demirtaş"
+        }
+      ],
+      "osm_hint": "M4 Çalı–Demirtaş Metrosu (bu kesim)",
+      "sources": [
+        {
+          "title": "Meclis Kararı No 433: Üçevler-Terminal, Terminal-Demirtaş Ulaşım ve Fizibilite Etüdünün Onaylanması",
+          "publisher": "Bursa Büyükşehir Belediye Meclisi",
+          "date": "2026-04-16",
+          "url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/athjq08ma3kkgw.pdf"
+        },
+        {
+          "title": "Bursa'ya 20,6 kilometrelik yeni raylı sistem koridoru (yalnız işaretçi; basın)",
+          "publisher": "Ekonomi Gazetesi",
+          "date": "2026-09-15",
+          "url": "https://www.ekonomigazetesi.com/sehirler/bursaya-206-kilometrelik-yeni-rayli-sistem-koridoru-87488"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/athjq08ma3kkgw.pdf"
+        }
+      ]
+    },
+    {
+      "id": "antalya-konyaalti-varsak-tram",
+      "city": "antalya",
+      "code": "Etap4",
+      "type": "tram",
+      "name": "Sarısu (Konyaaltı) – Varsak (4. Etap Raylı Sistem)",
+      "status": "planned",
+      "authority": "Antalya Büyükşehir Belediyesi",
+      "km": 15.13,
+      "fleet": "17 tramvay aracı (2026 Yatırım Programı)",
+      "update": "Ocak 2026'da yayımlanan 2026 Yatırım Programı'na 'Konyaaltı-Varsak Tramvay Hattı' yeni proje olarak alındı (15,13 km, 17 tramvay aracı, 2026–2028, dış kredili, 2026 ödeneği 7,16 milyar TL). Yapımın başladığını gösteren resmi bir kaynak bulunamadı.",
+      "target": "2028",
+      "statusNote": "Resmi hat kodu yok; 'Etap4' nötr kısaltma. Hedef yıl, yatırım programındaki bitiş yılıdır (2026–2028). Belediye Başkan Vekili Ocak 2026'da hattın 18 km olduğunu, izinlerin alınıp yapım ihalesinin yapıldığını ve yatırım programına alınınca yapıma başlanacağını söyledi (Ekonomi Gazetesi aracılığıyla; resmi belediye metni açılamadı). Railway Gazette (17 Şubat 2026) onayın Ocak ortasında verildiğini, yapımın 2026'da başlayıp 2028 sonunda bitmesinin planlandığını yazdı. Belediyenin 2025 Performans Programı hattı '4. Etap Sarısu-Konyaaltı-Varsak Raylı Sistem Hattı' olarak adlandırıyor. Varsak ucunun mevcut T3 Varsak durağına bağlanıp bağlanmadığı resmi kaynakta belirtilmedi.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Ekim 2024",
+          "text": "Belediyenin 2025 Performans Programı'nda '4. Etap Sarısu-Konyaaltı-Varsak Raylı Sistem Hattı' hedef olarak yer aldı."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "Başkan Vekili ihalenin yapıldığını, yatırım programına alınınca yapıma başlanacağını açıkladı (basın)."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "2026 Yatırım Programı'na yeni proje olarak alındı (2026E06-280101)."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Sarısu"
+        },
+        {
+          "name": "Varsak"
+        }
+      ],
+      "osm_hint": "4. Etap Varsak–Sarısu Raylı Sistem Hattı",
+      "sources": [
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı, Antalya B.B. yeni projeler (PDF s. 169): Konyaaltı- Varsak Tramvay Hattı 2026E06-280101",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "title": "Antalya Büyükşehir Belediyesi 2025 Yılı Performans Programı",
+          "publisher": "Antalya Büyükşehir Belediyesi",
+          "date": "2024-10-14",
+          "url": "https://mcmsmedia.antalya.bel.tr/MediaFolder/6770156cf267483097290291/bf90a57c-e00d-4614-a6b5-0503a4505d1e.pdf"
+        },
+        {
+          "title": "Başkan Vekili Büşra Özdemir: ... (yalnız işaretçi; basın)",
+          "publisher": "Ekonomi Gazetesi",
+          "date": "2026-01-18",
+          "url": "https://www.ekonomigazetesi.com/sehirler/antalya-buyuksehir-belediye-baskan-vekili-busra-ozdemir-gunu-kurtaran-kisa-vadeli-cozumler-degil-gelecegi-planlayan-uzun-vadeli-cozumler-uretiyoruz-70195"
+        },
+        {
+          "title": "Antalya LRT phase 4 construction to begin (yalnız işaretçi; basın)",
+          "publisher": "Railway Gazette International",
+          "date": "2026-02-17",
+          "url": "https://www.railwaygazette.com/light-rail-and-tram/antalya-lrt-phase-4-construction-to-begin/70448.article"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://mcmsmedia.antalya.bel.tr/MediaFolder/6770156cf267483097290291/bf90a57c-e00d-4614-a6b5-0503a4505d1e.pdf"
+        },
+        {
+          "url": "https://www.ekonomigazetesi.com/sehirler/antalya-buyuksehir-belediye-baskan-vekili-busra-ozdemir-gunu-kurtaran-kisa-vadeli-cozumler-degil-gelecegi-planlayan-uzun-vadeli-cozumler-uretiyoruz-70195"
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "city": "izmir",
+      "name": "Konak – Karşıyaka raylı tüp geçiş",
+      "reason": "Ekim 2026'da Bakan Uraloğlu yalnızca 'olabilirliğiyle ilgili kafa yoracağız' dedi; proje, ihale, yatırım programı veya meclis kararı yok.",
+      "url": "https://www.uab.gov.tr/haberler/izmir-in-ulasimi-icin-ortak-adim/"
+    },
+    {
+      "city": "izmir",
+      "name": "İnciraltı – Çiğli körfez geçişi (raylı)",
+      "reason": "Bakanlık Ekim 2026'da projenin 'hâlâ feasible çıkmadığını' söyledi; resmi adım yok.",
+      "url": "https://www.uab.gov.tr/haberler/izmir-in-ulasimi-icin-ortak-adim/"
+    },
+    {
+      "city": "izmir",
+      "name": "Otogar – Kemalpaşa Metrosu (OSM: M5)",
+      "reason": "Yalnızca Ocak 2023'te 'hazırlıklar devam ediyor' açıklaması var; 2026 Yatırım Programı'nda yok, ihale/meclis kararı bulunamadı.",
+      "url": "https://www.izmir.bel.tr/tr/Haberler/karabaglar-gaziemir-metrosu-yola-cikiyor/47884/156"
+    },
+    {
+      "city": "izmir",
+      "name": "Örnekköy (– Yeni Girne) Tramvayı",
+      "reason": "Yalnızca Ocak 2023'te Karşıyaka Tramvayı ile entegre olacak hat için 'hazırlıklar devam ediyor' denildi; resmi adım bulunamadı. Mart 2026'da açıklanan 22 tramvay aracı alımı mevcut Çiğli/Konak hatları için (2026 YP).",
+      "url": "https://www.izmir.bel.tr/tr/Haberler/karabaglar-gaziemir-metrosu-yola-cikiyor/47884/156"
+    },
+    {
+      "city": "izmir",
+      "name": "M4 Bornova Merkez – Katip Çelebi Üniversitesi, M4 Halkapınar branşı, M4 Katip Çelebi Üniversitesi – Menemen Plastik OSB (OSM önerileri)",
+      "reason": "Ulaşım ana planı önerisi düzeyinde; ihale, meclis/UKOME kararı veya yatırım programı kaydı bulunamadı. İzmir Ulaşım Ana Planı 2040 hazırlanıyor (Kasım 2026'da tamamlanıp Bakanlık onayına sunulması hedefleniyor).",
+      "url": "https://www.izmir.bel.tr/tr/Haberler/izmirin-ulasim-gelecegi-ortak-akilla-sekilleniyor/58804/156"
+    },
+    {
+      "city": "izmir",
+      "name": "Narlıdere Kaymakamlık – Zeytinalanı Metrosu (OSM önerisi)",
+      "reason": "Resmi adım bulunamadı (2026 YP'de yok, belediyenin planlanan raylı sistem projeleri sayfasında yok); ana plan önerisi düzeyinde.",
+      "url": "https://www.izmir.bel.tr/tr/Projeler/2872/4"
+    },
+    {
+      "city": "izmir",
+      "name": "Aliağa Tramvayı ve Sarnıç Tramvayı (OSM önerileri)",
+      "reason": "Resmi adım bulunamadı; yalnızca plan önerisi. Yeni ulaşım ana planı (UPİ 2040) hazırlanıyor.",
+      "url": "https://www.izmir.bel.tr/tr/Haberler/izmirin-ulasim-gelecegi-ortak-akilla-sekilleniyor/58804/156"
+    },
+    {
+      "city": "izmir",
+      "name": "İZBAN Aliağa – Bergama uzatması",
+      "reason": "Belediyenin güncel İZBAN proje sayfasında (Ağustos 2026) yalnızca hattın 136 km olduğu ve yapımı süren Gürçeşme ile Katip Çelebi Üniversitesi istasyonları geçiyor; Bergama uzatması için ihale, yatırım programı kaydı veya karar bulunamadı.",
+      "url": "https://www.izmir.bel.tr/tr/Projeler/1255/4"
+    },
+    {
+      "city": "bursa",
+      "name": "Çalı – Üçevler raylı sistem bağlantısı",
+      "reason": "Meclisin 16.04.2026 tarihli 433 sayılı kararı bu kesimi yalnızca 'son etap olarak planlanmıştır' diye anıyor; onaylanan etüt Üçevler–Terminal ve Terminal–Demirtaş ile sınırlı. Basında ÇED sürecinin başladığı yazıyor ama onaylı ÇED kararı yok.",
+      "url": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/athjq08ma3kkgw.pdf"
+    },
+    {
+      "city": "antalya",
+      "name": "5. Etap Konyaaltı – Lara – Kundu raylı sistem hattı (22 km)",
+      "reason": "Yalnızca Başkan Vekili'nin Ocak 2026'da 'Bakanlık ön onayını aldık' açıklaması var (basın); 2026 Yatırım Programı'nda yok, ihale veya finansman yok.",
+      "url": "https://www.ekonomigazetesi.com/sehirler/antalya-buyuksehir-belediye-baskan-vekili-busra-ozdemir-gunu-kurtaran-kisa-vadeli-cozumler-degil-gelecegi-planlayan-uzun-vadeli-cozumler-uretiyoruz-70195"
+    },
+    {
+      "city": "antalya",
+      "name": "Kepez Şehir Hastanesi Raylı Sistem Hattı Projesi",
+      "reason": "Yalnızca belediyenin 2025 Performans Programı'nda 'raylı sistem ağının geliştirilmesi' faaliyeti altında anılıyor; ihale, meclis kararı veya yatırım programı kaydı bulunamadı.",
+      "url": "https://mcmsmedia.antalya.bel.tr/MediaFolder/6770156cf267483097290291/bf90a57c-e00d-4614-a6b5-0503a4505d1e.pdf"
+    }
+  ],
+  "open_missing": [],
+  "data_issues": [
+    {
+      "city": "izmir",
+      "issue": "Haritada İZBAN 107 km görünüyor; belediyenin İZBAN proje sayfası (Ağustos 2026) ve Bakan (Ekim 2026) hattı 136 km olarak veriyor (Sağlık, Selçuk ve Belevi istasyonlarıyla). OSM verisi eksik olabilir.",
+      "url": "https://www.izmir.bel.tr/tr/Projeler/1255/4"
+    },
+    {
+      "city": "izmir",
+      "issue": "OSM'deki 'M2 (Buca Belediyesi) Makas Yapısı' adındaki 'M2' bir hat kodu değil, makas yapısı numarası gibi görünüyor; belediye Ağustos 2026 haberinde Dokuz Eylül istasyonundaki yapıyı '(M3) Makas Yapısı' diye anıyor. Buca Metrosu'nun resmi hat kodu bulunamadı.",
+      "url": "https://www.izmir.bel.tr/tr/Haberler/tunellerin-buyuk-bolumu-tamamlandi/59143/156"
+    },
+    {
+      "city": "izmir",
+      "issue": "Buca Metrosu uzunluğu ve istasyon sayısı resmi kaynaklar arasında farklı: proje sayfası 18 km/11 istasyon, Nisan–Ağustos 2026 haberleri 17,8 km/14 istasyon (3 rezerv istasyon dahil), 2026 Yatırım Programı 19,30 km.",
+      "url": "https://www.izmir.bel.tr/tr/Projeler/izmir-hrs-5-asama-ucyol---buca-hatti-yapim-isi/2662/4"
+    },
+    {
+      "city": "antalya",
+      "issue": "OSM '4. Etap Varsak–Sarısu Raylı Sistem Hattı'nı railway=construction olarak işaretlemiş; yapımın başladığına dair resmi kaynak bulunamadı. 2026 Yatırım Programı projeyi 2026–2028 yeni proje olarak listeliyor. Uzunluk YP'de 15,13 km, belediye açıklamasında 18 km.",
+      "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    },
+    {
+      "city": "bursa",
+      "issue": "OSM'deki iki adsız 'BursaRay' inşaat parçası (≈2,1 km ve ≈1,4 km) büyük olasılıkla Görükle uzatması (1,2 km) ve Görükle depo sahası bağlantı hattıdır (belediye, Ocak 2026); adlandırılabilir.",
+      "url": "https://www.bursa.bel.tr/haber/bursada-rayli-sistem-hatti-genisliyor-2"
+    },
+    {
+      "city": "bursa",
+      "issue": "Emek–Şehir Hastanesi hattının uzunluğu kaynaklara göre 6 km (AYGM 2022 kartı, UAB 2025) ile 6,10 km (2026 YP) arasında; bu uzunluk 2024'te açılan Emek–Geçit/Balat kesimini de içeriyor.",
+      "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+  ],
+  "uncertain": [
+    "Web araması kotası çalışma sırasında doldu; Narlıdere metrosunun devamı, Çiğli/Karşıyaka/Konak tramvay uzatmaları, Bursa T5 tramvayı (basında 10 km/9 istasyon) ve Denizli, Aydın, Manisa, Muğla, Balıkesir, Çanakkale, Afyonkarahisar, Kütahya, Uşak, Isparta için yerel meclis/UKOME kararları ayrıca taranamadı. Bu illerde 2026 Yatırım Programı'nda ve AYGM proje listelerinde hiçbir kentiçi raylı sistem projesi yok; 2027 Yıllık Programı da raylı sistemli 12 büyükşehir arasında yalnız Antalya, Bursa ve İzmir'i sayıyor.",
+    "İzmir Karabağlar–Gaziemir metrosu 'planned' olarak işaretlendi; dayanağı belediyenin Nisan 2026'da açıkladığı Bakanlık (AYGM) proje onayı ve SBB'ye yatırım programı başvurusu. Meclis kararı, ihale veya finansman belgesi bulunamadı; bu dayanağı yeterli bulmazsanız 'rejected'e taşıyın.",
+    "Bursa Üçevler–Terminal ve Terminal–Demirtaş için meclis kararı (16.04.2026) ulaşım ve fizibilite etüdünün kabulü ve AYGM'ye sunulmasıdır; uzunluk ve istasyon sayısı resmi kaynakta yok. Terminal–Demirtaş'ın T2 uzatması olarak çizilip çizilmeyeceği size kalmış (basın öyle yazıyor).",
+    "Bursa Emek–Şehir Hastanesi: resmi 2027 Yıllık Programı (Ekim 2026) açılışı 2026 sonuna koyuyor; basında (Eylül 2026) bir milletvekili 2027 dedi ve %83,80 ilerleme bildirildi. Hedef olarak resmi '2026 sonu' yazıldı.",
+    "Antalya 4. Etap 'planned' olarak işaretlendi: yatırım programında 2026 ödeneği 7,16 milyar TL olsa da yapıma başlandığına dair resmi kaynak bulunamadı. Belediye haber sitesi JavaScript ile yüklendiği için resmi haberler okunamadı; yapım başladıysa statü 'construction' olmalı.",
+    "Buca Metrosu tek kayıt olarak verildi (Üçyol–Çamlıkule ve Çamlıkule–Fuar İzmir uzatması aynı sözleşmede, ikisi de yapımda). Haritada iki etap ayrı çizilecekse: 1. etap Üçyol–Çamlıkule 13,5 km, uzatma Çamlıkule–Fuar İzmir yaklaşık 4,5 km (Nisan 2026: 2027 içinde bitirme hedefi).",
+    "İZBAN hattında yapımı süren iki ara istasyon (Konak Gürçeşme ve Çiğli Katip Çelebi Üniversitesi; 2026 sonu hedefi) yeni hat değil, ayrı kayıt açılmadı. Koyundere–Asarlık bölgesindeki iki istasyon için ihaleye sonra çıkılacak.",
+    "OSM'de İzmir'de lon 26.8–27.0/lat 38.4 (Narlıdere–Güzelbahçe) ve lon 27.6/lat 38.6 (Manisa doğusu) civarındaki adsız inşaat parçaları resmi bir kentiçi raylı sistem projesiyle eşleştirilemedi. Manisa civarındaki parça muhtemelen Ankara–İzmir hızlı tren hattıdır (kapsam dışı); Narlıdere tarafı için resmi uzatma projesi bulunamadı.",
+    "Kapsam dışı ama ilgili: 2026 Yatırım Programı'nda TCDD'nin 'Aliağa-Menemen-Cumaovası-Tepeköy 3. Hat' etüt-proje işi ve 'Torbalı-Ödemiş-Çatal-Tire' elektrifikasyonu var (anahat işleri). 'Gaziemir Nostaljik Tramvayı' nostaljik/turistik olduğu için değerlendirilmedi.",
+    "Bursa'da T1/T2 tramvaylarının BursaRay Osmangazi istasyonuyla entegrasyonu için Temmuz 2026'da ihale yapıldığı basında geçiyor; yeni hat değil, resmi kaynakta doğrulanmadı. Bursa ulaşım ana planındaki M2 Başköy/Esentepe uzatmaları ve M3 Çalı–Gürsu için ayrı bir resmi adım bulunamadı (2025–2026 meclis kararlarında yok)."
+  ]
+}

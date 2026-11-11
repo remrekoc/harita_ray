@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+# raw OSM download, rebuilt by build/fetch.py
+build/cache/
+# screenshots from build/drive.mjs
+build/shots/
+# third-party quotes kept as local research evidence, not published
+*.local.json
+# headless Chrome profile from build/drive.mjs
+build/.chrome-cdp-*/

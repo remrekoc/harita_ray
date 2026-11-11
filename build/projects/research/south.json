@@ -1,0 +1,756 @@
+{
+  "lines": [
+    {
+      "id": "adana-m1-uzatma",
+      "city": "adana",
+      "code": "M1",
+      "type": "metro",
+      "name": "Akıncılar – Stadyum (2. Etap)",
+      "status": "planned",
+      "authority": "Adana Büyükşehir Belediyesi",
+      "km": 10.2,
+      "fleet": "42 hafif raylı sistem aracı (yatırım programındaki karakteristik)",
+      "update": "Ocak 2026'da yayımlanan 2026 Kamu Yatırım Programı'nda Adana Büyükşehir Belediyesi'nin devam eden projesi olarak yer alıyor (10,20 km, 42 araç, 2024–2028). İnşaat başlamadı; Haziran 2026'da Başkan Vekili Güngör Geçer projenin teknik olarak hazır olduğunu, bulunan yurt dışı fonun belediyenin vergi ve SGK yükümlülükleri nedeniyle kullanılamadığını ve öz kaynakla yapımın değerlendirildiğini söyledi (basın).",
+      "target": "2028",
+      "statusNote": "Hedef yıl, yatırım programındaki proje bitiş yılıdır; ayrı bir açılış hedefi resmi olarak ilan edilmedi. Hat mevcut M1'in Akıncılar'dan uzatması; ayrı bir hat kodu açıklanmadı. Ocak 2024'te Cumhurbaşkanı onayıyla yatırım programına alındı, ancak Kasım 2026 itibarıyla ihale veya yapım başlangıcı belgelenemedi.",
+      "extension": true,
+      "extends": "adana-m1",
+      "history": [
+        {
+          "date": "Ocak 2024",
+          "text": "2. Etap Hafif Raylı Sistem Projesi Cumhurbaşkanı onayıyla yatırım programına alındı (Adana Büyükşehir Belediyesi)."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "2026 Kamu Yatırım Programı'nda 'Akıncılar-Stadyum HRS Hattı' olarak 10,20 km, 42 araç ve 2024–2028 dönemiyle yer aldı."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "Yerel basın, yatırım programına girmesine rağmen ilk kazmanın vurulmadığını bildirdi."
+        },
+        {
+          "date": "Haziran 2026",
+          "text": "Başkan Vekili Geçer, dış fonun vergi ve SGK yükümlülükleri nedeniyle kullanılamadığını, projenin öz kaynakla yapılmasının değerlendirildiğini açıkladı (basın)."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Akıncılar",
+          "existing": true
+        },
+        {
+          "name": "Stadyum"
+        }
+      ],
+      "osm_hint": "Adana Metrosu 2. Etap",
+      "sources": [
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-15",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "title": "Adana 2. Etap Hafif Raylı Sistem Projesi 2024 Yatırım Programı'na Alındı",
+          "publisher": "Adana Büyükşehir Belediyesi",
+          "date": "2024-01-16",
+          "url": "https://www.adana.bel.tr/tr/haber/adana-2--etap-hafif-rayli-sistem-projesi-2024-yatirim-programi-na-alindi"
+        },
+        {
+          "title": "Adana'da yıllardır beklenen projede flaş gelişme: Başkan Vekili Güngör Geçer canlı yayında açıkladı",
+          "publisher": "Gazete Vatan (basın; Başkan Vekili açıklaması)",
+          "date": "2026-06-19",
+          "url": "https://www.gazetevatan.com/sehirler/adana/adanada-yillardir-beklenen-projede-flas-gelisme-baskan-vekili-gungor-gecer-canli-yayinda-acikladi-2380829"
+        },
+        {
+          "title": "Adana ulaşımında yatırım var icraat yok",
+          "publisher": "Gazete Vatan (basın)",
+          "date": "2026-04-25",
+          "url": "https://www.gazetevatan.com/sehirler/adana/adana-ulasiminda-yatirim-var-icraat-yok-sehir-hastanesi-ve-universite-hatti-icin-gozler-sahaya-cevrildi-2365535"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://www.adana.bel.tr/tr/haber/adana-2--etap-hafif-rayli-sistem-projesi-2024-yatirim-programi-na-alindi"
+        },
+        {
+          "url": "https://www.gazetevatan.com/sehirler/adana/adanada-yillardir-beklenen-projede-flas-gelisme-baskan-vekili-gungor-gecer-canli-yayinda-acikladi-2380829"
+        }
+      ]
+    },
+    {
+      "id": "mersin-metro",
+      "city": "mersin",
+      "code": "M1",
+      "type": "metro",
+      "name": "Mezitli – 3 Ocak (1. Etap)",
+      "status": "construction",
+      "authority": "Mersin Büyükşehir Belediyesi",
+      "contractor": "Dillingham Construction International – Kıska Kom İnşaat (Railway Gazette, 2021; resmi kaynakta doğrulanamadı)",
+      "km": 9.9,
+      "fleet": "24 hafif raylı sistem aracı (yatırım programındaki karakteristik)",
+      "update": "Nisan 2026'da Büyükşehir Belediyesi, Hazine ve Maliye Bakanlığı'nın metro ölçeğinde bir projeye dış kredi kullanım izni vermeyeceğini bildirdiğini ve önceliğin tramvaya verildiğini açıkladı. Proje 2026 Kamu Yatırım Programı'nda devam eden proje olarak (9,90 km, 24 araç, 2019–2028) yer almaya devam ediyor.",
+      "target": "2028",
+      "statusNote": "Temel 3 Ocak 2022'de atıldı ve 3 Ocak Kent Meydanı istasyonunda öz kaynakla çalışma yapıldı; dış finansman izni çıkmadığı için 2026 itibarıyla inşaat fiilen ilerlemiyor (belediye: 'Onu bekletip ... tramvaya dönmenin makul olduğunu konuştuk'). Hedef yıl yatırım programındaki bitiş yılıdır. Resmi hat kodu yok; M1 nötr kısa koddur. 2021 sözleşmesinde hat 13,4 km idi; 2026 yatırım programında 9,90 km.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Ağustos 2021",
+          "text": "Yapım ve elektromekanik işi Dillingham Construction International – Kıska Kom İnşaat ortaklığına verildi (Railway Gazette)."
+        },
+        {
+          "date": "Ekim 2021",
+          "text": "Sözleşme 4 Ekim 2021'de imzalandı (Railway Gazette)."
+        },
+        {
+          "date": "Ocak 2022",
+          "text": "Metronun temeli 3 Ocak 2022'de atıldı."
+        },
+        {
+          "date": "Eylül 2022",
+          "text": "Belediye Başkanı, 3 Ocak Kent Meydanı İstasyonu'nda öz kaynakla süren çalışmaları inceledi; dış borçlanma onayı bekleniyordu (basın)."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "2026 Kamu Yatırım Programı'nda 'Mezitli-3 Ocak HRS Hattı (1. Etap)' 9,90 km ve 24 araçla devam eden proje olarak yer aldı."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "Belediye Başkanı Seçer, Bakanlıktan borçlanma izni çıkmadığını ve iki tramvay projesine yoğunlaşıldığını söyledi (basın)."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "Belediye, Hazine ve Maliye Bakanlığı'nın metro ölçeğinde projeye dış kredi izni vermeyeceğini açıkladı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Mezitli"
+        },
+        {
+          "name": "3 Ocak"
+        }
+      ],
+      "osm_hint": "Mersin Mezitli – Gar Metrosu",
+      "sources": [
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-15",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "title": "Başkan Seçer, Toroslar Belediyesi'nin 2. Hizmet Yılı Değerlendirme Programı'na Katıldı",
+          "publisher": "Mersin Büyükşehir Belediyesi",
+          "date": "2026-04-06",
+          "url": "https://www.mersin.bel.tr/haber/baskan-secer-toroslar-belediyesinin-2-hizmet-yili-degerlendirme-programina-katildi-1775479342"
+        },
+        {
+          "title": "Başkan Seçer, 'Kent Katılımı Buluşmaları' Kapsamında Emek Örgütleri İle Bir Araya Geldi",
+          "publisher": "Mersin Büyükşehir Belediyesi",
+          "date": "2026-04-09",
+          "url": "https://www.mersin.bel.tr/haber/baskan-secer-kent-katilimi-bulusmalari-kapsaminda-emek-orgutleri-ile-bir-araya-geldi-1775762547"
+        },
+        {
+          "title": "Mersin’de borç stoğu geriledi kentte yatırımların payı arttı",
+          "publisher": "Dünya (basın; Belediye Başkanı açıklaması)",
+          "date": "2026-01-02",
+          "url": "https://www.dunya.com/sehirler/mersinde-borc-stogu-geriledi-kentte-yatirimlarin-payi-artti-haberi-809692"
+        },
+        {
+          "title": "Mersin announces construction schedule for city's first metro line",
+          "publisher": "Railway Gazette International (basın)",
+          "date": "2021-10-05",
+          "url": "https://www.railwaygazette.com/metro/mersin-announces-construction-schedule-for-citys-first-metro-line/60005.article"
+        },
+        {
+          "title": "Vahap Seçer: Biz bu ihaleyi yaptığımızda Euro 9 TL idi, şimdi Euro 18 TL!",
+          "publisher": "Sözcü (basın)",
+          "date": "2022-09-17",
+          "url": "https://www.sozcu.com.tr/vahap-secer-biz-bu-ihaleyi-yaptigimizda-euro-9-tl-idi-simdi-euro-18-tl-zarari-siz-hesaplayin-wp7369965"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://www.mersin.bel.tr/haber/baskan-secer-toroslar-belediyesinin-2-hizmet-yili-degerlendirme-programina-katildi-1775479342"
+        },
+        {
+          "url": "https://www.dunya.com/sehirler/mersinde-borc-stogu-geriledi-kentte-yatirimlarin-payi-artti-haberi-809692"
+        },
+        {
+          "url": "https://www.railwaygazette.com/metro/mersin-announces-construction-schedule-for-citys-first-metro-line/60005.article"
+        },
+        {
+          "url": "https://www.sozcu.com.tr/vahap-secer-biz-bu-ihaleyi-yaptigimizda-euro-9-tl-idi-simdi-euro-18-tl-zarari-siz-hesaplayin-wp7369965"
+        }
+      ]
+    },
+    {
+      "id": "mersin-tramvay-gar-mesot",
+      "city": "mersin",
+      "code": "T1",
+      "type": "tram",
+      "name": "Tren İstasyonu – Şehir Hastanesi – MEŞOT",
+      "status": "planned",
+      "authority": "Mersin Büyükşehir Belediyesi",
+      "km": 10,
+      "update": "Nisan 2026'da Büyükşehir Belediyesi, Mersinli Ahmet Caddesi üzerinden Tren Garı'ndan MEŞOT'a uzanacak yaklaşık 10 km'lik tramvay projesinin yatırım programına girdiğini ve Hazine'den dış borçlanma izni aşamasına getirildiğini açıkladı; ihalenin 3–4 ay içinde yapılması hedeflendi. Kasım 2026 itibarıyla ihale ilanı bulunamadı.",
+      "statusNote": "Uzunluk belediyenin 'yaklaşık 10 kilometre' ifadesidir. Yatırım programı durumu çelişkili: 6 Nisan 2026 açıklaması 'yatırım programına girdiğini', 9 Nisan 2026 açıklaması 'yatırım programına alınacak' diyor; Ocak 2026 Kamu Yatırım Programı'nda bu tramvay yer almıyor. Resmi hat kodu yok; T1 nötr kısa koddur. Kasım 2026 itibarıyla belediyeyi Başkan Vekili Gülşah Yıldırım Genç yönetiyor; projenin yeni yönetimdeki durumu açıklanmadı.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Kasım 2025",
+          "text": "Belediye meclisinde 2026 yılı içinde tramvay ihalesi yapılması hedefi açıklandı."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "Belediye Başkanı, metro yerine daha az maliyetli iki tramvay projesine yoğunlaşıldığını söyledi (basın)."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "Belediye, yaklaşık 10 km'lik Tren Garı–MEŞOT tramvayının yatırım programına girdiğini ve dış borçlanma izni aşamasına geldiğini açıkladı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Tren İstasyonu"
+        },
+        {
+          "name": "Şehir Hastanesi"
+        },
+        {
+          "name": "MEŞOT"
+        }
+      ],
+      "osm_hint": "3 Ocak Kent Meydanı–Şehir Hastanesi ve MEŞOT (Otogar) Tramvay Hattı",
+      "sources": [
+        {
+          "title": "Başkan Seçer, Toroslar Belediyesi'nin 2. Hizmet Yılı Değerlendirme Programı'na Katıldı",
+          "publisher": "Mersin Büyükşehir Belediyesi",
+          "date": "2026-04-06",
+          "url": "https://www.mersin.bel.tr/haber/baskan-secer-toroslar-belediyesinin-2-hizmet-yili-degerlendirme-programina-katildi-1775479342"
+        },
+        {
+          "title": "Başkan Seçer, 'Kent Katılımı Buluşmaları' Kapsamında Emek Örgütleri İle Bir Araya Geldi",
+          "publisher": "Mersin Büyükşehir Belediyesi",
+          "date": "2026-04-09",
+          "url": "https://www.mersin.bel.tr/haber/baskan-secer-kent-katilimi-bulusmalari-kapsaminda-emek-orgutleri-ile-bir-araya-geldi-1775762547"
+        },
+        {
+          "title": "Mersin Büyükşehir Belediye Meclisi'nin Kasım Ayı 1. Birleşimi Gerçekleştirildi",
+          "publisher": "Mersin Büyükşehir Belediyesi",
+          "date": "2025-11-10",
+          "url": "https://www.mersin.bel.tr/haber/mersin-buyuksehir-belediye-meclisinin-kasim-ayi-1-birlesimi-gerceklestirildi-1762788151"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mersin.bel.tr/haber/baskan-secer-toroslar-belediyesinin-2-hizmet-yili-degerlendirme-programina-katildi-1775479342"
+        },
+        {
+          "url": "https://www.mersin.bel.tr/haber/baskan-secer-kent-katilimi-bulusmalari-kapsaminda-emek-orgutleri-ile-bir-araya-geldi-1775762547"
+        },
+        {
+          "url": "https://www.mersin.bel.tr/haber/baskan-secer-kent-katilimi-bulusmalari-kapsaminda-emek-orgutleri-ile-bir-araya-geldi-1775762547"
+        }
+      ]
+    },
+    {
+      "id": "gaziantep-metro",
+      "city": "gaziantep",
+      "code": "M1",
+      "type": "metro",
+      "name": "Gar – Düztepe – Şehir Hastanesi",
+      "status": "planned",
+      "authority": "Gaziantep Büyükşehir Belediyesi",
+      "km": 10.5,
+      "fleet": "40 hafif raylı sistem aracı (yatırım programındaki karakteristik)",
+      "update": "Ocak 2026'da yayımlanan 2026 Kamu Yatırım Programı'nda Gaziantep Büyükşehir Belediyesi'nin devam eden projesi olarak yer alıyor (10,50 km, 40 araç, 2024–2028). Yapım ihalesi veya finansman anlaşmasına ilişkin resmi duyuru bulunamadı.",
+      "target": "2028",
+      "statusNote": "Sürücüsüz yeraltı metrosu olarak planlanıyor; 9 istasyon ve ağır bakım deposu. Hedef yıl yatırım programındaki bitiş yılıdır; belediye Ocak 2024'te '2 yılda' tamamlanmasını öngörmüştü. Resmi hat kodu yok; M1 nötr kısa koddur. Belediye kaynaklarında uzunluk 10,44 / 10,4 / 10,5 km olarak geçiyor.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Ağustos 2017",
+          "text": "Uygulamaya esas kesin proje hizmetleri sözleşmesi imzalandı; kesin projeler AYGM tarafından onaylandı."
+        },
+        {
+          "date": "Ocak 2024",
+          "text": "8082 sayılı Cumhurbaşkanı Kararı (Resmî Gazete 15 Ocak 2024, sayı 32430) ile 2024 Yatırım Programı'na alındı."
+        },
+        {
+          "date": "Şubat 2025",
+          "text": "Belediye, 37 milyar TL'lik projenin Cumhurbaşkanlığı Yatırım Programı'nda olduğunu ve 'Metro projesi başlıyor' başlığıyla 2025 projeleri arasında sundu."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "2026 Kamu Yatırım Programı'nda 'Gar-Düztepe Raylı Sistem Hattı' 10,50 km ve 40 araçla yer aldı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Gar",
+          "existing": true
+        },
+        {
+          "name": "Millet Bahçesi"
+        },
+        {
+          "name": "Dr. Ersin Arslan Hastanesi"
+        },
+        {
+          "name": "Düztepe"
+        },
+        {
+          "name": "Kahvelipınar"
+        },
+        {
+          "name": "Yeşilvadi"
+        },
+        {
+          "name": "Akkent Parkı"
+        },
+        {
+          "name": "Akkent Merkez"
+        },
+        {
+          "name": "Şehir Hastanesi"
+        }
+      ],
+      "osm_hint": "none",
+      "sources": [
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-15",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "title": "Gaziantep Metrosu İçin Onay Çıktı",
+          "publisher": "Gaziantep Büyükşehir Belediyesi",
+          "date": "2024-01-17",
+          "url": "https://gaziantep.bel.tr/en/haberler/gaziantep-metrosu-icin-onay-cikti"
+        },
+        {
+          "title": "Yatırımın Başkenti Gaziantep'e 2025 Yılında 65 Vizyon Proje!",
+          "publisher": "Gaziantep Büyükşehir Belediyesi",
+          "date": "2025-02-01",
+          "url": "https://gaziantep.bel.tr/index.php/en/haberler/yatirimin-baskenti-gaziantepe-2025-yilinda-65-vizyon-proje"
+        },
+        {
+          "title": "Gaziantep Raylı Sistem Yatırımları Doludizgin İlerliyor",
+          "publisher": "Gaziantep Büyükşehir Belediyesi",
+          "date": "tarihsiz",
+          "url": "https://www.gaziantep.bel.tr/tr/sayfa/rayli-sistem-yatirimlari-hakkinda"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://gaziantep.bel.tr/en/haberler/gaziantep-metrosu-icin-onay-cikti"
+        },
+        {
+          "url": "https://gaziantep.bel.tr/en/haberler/gaziantep-metrosu-icin-onay-cikti"
+        },
+        {
+          "url": "https://gaziantep.bel.tr/index.php/en/haberler/yatirimin-baskenti-gaziantepe-2025-yilinda-65-vizyon-proje"
+        }
+      ]
+    },
+    {
+      "id": "diyarbakir-tramvay",
+      "city": "diyarbakir",
+      "code": "T1",
+      "type": "tram",
+      "name": "Dağkapı – Gazi Yaşargil Eğitim ve Araştırma Hastanesi",
+      "status": "planned",
+      "authority": "Diyarbakır Büyükşehir Belediyesi",
+      "km": 14.1,
+      "fleet": "36 tramvay aracı (yatırım programındaki karakteristik)",
+      "update": "2026 Kamu Yatırım Programı'nda (Ocak 2026) devam eden proje olarak yer alıyor (14,10 km, 36 araç, 2016–2028). Ekim 2026'da Eş Başkan Serra Bucak projenin ilerlemesi için tüm zeminin oluştuğunu söyledi; finansman (İlbank, AFD) ve Bakanlığa devir görüşmeleri sürüyor, ihale yapılmadı.",
+      "target": "2028",
+      "statusNote": "Hedef yıl yatırım programındaki bitiş yılıdır. Resmi hat kodu yok; T1 nötr kısa koddur. Basında 20 istasyon ve 2028 açılış hedefi geçiyor; resmi kaynakta istasyon listesi bulunamadı. Ağustos 2026'da belediye yapım ve araç alımının Ulaştırma ve Altyapı Bakanlığınca üstlenilmesini talep etti (basın).",
+      "extension": false,
+      "history": [
+        {
+          "date": "2016",
+          "text": "Proje Cumhurbaşkanlığı/Kamu Yatırım Programı'na alındı (yatırım programındaki başlama yılı)."
+        },
+        {
+          "date": "Ocak 2025",
+          "text": "Eş başkanlar AFD ile ortak teknik çalışma grubu kurulması konusunda anlaştı."
+        },
+        {
+          "date": "Aralık 2025",
+          "text": "İlbank Genel Müdürü ile görüşmede İlbank'ın finansmanda tek muhatap olması değerlendirildi."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "2026 Kamu Yatırım Programı'nda 14,10 km ve 36 tramvay aracıyla yer aldı."
+        },
+        {
+          "date": "Eylül 2026",
+          "text": "Diyarbakır milletvekili, Van örneğindeki gibi Bakanlığa devir kararı alınıp alınmayacağını soru önergesiyle sordu (basın)."
+        },
+        {
+          "date": "Ekim 2026",
+          "text": "Eş Başkan Bucak, hafif raylı sistem projesinin ilerlemesi için tüm zeminin oluştuğunu ve belediyenin mali olarak hazır olduğunu söyledi."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Dağkapı"
+        },
+        {
+          "name": "Gazi Yaşargil Eğitim ve Araştırma Hastanesi"
+        }
+      ],
+      "osm_hint": "Dağkapı–Gazi Yaşargil Eğitim Araştırma Hastanesi Hattı",
+      "sources": [
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-15",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "title": "Co-Mayor Bucak: “All the Grounds for Our Light Rail Project to Move Forward Are Now in Place”",
+          "publisher": "Diyarbakır Büyükşehir Belediyesi",
+          "date": "2026-10-26",
+          "url": "https://diyarbakir.bel.tr/en/news/co-mayor-bucak-all-the-grounds-for-our-light-rail-project-to-move-forward-are-now-in-place"
+        },
+        {
+          "title": "Co-Mayors discuss Light Rail System Project with İlbank General Manager",
+          "publisher": "Diyarbakır Büyükşehir Belediyesi",
+          "date": "2025-12-24",
+          "url": "https://diyarbakir.bel.tr/en/icerik/haberler/co-mayors-discuss-light-rail-system-project-with-ilbank-general-manager"
+        },
+        {
+          "title": "Technical Cooperation Agreement with AFD for Light Rail System Project",
+          "publisher": "Diyarbakır Büyükşehir Belediyesi",
+          "date": "2025-01-16",
+          "url": "https://diyarbakir.bel.tr/en/icerik/haberler/technical-cooperation-agreement-with-afd-for-light-rail-system-project"
+        },
+        {
+          "title": "10 yıldır bekleyen Diyarbakır tramvayı Meclis gündeminde",
+          "publisher": "Evrensel (basın)",
+          "date": "2026-09-28",
+          "url": "https://www.evrensel.net/haber/6002491/10-yildir-bekleyen-diyarbakir-tramvayi-meclis-gundeminde"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://diyarbakir.bel.tr/en/news/co-mayor-bucak-all-the-grounds-for-our-light-rail-project-to-move-forward-are-now-in-place"
+        },
+        {
+          "url": "https://diyarbakir.bel.tr/en/icerik/haberler/co-mayors-discuss-light-rail-system-project-with-ilbank-general-manager"
+        }
+      ]
+    },
+    {
+      "id": "van-tramvay",
+      "city": "van",
+      "code": "T1",
+      "type": "tram",
+      "name": "Şehir Hastanesi – Havalimanı – Belediye",
+      "status": "planned",
+      "authority": "Ulaştırma ve Altyapı Bakanlığı (Van Büyükşehir Belediyesi projesi, Cumhurbaşkanı Kararı ile Bakanlıkça üstlenildi)",
+      "km": 8.67,
+      "update": "5 Eylül 2026 tarihli Resmî Gazete'de yayımlanan 11726 sayılı Cumhurbaşkanı Kararı ile hat, Ulaştırma ve Altyapı Bakanlığınca üstlenilecek kent içi raylı sistem projelerine eklendi. Ekim 2026'da Bakanlık açıklamasına göre Van'daki proje fizibilite ve etüt aşamasında.",
+      "statusNote": "8,67 km ve 11 istasyon Bakan Uraloğlu'nun açıklamasıdır (Hürriyet Bigpara aracılığıyla). Hat havalimanı bağlantısını da kapsıyor; istasyon adları açıklanmadı, yalnız uçlar verildi. Basında 2029 açılış hedefi geçiyor; resmi kaynakta bulunamadı. Resmi hat kodu yok; T1 nötr kısa koddur.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Kasım 2025",
+          "text": "Van Büyükşehir Belediyesi'nin hazırladığı etüt raporu 14 Kasım 2025'te Bakanlığa sunuldu."
+        },
+        {
+          "date": "Eylül 2026",
+          "text": "11726 sayılı Cumhurbaşkanı Kararı (Resmî Gazete 5 Eylül 2026, sayı 33361) ile hat Bakanlıkça üstlenilecek projeler listesine eklendi."
+        },
+        {
+          "date": "Ekim 2026",
+          "text": "Bakanlık, Van'ı fizibilite ve etüt çalışmaları süren planlanan kent içi raylı sistem projeleri arasında saydı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Şehir Hastanesi"
+        },
+        {
+          "name": "Belediye"
+        }
+      ],
+      "osm_hint": "none",
+      "sources": [
+        {
+          "title": "Cumhurbaşkanı Kararı 11726 (Şehir İçi Raylı Ulaşım Sistemleri ... Kararda Değişiklik)",
+          "publisher": "Resmî Gazete (sayı 33361)",
+          "date": "2026-09-05",
+          "url": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260905-4.pdf"
+        },
+        {
+          "title": "Bir ile tramvay müjdesi: Bakanlık devreye girdi",
+          "publisher": "Ulaştırma ve Altyapı Bakanı Uraloğlu, Hürriyet Bigpara aracılığıyla",
+          "date": "2026-09-05",
+          "url": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/bir-ile-tramvay-mujdesi-bakanlik-devreye-girdi_ID102243119/"
+        },
+        {
+          "title": "Raylı sistemlerde 3,25 milyar yolculuk",
+          "publisher": "Ulaştırma ve Altyapı Bakanlığı, Alomaliye aracılığıyla",
+          "date": "2026-10-07",
+          "url": "https://www.alomaliye.com/2026/10/07/rayli-sistemlerde-3-25-milyar-yolculuk/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.resmigazete.gov.tr/eskiler/2026/09/20260905-4.pdf"
+        },
+        {
+          "url": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/bir-ile-tramvay-mujdesi-bakanlik-devreye-girdi_ID102243119/"
+        },
+        {
+          "url": "https://www.alomaliye.com/2026/10/07/rayli-sistemlerde-3-25-milyar-yolculuk/"
+        }
+      ]
+    },
+    {
+      "id": "sanliurfa-hrs",
+      "city": "sanliurfa",
+      "code": "T1",
+      "type": "tram",
+      "name": "Eyyübiye – Haliliye (1. Aşama)",
+      "status": "planned",
+      "authority": "Şanlıurfa Büyükşehir Belediyesi",
+      "contractor": "Sigma İnşaat – Emre Ray Enerji – Vestan İnşaat İş Ortaklığı (ihaleyi kazandı; sözleşme imzası belgelenemedi)",
+      "fleet": "14 hafif raylı sistem aracı (ayrı ihale, İKN 2026/1334867)",
+      "update": "Birinci aşama yapım ihalesinde (İKN 2026/1327584) teklifler 13 Ekim 2026'da alındı; kesinleşen ihale kararı 21 Ekim 2026'da isteklilere bildirildi ve kazanan ortaklığa sözleşme daveti bekleniyor (basın, Ekim 2026).",
+      "statusNote": "Yapım ihalesi sonuçlandı, sözleşme ve yer teslimi belgelenemediği için 'planlanan' olarak işaretlendi. Belediye 'hafif raylı sistem' diyor; hattın yüzey/yeraltı niteliği resmi kaynakta yok, tramvay olarak sınıflandı. Resmi kaynak (belediye sitesi, EKAP) açılamadı; bilgiler basından. Uzunluk resmi olarak açıklanmadı: basında 1. etap 6,5 km (Haliliye–Eyyübiye), tüm Karaköprü–Eyyübiye hattı yaklaşık 14 km ve 15 istasyon geçiyor. Uçlar ilçe adlarıdır; istasyon adları açıklanmadı. Resmi hat kodu yok; T1 nötr kısa koddur.",
+      "extension": false,
+      "history": [
+        {
+          "date": "Eylül 2026",
+          "text": "Birinci aşama yapım ihalesi (İKN 2026/1327584) ve 14 araç alım ihalesi (İKN 2026/1334867) 13 Ekim 2026 için ilan edildi (basın)."
+        },
+        {
+          "date": "Ekim 2026",
+          "text": "13 Ekim 2026'da 7 istekli teklif verdi; Sigma İnşaat – Emre Ray Enerji – Vestan İnşaat iş ortaklığı 3.386.151.288 TL teklifle kazandı; kesinleşen karar 21 Ekim 2026'da bildirildi (basın)."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Eyyübiye"
+        },
+        {
+          "name": "Haliliye"
+        }
+      ],
+      "osm_hint": "none",
+      "sources": [
+        {
+          "title": "Şanlıurfa Hafif Raylı Sistem Hattı 1. Aşama Yapım İhalesi Sonucu",
+          "publisher": "RayHaber (basın; Yatırımlar Dergisi bilgisine dayanıyor)",
+          "date": "2026-10-24",
+          "url": "https://rayhaber.com/2026/10/sanliurfa-hafif-rayli-sistem-hatti-1-asama-yapim-ihalesi-sonucu/"
+        },
+        {
+          "title": "Raylı sistem için ihale",
+          "publisher": "nŞanlıurfa (basın)",
+          "date": "2026-09-14",
+          "url": "https://www.nsanliurfa.com/rayli-sistem-icin-ihale/"
+        },
+        {
+          "title": "Şanlıurfa’da Raylı Sistem İçin Tarihi Adım",
+          "publisher": "Kapsül Haber Ajansı, Türk Haber aracılığıyla (basın)",
+          "date": "2026-09-14",
+          "url": "https://www.turkhaber.com/haber/sanliurfa-da-rayli-sistem-icin-tarihi-adim-4154880.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nsanliurfa.com/rayli-sistem-icin-ihale/"
+        },
+        {
+          "url": "https://www.nsanliurfa.com/rayli-sistem-icin-ihale/"
+        },
+        {
+          "url": "https://rayhaber.com/2026/10/sanliurfa-hafif-rayli-sistem-hatti-1-asama-yapim-ihalesi-sonucu/"
+        }
+      ]
+    }
+  ],
+  "cities": [
+    {
+      "key": "mersin",
+      "name": "Mersin",
+      "center": [
+        34.63,
+        36.8
+      ]
+    },
+    {
+      "key": "diyarbakir",
+      "name": "Diyarbakır",
+      "center": [
+        40.22,
+        37.91
+      ]
+    },
+    {
+      "key": "van",
+      "name": "Van",
+      "center": [
+        43.38,
+        38.5
+      ]
+    },
+    {
+      "key": "sanliurfa",
+      "name": "Şanlıurfa",
+      "center": [
+        38.79,
+        37.16
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "city": "adana",
+      "name": "Turgut Özal Bulvarı–Şehir Hastanesi tramvay hattı",
+      "reason": "Yatırım programı, meclis/UKOME kararı, ihale veya finansman belgelenemedi; Ocak 2026 Kamu Yatırım Programı'nda yok. Nisan 2026 basın: 'henüz uygulama aşamasına geçmedi'.",
+      "url": "https://www.gazetevatan.com/sehirler/adana/adana-ulasiminda-yatirim-var-icraat-yok-sehir-hastanesi-ve-universite-hatti-icin-gozler-sahaya-cevrildi-2365535"
+    },
+    {
+      "city": "mersin",
+      "name": "GMK Bulvarı–Mersin Üniversitesi tramvay hattı (Yenişehir)",
+      "reason": "Belediye Nisan 2026'da Yenişehir'de bir tramvay projesi hazırladığını söyledi, ancak yatırım programı, ihale, meclis kararı veya finansman belgelenemedi.",
+      "url": "https://www.mersin.bel.tr/haber/baskan-secer-kent-katilimi-bulusmalari-kapsaminda-emek-orgutleri-ile-bir-araya-geldi-1775762547"
+    },
+    {
+      "city": "mersin",
+      "name": "Tarsus Üniversitesi–Tarsus Adliyesi tramvay hattı",
+      "reason": "Belediye Nisan 2026'da Tarsus tramvayının 'onay aşamasında' olduğunu söyledi; resmi onay, yatırım programı veya ihale belgelenemedi.",
+      "url": "https://www.mersin.bel.tr/haber/baskan-secer-toroslar-belediyesinin-2-hizmet-yili-degerlendirme-programina-katildi-1775479342"
+    },
+    {
+      "city": "malatya",
+      "name": "Malatya hafif raylı sistem (İnönü Üniversitesi–Beylerderesi)",
+      "reason": "Yalnız Belediye Başkanı'nın Mayıs 2026 meclis toplantısında 'AYGM onayı alındı, stratejik bütçe aşaması bekleniyor' açıklaması (basın) var; yatırım programı, ihale, finansman veya güzergâh onaylayan meclis/UKOME kararı belgelenemedi. 24 km / 24 istasyon / 2029 yalnız basında.",
+      "url": "https://www.gazetebirlik.com/politika/malatyada-ulasim-devrimi-rayli-sistem-icin-kritik-onay-geldi/994546"
+    },
+    {
+      "city": "hatay",
+      "name": "Hatay raylı sistem 1. etap (Antakya OSB–şehir merkezi/Meclis binası)",
+      "reason": "Belediye Nisan 2026'da 'ön ihale aşamasının tamamlandığını' duyurdu (basın); ihale, yatırım programı veya finansman belgelenemedi. 2027 hedefi yalnız basında.",
+      "url": "https://www.turkiyegazetesi.com.tr/gundem/depremler-sonrasi-ayaga-kalkan-kente-rayli-sistem-geliyor-guzergahi-bile-belli-oldu-1782321"
+    },
+    {
+      "city": "batman",
+      "name": "Bat-Ray hafif raylı sistem (1. etap Balpınar–Güvercin)",
+      "reason": "Eylül 2025'te Vali ve Belediye Başkanı tanıtım yaptı (37,7 km, 4 etap vizyonu); Eylül 2026 basınına göre ihale yapılmadı. Yatırım programı, meclis kararı veya finansman belgelenemedi.",
+      "url": "https://www.karar.com/sehir-haberleri/batmana-377-kilometrelik-dev-proje-bat-ray-100-yillik-ulasim-vizyonu-1989959"
+    },
+    {
+      "city": "van",
+      "name": "Edremit–Van Yüzüncü Yıl Üniversitesi tramvay hattı",
+      "reason": "Eylül 2025'te milletvekili açıklaması; resmi adım belgelenemedi. Bakanlıkça üstlenilen hat Şehir Hastanesi–Havalimanı–Belediye hattıdır (ayrı kayıt).",
+      "url": "https://www.karar.com/sehir-haberleri/vanda-ilk-rayli-sistem-yatirimi-edremit-universite-tramvay-hatti-icin-1991372"
+    },
+    {
+      "city": "erzurum",
+      "name": "Erzurum kent içi raylı sistem (yaklaşık 15 km)",
+      "reason": "Yalnız Bakan açıklaması (Kasım 2025, AA) ve Bakanlığın Ekim 2026'da 'fizibilite ve etüt çalışmaları devam ediyor' ifadesi; güzergâh, ihale, sözleşme veya yatırım programı kalemi bulunamadı (2026 Kamu Yatırım Programı'nda yok).",
+      "url": "https://www.trthaber.com/haber/turkiye/karadeniz-ve-dogu-anadolu-bolgeleri-kent-ici-rayli-sistemle-tanisacak-926450.html"
+    },
+    {
+      "city": "erzincan",
+      "name": "Erzincan kent içi raylı sistem (yaklaşık 12 km)",
+      "reason": "Yalnız Bakan açıklaması (Kasım 2025, AA) ve Ekim 2026'da fizibilite/etüt aşaması; güzergâh, ihale, sözleşme veya yatırım programı kalemi bulunamadı.",
+      "url": "https://www.trthaber.com/haber/turkiye/karadeniz-ve-dogu-anadolu-bolgeleri-kent-ici-rayli-sistemle-tanisacak-926450.html"
+    },
+    {
+      "city": "gaziantep",
+      "name": "Yeni tramvay hattı (2025 vizyon projesi)",
+      "reason": "Haziran 2025 basın haberi dışında güzergâh, ihale veya yatırım programı kalemi bulunamadı; 2026 programındaki Gaziantep tramvay kalemi yalnız 4 araç alımı.",
+      "url": "https://www.karar.com/sehir-haberleri/gaziantepte-rayli-sistem-atagi-basliyor-yeni-tramvay-hatti-kent-1964686"
+    },
+    {
+      "city": "sanliurfa",
+      "name": "Divanyolu nostaljik tramvayı",
+      "reason": "2025'te hizmete giren nostaljik/turistik tramvay; kapsam dışı.",
+      "url": "https://www.hurriyetdailynews.com/sanliurfa-introduces-electric-shuttles-nostalgic-tramway-in-historic-city-center-219358"
+    }
+  ],
+  "open_missing": [],
+  "data_issues": [
+    {
+      "city": "mersin",
+      "issue": "OSM'deki 'Mersin Mezitli – Gar Metrosu' resmi adla uyuşmuyor: yatırım programında 'Mezitli-3 Ocak HRS Hattı (1. Etap)', uzunluk 9,90 km (2021 sözleşmesinde 13,4 km). railway=construction etiketi, finansman izni çıkmadığı için fiilen duran bir inşaatı gösteriyor.",
+      "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    },
+    {
+      "city": "mersin",
+      "issue": "OSM'deki '3 Ocak Kent Meydanı–Şehir Hastanesi ve MEŞOT (Otogar)' tramvayı, belediyenin 2026 tanımında Tren Garı/Tren İstasyonu'ndan başlayıp Mersinli Ahmet Caddesi üzerinden Şehir Hastanesi ve MEŞOT'a giden yaklaşık 10 km'lik hat; başlangıç noktası farklı olabilir.",
+      "url": "https://www.mersin.bel.tr/haber/baskan-secer-toroslar-belediyesinin-2-hizmet-yili-degerlendirme-programina-katildi-1775479342"
+    },
+    {
+      "city": "adana",
+      "issue": "2. Etap uzunluğu kaynaklarda farklı: yatırım programında 10,20 km; basında 10,5 km / 7 istasyon ve 9,3 km geçiyor. OSM'deki yaklaşık 20 km'lik çizim büyük olasılıkla çift hat.",
+      "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    },
+    {
+      "city": "adana",
+      "issue": "OSM'deki 'Turgut Özal Bulvarı–Şehir Hastanesi Tramvay Hattı' (railway=proposed) için resmi bir adım bulunamadı.",
+      "url": "https://www.gazetevatan.com/sehirler/adana/adana-ulasiminda-yatirim-var-icraat-yok-sehir-hastanesi-ve-universite-hatti-icin-gozler-sahaya-cevrildi-2365535"
+    },
+    {
+      "city": "diyarbakir",
+      "issue": "OSM'deki yaklaşık 28 km'lik çizim resmi 14,10 km'nin iki katı; büyük olasılıkla iki yön ayrı çizilmiş.",
+      "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    },
+    {
+      "city": "malatya",
+      "issue": "OSM'deki 'Malatya Hafif Raylı Sistem (Planlanan)' yaklaşık 8 km; basında 24 km / 24 istasyon (İnönü Üniversitesi–Beylerderesi) geçiyor. Resmi güzergâh yayımlanmadı.",
+      "url": "https://www.sozcu.com.tr/turkiye-nin-9-iline-tramvay-geliyor-p358680"
+    },
+    {
+      "city": "nigde",
+      "issue": "OSM'deki isimsiz önerilen tramvay hatları (boylam 34,6–34,7, enlem 38,0) için resmi bir Niğde tramvay projesi bulunamadı; 2026 Kamu Yatırım Programı'nda Niğde'ye ait kent içi raylı sistem kalemi yok (ayrı arama tamamlanamadı).",
+      "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    },
+    {
+      "city": "gaziantep",
+      "issue": "Gaziantep metrosu uzunluğu belediye kaynaklarında 10,44 / 10,4 / 10,5 km, yatırım programında 10,50 km; belediye depo kapasitesini 39 tren seti, yatırım programı araç sayısını 40 olarak veriyor.",
+      "url": "https://gaziantep.bel.tr/en/haberler/gaziantep-metrosu-icin-onay-cikti"
+    },
+    {
+      "city": "sanliurfa",
+      "issue": "Hat uzunluğu çelişkili: eski belediye sayfasında Karaköprü–Abide–Eyyübiye 15,3 km / 16 istasyon, 2026 basınında 1. etap 6,5 km ve tüm hat yaklaşık 14 km / 15 istasyon.",
+      "url": "https://rayhaber.com/2026/10/sanliurfa-hafif-rayli-sistem-hatti-1-asama-yapim-ihalesi-sonucu/"
+    }
+  ],
+  "uncertain": [
+    "Mersin metrosu: temel 2022'de atıldı ve proje 2026 yatırım programında 'devam eden' olarak duruyor, ama Hazine dış kredi izni vermediği için inşaat fiilen ilerlemiyor. 'construction' olarak bırakıldı; durmuş bir inşaatı haritada göstermek istemiyorsanız 'planned' yapın.",
+    "Mersin tramvayı (Tren İstasyonu–Şehir Hastanesi–MEŞOT): belediye 6 Nisan 2026'da 'yatırım programına girdi', 9 Nisan 2026'da 'alınacak' dedi; Ocak 2026 programında yok. Kasım 2026'da belediyeyi Başkan Vekili Genç yönetiyor (Seçer görevde değil). Kasım 2026 itibarıyla ihale bulunamadı; 'planned' sınırda.",
+    "Şanlıurfa: yapım ihalesi 13 Ekim 2026'da yapıldı ve kazanan belli (basın), ama resmi kaynak (belediye sitesi, EKAP) açılamadı ve sözleşme imzası görülmedi. Sözleşme imzalanırsa 'construction' olur. Uzunluk resmi olarak bilinmiyor; km alanı boş bırakıldı.",
+    "Van: 8,67 km ve 11 istasyon Bakanın sözleri, Hürriyet Bigpara üzerinden (AA değil). Resmî Gazete yalnız hat adını veriyor.",
+    "Hedef yıllar (Adana, Mersin metrosu, Gaziantep, Diyarbakır için 2028) Kamu Yatırım Programı'ndaki proje bitiş yılıdır, açılış hedefi olarak ilan edilmedi.",
+    "Malatya: Belediye Başkanı Mayıs 2026'da AYGM onayı alındığını söyledi (basın). AYGM onayını resmi adım sayarsanız 'planned' olarak eklenebilir; malatya.bel.tr Türkiye dışından erişilemedi.",
+    "Erzurum (15 km) ve Erzincan (12 km): Bakanlık projesi olarak planlanıyor ama yalnız fizibilite/etüt aşamasında ve güzergâh yok; 'rejected'e kondu.",
+    "Hatay: Nisan 2026'da 'ön ihale aşaması tamamlandı' (TCDD teknik firmasıyla) ifadesi belirsiz; gerçek bir ihale bulunamadı.",
+    "Antalya (bölge listemde değil ama güneyde): 2026 Kamu Yatırım Programı'nda yeni proje 'Konyaaltı-Varsak Tramvay Hattı' (15,13 km, 17 tramvay aracı, 2026–2028) var. Başka bir ajan kapsamıyorsa eklenmeli.",
+    "Ortak web arama kotası doldu: Kahramanmaraş, Elazığ, Adıyaman, Mardin, Osmaniye ve Niğde için ayrıca arama yapılamadı. Yalnız 2026 Kamu Yatırım Programı tarandı ve bu illerde kent içi raylı sistem kalemi yok (Kahramanmaraş'ta yalnız elektrikli otobüs). Gaziray uzatmaları ve bir Mersin–Adana banliyö hattı da doğrulanamadı.",
+    "Mersin metrosu yüklenicisi (Dillingham – Kıska Kom) yalnız Railway Gazette'te bulundu, resmi kaynakta değil."
+  ]
+}

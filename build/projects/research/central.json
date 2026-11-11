@@ -1,0 +1,1249 @@
+{
+  "lines": [
+    {
+      "id": "ankara-a1-natoyolu",
+      "city": "ankara",
+      "code": "A1",
+      "type": "metro",
+      "name": "Dikimevi – Natoyolu",
+      "status": "construction",
+      "authority": "Ankara Büyükşehir Belediyesi (EGO Genel Müdürlüğü)",
+      "km": 7.46,
+      "fleet": "66 hafif raylı sistem aracı (2026 Yatırım Programı)",
+      "update": "Kasım 2026'da General Zeki Doğan istasyonu inşaatı sürüyor; inşaat için kapatılan Natoyolu Caddesi 10 Kasım 2026'dan itibaren geçici olarak trafiğe açıldı.",
+      "target": "2028",
+      "statusNote": "Hedef yıl, 2026 Yatırım Programı'ndaki proje süresinin (2022–2028) bitiş yılıdır; ABB ayrı bir açılış tarihi açıklamadı. Hattın tamamı yer altında. Yüklenici adı resmi kaynakta bulunamadı (basında Gülermak geçiyor). Finansman: EBRD ve AFD'den 250 milyon avro kredi.",
+      "extension": true,
+      "extends": "ankara-a1",
+      "history": [
+        {
+          "date": "Haziran 2023",
+          "text": "EBRD ve AFD ile 250 milyon avroluk kredi sözleşmesi imzalandı."
+        },
+        {
+          "date": "Ocak 2024",
+          "text": "İlk yapım ihalesi teklifler yaklaşık maliyeti aştığı için iptal edildi."
+        },
+        {
+          "date": "Haziran 2024",
+          "text": "İhale süreci yeniden başlatıldı."
+        },
+        {
+          "date": "Nisan 2025",
+          "text": "ABB ihale sürecinin tamamlandığını duyurdu."
+        },
+        {
+          "date": "Haziran 2025",
+          "text": "13 Haziran 2025'te temel atıldı."
+        },
+        {
+          "date": "Ağustos 2025",
+          "text": "Şantiye ve segment üretim tesisi kuruluyor; TBM siparişleri verildi."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "İnşaat nedeniyle EGO otobüs hatlarında düzenleme yapıldı."
+        },
+        {
+          "date": "Kasım 2026",
+          "text": "General Zeki Doğan istasyonu inşaatı sürüyor; Natoyolu Caddesi geçici olarak trafiğe açıldı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Dikimevi",
+          "existing": true
+        },
+        {
+          "name": "Abidinpaşa"
+        },
+        {
+          "name": "Âşık Veysel"
+        },
+        {
+          "name": "Tuzluçayır"
+        },
+        {
+          "name": "General Zeki Doğan"
+        },
+        {
+          "name": "Fahri Korutürk"
+        },
+        {
+          "name": "Cengizhan"
+        },
+        {
+          "name": "Akşemsettin"
+        },
+        {
+          "name": "Natoyolu"
+        }
+      ],
+      "osm_hint": "Ankaray Natoyolu Uzatması Planı",
+      "sources": [
+        {
+          "title": "Natoyolu Caddesi'nde Otobüs Güzergahları Yeniden Düzenleniyor",
+          "publisher": "EGO Genel Müdürlüğü",
+          "date": "2026-11-09",
+          "url": "https://www.ego.gov.tr/tr/haber/6507/natoyolu-caddesinde-otobus-guzergahlari-yeniden-duzenleniyor"
+        },
+        {
+          "title": "Natoyolu Metro İnşaat Çalışmaları Nedeniyle Alternatif Hat Düzenlemeleri",
+          "publisher": "EGO Genel Müdürlüğü",
+          "date": "2026-01-28",
+          "url": "https://www.ego.gov.tr/tr/haber/6396/-natoyolu-metro-insaat-calismalari-nedeniyle-alternatif-hat-duzenlemeleri"
+        },
+        {
+          "title": "Mamak Metrosu'nun Temeli Atıldı",
+          "publisher": "EGO Genel Müdürlüğü",
+          "date": "2025-06-13",
+          "url": "https://www.ego.gov.tr/tr/haber/6307/mamak-metrosunun-temeli-atildi"
+        },
+        {
+          "title": "Temeli atıldı, takvim netleşti: Mamak Metrosu'nda çalışmalar hızla ilerliyor (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2025-08-16",
+          "url": "https://web.archive.org/web/20251004010706/https://www.ankara.bel.tr/haberler/temeli-atildi-takvim-netlesti-mamak-metrosu-nda-calismalar-hizla-ilerliyor-17862"
+        },
+        {
+          "title": "Yavaş: Sadece bugünü değil, geleceği de planlıyoruz (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2025-06-14",
+          "url": "https://web.archive.org/web/20250701104746/http://www.ankara.bel.tr/haberler/ankara-da-rayli-ulasimda-tarihi-gun-17797"
+        },
+        {
+          "title": "Dikimevi Natoyolu Metro Projesi'nde İhale Süreci Tekrar Başladı",
+          "publisher": "EGO Genel Müdürlüğü",
+          "date": "2024-07-30",
+          "url": "https://www.ego.gov.tr/tr/haber/6227/dikimevinatoyolu-metro-projesinde-ihale-sureci-tekrar-basladi"
+        },
+        {
+          "title": "Başkentte 12 Yıl Sonra Metro Projesi: Dikimevi Mamak Metro Projesi'nde İmzalar Atıldı",
+          "publisher": "EGO Genel Müdürlüğü",
+          "date": "2023-06-25",
+          "url": "https://www.ego.gov.tr/tr/haber/6066/baskentte-12-yil-sonra-metro-projesi-dikimevimamak-metro-projesinde-imzalar-atildi"
+        },
+        {
+          "title": "ABB'den metro atağı: hattın hangi duraklardan geçeceği belli oldu (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2025-04-08",
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ego.gov.tr/tr/haber/6507/natoyolu-caddesinde-otobus-guzergahlari-yeniden-duzenleniyor"
+        },
+        {
+          "url": "https://www.ego.gov.tr/tr/haber/6307/mamak-metrosunun-temeli-atildi"
+        },
+        {
+          "url": "https://web.archive.org/web/20250701104746/http://www.ankara.bel.tr/haberler/ankara-da-rayli-ulasimda-tarihi-gun-17797"
+        },
+        {
+          "url": "https://web.archive.org/web/20251004010706/https://www.ankara.bel.tr/haberler/temeli-atildi-takvim-netlesti-mamak-metrosu-nda-calismalar-hizla-ilerliyor-17862"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ankara-esenboga",
+      "city": "ankara",
+      "code": "ESB",
+      "type": "metro",
+      "name": "YHT Gar – Esenboğa Havalimanı – Yıldırım Beyazıt Üniversitesi",
+      "status": "construction",
+      "authority": "Ulaştırma ve Altyapı Bakanlığı (Altyapı Yatırımları Genel Müdürlüğü)",
+      "km": 36,
+      "fleet": "54 metro aracı (2026 Yatırım Programı)",
+      "update": "Ekim 2026'da Bakanlık, hattın üç kesiminde de yer teslimini tamamladığını, mobilizasyon ve şantiye kurulumunun sürdüğünü açıkladı.",
+      "target": "2029",
+      "statusNote": "Resmi hat kodu yok; ESB nötr kısaltmadır. Hedef yıl, 2026 Yatırım Programı'ndaki proje süresinin (2019–2029) bitiş yılıdır. Yatırım Programı uzunluğu 37 km, Bakanlık açıklaması 36 km diyor. Kesimler: YHT Gar–Siteler 8,5 km, Siteler–Pursaklar 12 km, Pursaklar–Esenboğa 15,5 km (her birinde 4 istasyon); depo Pursaklar–Esenboğa kesiminde. Yüklenici adları yalnızca ticari basında geçiyor, resmi kaynak bulunamadı. YHT Gar, mevcut M4 Gar istasyonu ve Başkentray ile aktarma noktası olarak 'existing' işaretlendi.",
+      "history": [
+        {
+          "date": "Mart 2024",
+          "text": "Bakanlık, AKM–Esenboğa metro hattı yapımını 2024 yatırım programına aldıklarını açıkladı (34,9 km)."
+        },
+        {
+          "date": "Nisan 2025",
+          "text": "Güzergâhta Etlik Şehir Hastanesi, Pursaklar ve Çubuk yapılaşmasına göre revizyon başlatıldı."
+        },
+        {
+          "date": "Mayıs 2026",
+          "text": "Hat YHT Gar'dan başlayacak ve Yıldırım Beyazıt Üniversitesi'ne uzanacak şekilde yeniden kurgulandı; yapım ihalesi 30 Haziran'a planlandı."
+        },
+        {
+          "date": "Ekim 2026",
+          "text": "Üç kesimde de yer teslimi tamamlandı; mobilizasyon ve şantiye kurulumu sürüyor."
+        }
+      ],
+      "stations": [
+        {
+          "name": "YHT Gar",
+          "existing": true
+        },
+        {
+          "name": "Hastane"
+        },
+        {
+          "name": "Demirlibahçe"
+        },
+        {
+          "name": "Siteler"
+        },
+        {
+          "name": "Solfasol"
+        },
+        {
+          "name": "Kuyubaşı",
+          "existing": true
+        },
+        {
+          "name": "Kuzey Ankara"
+        },
+        {
+          "name": "Pursaklar"
+        },
+        {
+          "name": "Sarayköy"
+        },
+        {
+          "name": "Fuar"
+        },
+        {
+          "name": "Esenboğa"
+        },
+        {
+          "name": "Yıldırım Beyazit Üniversite"
+        }
+      ],
+      "osm_hint": "Önerilen istasyon platformları (YHT Garı, Hastaneler, Demirlibahçe, Siteler, Güneşevler-Solfasol, Kuyubaşı, Kuzey Ankara, Pursaklar, Sarayköy, Fuar, Esenboğa, Üniversite) ve Pursaklar yakınındaki adsız construction yolları",
+      "sources": [
+        {
+          "title": "YHT Gar-Esenboğa Havalimanı arası 36 kilometrelik raylı sistemle bağlanacak",
+          "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+          "date": "2026-10-01",
+          "url": "https://www.uab.gov.tr/haberler/yht-gar-esenboga-havalimani-arasi-36-kilometrelik-rayli-sistemle-baglanacak/"
+        },
+        {
+          "title": "Ankara'nın kent içi ulaşımına müjde",
+          "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+          "date": "2026-05-22",
+          "url": "https://www.uab.gov.tr/haberler/ankaranin-kent-ici-ulasimina-muejde/"
+        },
+        {
+          "title": "Ulaşımın başkenti Ankara",
+          "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+          "date": "2025-04-14",
+          "url": "https://www.uab.gov.tr/haberler/ulasimin-baskenti-ankara"
+        },
+        {
+          "title": "Elmadağ'a banliyö seferleri başladı",
+          "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+          "date": "2024-03-25",
+          "url": "https://www.uab.gov.tr/haberler/elmadag-a-banliyo-seferleri-basladi"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.uab.gov.tr/haberler/yht-gar-esenboga-havalimani-arasi-36-kilometrelik-rayli-sistemle-baglanacak/"
+        },
+        {
+          "url": "https://www.uab.gov.tr/haberler/yht-gar-esenboga-havalimani-arasi-36-kilometrelik-rayli-sistemle-baglanacak/"
+        },
+        {
+          "url": "https://www.uab.gov.tr/haberler/ankaranin-kent-ici-ulasimina-muejde/"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ankara-baskentray-yenikent",
+      "city": "ankara",
+      "code": "Başkentray",
+      "type": "suburban",
+      "name": "Sincan – Yenikent",
+      "status": "construction",
+      "authority": "Ulaştırma ve Altyapı Bakanlığı",
+      "km": 12,
+      "progress": 96.9,
+      "update": "Haziran 2026 itibarıyla fiziki ilerleme %96,9; köprü ve aç-kapa tüneller tamamlandı, hat serimi, balast, kaynak ve katener montajı son aşamada (Temmuz 2026).",
+      "target": "2026 (altyapı ve üstyapı işleri)",
+      "statusNote": "Başkentray'ın hat numarası yok; kod olarak hizmetin adı kullanıldı. Hat, Sincan (OSB)-Yenikent-Kazan Soda Demiryolu Projesi'nin yolcu kısmıdır; Yenikent–Kazan Soda arasındaki 4.017 m'lik yük iltisak hattı kapsam dışı bırakıldı. Bakanlık 2026 içinde altyapı ve üstyapı işlerini bitirmeyi hedefliyor, yolcu servisi için tarih vermedi; Yatırım Programı'nda proje süresi 2014–2027.",
+      "extension": true,
+      "extends": "ankara-baskentray",
+      "history": [
+        {
+          "date": "Şubat 2026",
+          "text": "Bakanlık projede %95 ilerleme açıkladı."
+        },
+        {
+          "date": "Temmuz 2026",
+          "text": "Haziran 2026 itibarıyla fiziki ilerleme %96,9 olarak açıklandı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Sincan",
+          "existing": true
+        },
+        {
+          "name": "OSB"
+        },
+        {
+          "name": "Yenikent-1"
+        },
+        {
+          "name": "Yenikent-2"
+        }
+      ],
+      "osm_hint": "Başkentray Sincan - Akçaören Hattı İnşaatı / Başkentray Akçaören - Sincan Hattı İnşaatı",
+      "sources": [
+        {
+          "title": "Ankara'nın batısında raylı ulaşıma yeni halka",
+          "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+          "date": "2026-07-23",
+          "url": "https://www.uab.gov.tr/haberler/ankaranin-batisinda-rayli-ulasima-yeni-halka/"
+        },
+        {
+          "title": "600 bin Ankaralı daha Başkentray'la buluşacak",
+          "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+          "date": "2026-02-01",
+          "url": "https://www.uab.gov.tr/haberler/600-bin-ankarali-daha-baskentray-la-bulusacak/"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.uab.gov.tr/haberler/ankaranin-batisinda-rayli-ulasima-yeni-halka/"
+        },
+        {
+          "url": "https://www.uab.gov.tr/haberler/ankaranin-batisinda-rayli-ulasima-yeni-halka/"
+        },
+        {
+          "url": "https://www.uab.gov.tr/haberler/600-bin-ankarali-daha-baskentray-la-bulusacak/"
+        },
+        {
+          "url": "https://www.uab.gov.tr/haberler/ankaranin-batisinda-rayli-ulasima-yeni-halka/"
+        }
+      ]
+    },
+    {
+      "id": "ankara-m2-koru-baglica",
+      "city": "ankara",
+      "code": "M2",
+      "type": "metro",
+      "name": "Koru – Yaşamkent / Bağlıca",
+      "status": "planned",
+      "authority": "Ankara Büyükşehir Belediyesi (EGO Genel Müdürlüğü)",
+      "km": 9.36,
+      "update": "Nisan 2026'da ABB, hattın yatırım programına alındığını ve yapım ihalesine hazırlandığını açıkladı.",
+      "target": "2029",
+      "statusNote": "Resmi adım: 2026 Yatırım Programı'na yeni proje olarak alındı (2026E06-283687, 2026–2029); hedef yıl bu sürenin bitiş yılıdır. Hat ortak bir istasyondan sonra Yaşamkent ve Bağlıca kollarına ayrılıyor; istasyonlar ABB'nin verdiği sırayla listelendi, kol ayrımı resmi kaynakta istasyon bazında gösterilmiyor.",
+      "extension": true,
+      "extends": "ankara-m2",
+      "history": [
+        {
+          "date": "Nisan 2025",
+          "text": "Ulaştırma ve Altyapı Bakanlığı uzatma projesini onayladı."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "2026 Yatırım Programı'na alındı."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "ABB yapım ihalesi sürecine hazırlandığını açıkladı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Koru",
+          "existing": true
+        },
+        {
+          "name": "Konutkent"
+        },
+        {
+          "name": "Yaşamkent Giriş"
+        },
+        {
+          "name": "Yaşamkent Merkez"
+        },
+        {
+          "name": "Başkent Üniversitesi"
+        },
+        {
+          "name": "Bağlıca"
+        }
+      ],
+      "osm_hint": "M2 Bağlıca - Yaşamkent Uzatması",
+      "sources": [
+        {
+          "title": "Ankara'ya 4 yeni metro hattı: toplam 44 kilometrelik dev ulaşım hamlesi (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2026-04-08",
+          "url": "https://web.archive.org/web/20260408144019/https://www.ankara.bel.tr/haberler/ankara-ya-4-yeni-metro-hatti-toplam-44-kilometrelik-dev-ulasim-hamlesi-18202"
+        },
+        {
+          "title": "ABB'den metro atağı: hattın hangi duraklardan geçeceği belli oldu (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2025-04-08",
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://web.archive.org/web/20260408144019/https://www.ankara.bel.tr/haberler/ankara-ya-4-yeni-metro-hatti-toplam-44-kilometrelik-dev-ulasim-hamlesi-18202"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        }
+      ]
+    },
+    {
+      "id": "ankara-m5-dikmen",
+      "city": "ankara",
+      "code": "M5",
+      "type": "metro",
+      "name": "Kızılay – Dikmen",
+      "status": "planned",
+      "authority": "Ankara Büyükşehir Belediyesi (EGO Genel Müdürlüğü)",
+      "km": 15.25,
+      "update": "Nisan 2026'da ABB, Bakanlık onay süreçlerinin tamamlandığını, yatırım programına alınması için Cumhurbaşkanlığı onayının beklendiğini açıkladı.",
+      "statusNote": "Resmi adım: Ulaştırma ve Altyapı Bakanlığı proje onayı (ABB açıklaması, Nisan 2026). Yatırım Programı'nda henüz yok. Uzunluk ABB kaynaklarında 15,2–15,45 km arasında değişiyor; en güncel değer (Nisan 2026) kullanıldı. Kızılay, aktarma yapılacak mevcut istasyon olarak eklendi.",
+      "history": [
+        {
+          "date": "Nisan 2025",
+          "text": "Proje revizyonları tamamlandı, son onay aşamasına geçildi."
+        },
+        {
+          "date": "Haziran 2025",
+          "text": "ABB, yatırım programına alınması için Strateji ve Bütçe Başkanlığı'na başvurduğunu açıkladı."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "Bakanlık onay süreçleri tamamlandı; Cumhurbaşkanlığı onayı bekleniyor."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Kızılay",
+          "existing": true
+        },
+        {
+          "name": "Esat"
+        },
+        {
+          "name": "Kuğulu Park"
+        },
+        {
+          "name": "Dikmen Vadisi"
+        },
+        {
+          "name": "Çetin Emeç"
+        },
+        {
+          "name": "Öveçler"
+        },
+        {
+          "name": "Dikmen"
+        },
+        {
+          "name": "Malazgirt"
+        },
+        {
+          "name": "Keklik Pınarı"
+        },
+        {
+          "name": "Akpınar"
+        },
+        {
+          "name": "Atatürk Sitesi"
+        },
+        {
+          "name": "Oran Şehri"
+        }
+      ],
+      "osm_hint": "M5 Dikmen Uzatması",
+      "sources": [
+        {
+          "title": "Ankara'ya 4 yeni metro hattı: toplam 44 kilometrelik dev ulaşım hamlesi (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2026-04-08",
+          "url": "https://web.archive.org/web/20260408144019/https://www.ankara.bel.tr/haberler/ankara-ya-4-yeni-metro-hatti-toplam-44-kilometrelik-dev-ulasim-hamlesi-18202"
+        },
+        {
+          "title": "ABB'den metro atağı: hattın hangi duraklardan geçeceği belli oldu (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2025-04-08",
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        },
+        {
+          "title": "Yavaş: Sadece bugünü değil, geleceği de planlıyoruz (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2025-06-14",
+          "url": "https://web.archive.org/web/20250701104746/http://www.ankara.bel.tr/haberler/ankara-da-rayli-ulasimda-tarihi-gun-17797"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://web.archive.org/web/20260408144019/https://www.ankara.bel.tr/haberler/ankara-ya-4-yeni-metro-hatti-toplam-44-kilometrelik-dev-ulasim-hamlesi-18202"
+        },
+        {
+          "url": "https://web.archive.org/web/20260408144019/https://www.ankara.bel.tr/haberler/ankara-ya-4-yeni-metro-hatti-toplam-44-kilometrelik-dev-ulasim-hamlesi-18202"
+        },
+        {
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        }
+      ]
+    },
+    {
+      "id": "ankara-m6-cayyolu-sincan",
+      "city": "ankara",
+      "code": "M6",
+      "type": "metro",
+      "name": "Çayyolu – Sincan bağlantı hattı",
+      "status": "planned",
+      "authority": "Ankara Büyükşehir Belediyesi (EGO Genel Müdürlüğü)",
+      "km": 12.5,
+      "update": "Nisan 2026'da ABB, Bakanlık onay süreçlerinin tamamlandığını, yatırım programına alınması için Cumhurbaşkanlığı onayının beklendiğini açıkladı.",
+      "statusNote": "Resmi adım: Ulaştırma ve Altyapı Bakanlığı onayı (ABB, Nisan 2026). Ayrıca 2026 Yatırım Programı'nda Bakanlığın 'Ankara Metroları M2-M3 Bağlantı Hattı' etüt-proje kalemi (2020–2027) var; aynı koridor olabilir, resmi kaynak eşleştirmiyor. M2 ve M3 tarafındaki uç istasyonlar resmi listede adlandırılmadığı için yalnızca ara istasyonlar verildi (Nisan 2025 listesi; Haziran 2025 konuşmasında Devlet Mahallesi de sayıldı).",
+      "history": [
+        {
+          "date": "Nisan 2025",
+          "text": "Ön proje ve fizibilite raporu Bakanlıkça onaylandı; kesin proje çalışmaları sürüyor."
+        },
+        {
+          "date": "Nisan 2026",
+          "text": "Bakanlık onay süreçleri tamamlandı; Cumhurbaşkanlığı onayı bekleniyor."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Ahimesut"
+        },
+        {
+          "name": "Alsancak"
+        },
+        {
+          "name": "Ahi Evran"
+        },
+        {
+          "name": "Eryaman YHT"
+        },
+        {
+          "name": "Şapka Devrimi"
+        }
+      ],
+      "osm_hint": "M2-M3 Bağlantı Hattı (muhtemelen M2 Bağlıca - Devlet Mahallesi Uzatması da)",
+      "sources": [
+        {
+          "title": "Ankara'ya 4 yeni metro hattı: toplam 44 kilometrelik dev ulaşım hamlesi (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2026-04-08",
+          "url": "https://web.archive.org/web/20260408144019/https://www.ankara.bel.tr/haberler/ankara-ya-4-yeni-metro-hatti-toplam-44-kilometrelik-dev-ulasim-hamlesi-18202"
+        },
+        {
+          "title": "ABB'den metro atağı: hattın hangi duraklardan geçeceği belli oldu (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2025-04-08",
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://web.archive.org/web/20260408144019/https://www.ankara.bel.tr/haberler/ankara-ya-4-yeni-metro-hatti-toplam-44-kilometrelik-dev-ulasim-hamlesi-18202"
+        },
+        {
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ankara-m4-forum",
+      "city": "ankara",
+      "code": "M4",
+      "type": "metro",
+      "name": "Şehitler – Forum (Ovacık)",
+      "status": "planned",
+      "authority": "Ankara Büyükşehir Belediyesi (EGO Genel Müdürlüğü)",
+      "km": 7.69,
+      "update": "Nisan 2025'te ABB, uzatma projesinin Ulaştırma ve Altyapı Bakanlığı tarafından onaylandığını açıkladı; Nisan 2026'da ihaleye hazırlanan hatlar listesinde yer almadı.",
+      "statusNote": "Tek resmi adım Bakanlık proje onayı (Nisan 2025); Yatırım Programı'nda yok. Nisan 2026 ABB listesinde bulunmaması nedeniyle durumu belirsiz (bkz. uncertain).",
+      "extension": true,
+      "extends": "ankara-m4",
+      "history": [
+        {
+          "date": "Nisan 2025",
+          "text": "M4 Şehitler–Forum uzatma projesi Bakanlıkça onaylandı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Şehitler",
+          "existing": true
+        },
+        {
+          "name": "Sanatoryum"
+        },
+        {
+          "name": "Ufuktepe"
+        },
+        {
+          "name": "Ovacık"
+        },
+        {
+          "name": "Forum"
+        }
+      ],
+      "osm_hint": "M4 Keçiören Uzatması",
+      "sources": [
+        {
+          "title": "ABB'den metro atağı: hattın hangi duraklardan geçeceği belli oldu (arşiv kopyası)",
+          "publisher": "Ankara Büyükşehir Belediyesi",
+          "date": "2025-04-08",
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        },
+        {
+          "url": "https://web.archive.org/web/20250408102857/https://www.ankara.bel.tr/haberler/abb-den-metro-atagi-hattin-hangi-duraklardan-gececegi-belli-oldu-17698"
+        }
+      ]
+    },
+    {
+      "id": "ankara-gar-sehir-hastanesi",
+      "city": "ankara",
+      "code": "GAR-ŞH",
+      "type": "metro",
+      "name": "YHT Gar – Şehir Hastanesi",
+      "status": "planned",
+      "authority": "Ulaştırma ve Altyapı Bakanlığı",
+      "update": "2026 Yatırım Programı'nda Bakanlığın etüt-proje kalemi olarak yer alıyor (2020–2027); yapım kalemi yok.",
+      "statusNote": "Resmi hat kodu yok; GAR-ŞH nötr kısaltmadır. Tek resmi adım Yatırım Programı'ndaki etüt-proje kalemi; uzunluk ve istasyon açıklanmadı, yalnızca uçlar verildi. Daha önce demiryolu sektöründeki 'YHT Gar-Şehir Hastanesi-Depo Sahası Raylı Sis. Bağ.' projesinin devamı.",
+      "stations": [
+        {
+          "name": "YHT Gar"
+        },
+        {
+          "name": "Şehir Hastanesi"
+        }
+      ],
+      "osm_hint": "YHT Gar-Etlik Şehir Hastanesi-Ovacık Hattı",
+      "sources": [
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "konya-sehir-hastanesi-yeni-sanayi",
+      "city": "konya",
+      "code": "ŞH-YS",
+      "type": "tram",
+      "name": "Şehir Hastanesi – Yeni Sanayi",
+      "status": "construction",
+      "authority": "Konya Büyükşehir Belediyesi (öz kaynak)",
+      "km": 10,
+      "update": "Eylül 2026'da KBB, bu kesimde ray işlerinin bittiğini, direklerin dikildiğini ve katener teli çekiminin sürdüğünü açıkladı; tamamlanınca ikinci etap olarak açılacak.",
+      "target": "2026 sonu – 2027 başı",
+      "statusNote": "Resmi hat kodu yok; ŞH-YS nötr kısaltmadır. Stadyum–Şehir Hastanesi–Adliye tramvay hattının (toplam 21,1 km) belediyece yapılan birinci etabıdır; Adliye–Şehir Hastanesi (1,4 km) kısmı 9 Eylül 2026'da açıldı. Uzunluk: Eylül 2026 açıklamasında 10 km; önceki açıklamalarda 1,4 km'lik Adliye bağlantısıyla birlikte 11,1–11,2 km ve 11–13 istasyon. Hedef, Ocak 2026'da 21,1 km'lik hattın tamamı için verilen tarihtir.",
+      "extension": true,
+      "extends": "konya-h4",
+      "history": [
+        {
+          "date": "Nisan 2024",
+          "text": "Stadyum–Şehir Hastanesi tramvay hattı 1. etabının temeli atıldı."
+        },
+        {
+          "date": "Haziran 2025",
+          "text": "11,1 km'lik birinci etapta işlerin %30'u tamamlandı."
+        },
+        {
+          "date": "Eylül 2026",
+          "text": "Adliye–Şehir Hastanesi (1,4 km) açıldı; Şehir Hastanesi–Yeni Sanayi'de katener çekimi sürüyor."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Şehir Hastanesi",
+          "existing": true
+        },
+        {
+          "name": "Yeni Sanayi"
+        }
+      ],
+      "osm_hint": "Adliye - Şehir Hastanesi - Stadyum Tramvay Hattı",
+      "sources": [
+        {
+          "title": "Konya'nın raylı sistem ağını güçlendirecek Adliye-Şehir Hastanesi hattı açıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-09-09",
+          "url": "https://www.konya.bel.tr/haber/konyanin-rayli-sistem-agini-guclendirecek-adliye-sehir-hastanesi-hatti-acildi"
+        },
+        {
+          "title": "Başkan Altay basın mensuplarıyla birlikte raylı sistem projelerini inceledi",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-08-11",
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-basin-mensuplariyla-birlikte-rayli-sistem-projelerini-inceledi"
+        },
+        {
+          "title": "Konya'nın gelişen raylı sistem yolculuğunda önemli bir yatırımın daha temeli atıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-01-26",
+          "url": "https://www.konya.bel.tr/haber/konyanin-gelisen-rayli-sistem-yolculugunda-onemli-bir-yatirimin-daha-temeli-atildi"
+        },
+        {
+          "title": "Başkan Altay: 11.1 km'lik Şehir Hastanesi-Yeni Sanayi tramvay hattının yüzde 30'luk kısmını tamamladık",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2025-06-18",
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-111-kmlik-sehir-hastanesi-yeni-sanayi-tramvay-hattinin-yuzde-30luk-kismini-tamamladik"
+        },
+        {
+          "title": "Başkan Altay: Konya raylı sistemi için tarihi başlangıç yapıyoruz",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2024-04-30",
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-konya-rayli-sistemi-icin-tarihi-baslangic-yapiyoruz"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.konya.bel.tr/haber/konyanin-rayli-sistem-agini-guclendirecek-adliye-sehir-hastanesi-hatti-acildi"
+        },
+        {
+          "url": "https://www.konya.bel.tr/haber/konyanin-gelisen-rayli-sistem-yolculugunda-onemli-bir-yatirimin-daha-temeli-atildi"
+        }
+      ]
+    },
+    {
+      "id": "konya-yeni-sanayi-stadyum",
+      "city": "konya",
+      "code": "YS-ST",
+      "type": "tram",
+      "name": "Yeni Sanayi – Stadyum",
+      "status": "construction",
+      "authority": "Ulaştırma ve Altyapı Bakanlığı (Altyapı Yatırımları Genel Müdürlüğü)",
+      "km": 9.7,
+      "update": "Ağustos 2026'da Real, Otogar, Yurtlar Bölgesi, Aksaray ve TÜMOSAN kavşaklarında ve depo sahasında yapım sürüyordu; Eylül 2026'da TÜMOSAN, Aksaray Yolu, Yurtlar, Otogar ve Barış Caddesi kavşak işleri devam ediyor.",
+      "target": "2026 sonu – 2027 başı",
+      "statusNote": "Resmi hat kodu yok; YS-ST nötr kısaltmadır. Stadyum–Şehir Hastanesi tramvay hattının Bakanlıkça yapılan 2. etabı. Uzunluk 2026 Yatırım Programı'ndan (9,70 km); KBB açıklamalarında 10 km (Temmuz 2025) ve 11,2 km (Ağustos 2026) geçiyor. Temmuz 2025'te 10 istasyon açıklandı. Hedef, Ocak 2026'da 21,1 km'lik hattın tamamı için verilen tarihtir; Yatırım Programı'nda proje süresi 2024–2029.",
+      "history": [
+        {
+          "date": "Mayıs 2025",
+          "text": "AYGM yapım ihalesini 30 Mayıs'ta yaptı."
+        },
+        {
+          "date": "Temmuz 2025",
+          "text": "Yer teslimi yapıldı, 7 Temmuz'da temel atıldı."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "TÜMOSAN köprülü kavşağının temeli atıldı."
+        },
+        {
+          "date": "Ağustos 2026",
+          "text": "Kavşaklarda ve depo inşaatında yapım sürüyor."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Yeni Sanayi"
+        },
+        {
+          "name": "Stadyum"
+        }
+      ],
+      "osm_hint": "Adliye - Şehir Hastanesi - Stadyum Tramvay Hattı",
+      "sources": [
+        {
+          "title": "Başkan Altay basın mensuplarıyla birlikte raylı sistem projelerini inceledi",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-08-11",
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-basin-mensuplariyla-birlikte-rayli-sistem-projelerini-inceledi"
+        },
+        {
+          "title": "Konya'nın raylı sistem ağını güçlendirecek Adliye-Şehir Hastanesi hattı açıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-09-09",
+          "url": "https://www.konya.bel.tr/haber/konyanin-rayli-sistem-agini-guclendirecek-adliye-sehir-hastanesi-hatti-acildi"
+        },
+        {
+          "title": "Konya'nın gelişen raylı sistem yolculuğunda önemli bir yatırımın daha temeli atıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-01-26",
+          "url": "https://www.konya.bel.tr/haber/konyanin-gelisen-rayli-sistem-yolculugunda-onemli-bir-yatirimin-daha-temeli-atildi"
+        },
+        {
+          "title": "Stadyum-Şehir Hastanesi tramvay hattı 2. etabının temeli atıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2025-07-07",
+          "url": "https://www.konya.bel.tr/haber/stadyum-sehir-hastanesi-tramvay-hatti-2-etabinin-temeli-atildi"
+        },
+        {
+          "title": "Başkan Altay: 11.1 km'lik Şehir Hastanesi-Yeni Sanayi tramvay hattının yüzde 30'luk kısmını tamamladık",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2025-06-18",
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-111-kmlik-sehir-hastanesi-yeni-sanayi-tramvay-hattinin-yuzde-30luk-kismini-tamamladik"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-basin-mensuplariyla-birlikte-rayli-sistem-projelerini-inceledi"
+        },
+        {
+          "url": "https://www.konya.bel.tr/haber/stadyum-sehir-hastanesi-tramvay-hatti-2-etabinin-temeli-atildi"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "konya-konyaray",
+      "city": "konya",
+      "code": "KONYARAY",
+      "type": "suburban",
+      "name": "Meram Gar – Pınarbaşı (1. etap)",
+      "status": "construction",
+      "authority": "Ulaştırma ve Altyapı Bakanlığı / TCDD (yapım), Konya Büyükşehir Belediyesi (araç alımı)",
+      "km": 23,
+      "fleet": "İlk 4 elektrikli dizi (16 araba) için İslam Kalkınma Bankası finansmanlı ihale ilanı 13.08.2026'da yayımlandı; sonra 3 set daha alınması planlanıyor.",
+      "update": "Eylül 2026'da KBB, 23 km'lik ilk etapta ray imalatının fiziken tamamlandığını, durak yapımının sürdüğünü, sinyalizasyonun tamamlanacağını ve araç alım sürecinin yürütüldüğünü açıkladı.",
+      "target": "2027",
+      "statusNote": "KONYARAY projenin resmi adıdır, hat numarası yok. 2026 Yatırım Programı'nda TCDD projesi olarak 'Konyaray' (20 km konvansiyonel demiryolu, 2019–2026) kalemi var; KBB 23 km diyor. Ağustos 2026: 'İnşallah 2027 yılı içerisinde şantiyede işlerimizi tamamlamayı planlıyoruz.' Projenin toplamı 43 km; 6 km'lik 2. etap (Konya Gar–Yaylapınar) için yalnızca proje çalışması var (bkz. rejected). Ara durak adları resmi kaynakta bulunamadı.",
+      "history": [
+        {
+          "date": "Temmuz 2025",
+          "text": "Bakan Uraloğlu ilk etapta yapımın %60 seviyesinde olduğunu söyledi."
+        },
+        {
+          "date": "Ağustos 2025",
+          "text": "KBB işletmeye açılışı 2027'de öngördü."
+        },
+        {
+          "date": "Ağustos 2026",
+          "text": "İnşa işlerinin büyük kısmı bitti; durak yapımı ve elektrifikasyon sürüyor; ilk 4 dizi için ihale ilanı çıktı."
+        },
+        {
+          "date": "Eylül 2026",
+          "text": "Ray imalatı fiziken tamamlandı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Meram Gar"
+        },
+        {
+          "name": "Pınarbaşı"
+        }
+      ],
+      "osm_hint": "KonyaRay",
+      "sources": [
+        {
+          "title": "Konya'nın raylı sistem ağını güçlendirecek Adliye-Şehir Hastanesi hattı açıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-09-09",
+          "url": "https://www.konya.bel.tr/haber/konyanin-rayli-sistem-agini-guclendirecek-adliye-sehir-hastanesi-hatti-acildi"
+        },
+        {
+          "title": "Başkan Altay basın mensuplarıyla birlikte raylı sistem projelerini inceledi",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-08-11",
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-basin-mensuplariyla-birlikte-rayli-sistem-projelerini-inceledi"
+        },
+        {
+          "title": "Duyurular (Specific Procurement Notice – 4 Electrical Multiple Units (16 Cars) for Konya Commuter Operation Project, 13.08.2026)",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-08-13",
+          "url": "https://www.konya.bel.tr/duyuru"
+        },
+        {
+          "title": "Başkan Altay: Konya tarihinin en önemli ulaşım yatırımlarından KONYARAY banliyö hattında çalışmalar yarıyı geçti",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2025-08-18",
+          "url": "https://www.konya.bel.tr/haber/konya-tarihinin-en-onemli-ulasim-yatirimlarindan-olan-konyaray-banliyo-hattinda-calismalar-yariyi-gecti"
+        },
+        {
+          "title": "Stadyum-Şehir Hastanesi tramvay hattı 2. etabının temeli atıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2025-07-07",
+          "url": "https://www.konya.bel.tr/haber/stadyum-sehir-hastanesi-tramvay-hatti-2-etabinin-temeli-atildi"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.konya.bel.tr/haber/konyanin-rayli-sistem-agini-guclendirecek-adliye-sehir-hastanesi-hatti-acildi"
+        },
+        {
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-basin-mensuplariyla-birlikte-rayli-sistem-projelerini-inceledi"
+        },
+        {
+          "url": "https://www.konya.bel.tr/duyuru"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "konya-baris-caddesi-lot1",
+      "city": "konya",
+      "code": "Barış-1",
+      "type": "tram",
+      "name": "Beyhekim – Kent Plaza (Barış Caddesi tramvayı, Lot-1)",
+      "status": "planned",
+      "authority": "Konya Büyükşehir Belediyesi (Dünya Bankası kredisi, İLBANK aracılığıyla)",
+      "km": 13.85,
+      "fleet": "Depodaki eski tramvaylar revize edilerek kullanılacak (KBB, Ağustos 2025).",
+      "update": "Kasım 2026'da KBB'nin Lot-2 belgesi, Lot-1'in ayrı bir tedarik paketiyle uygulandığını belirtiyor; yapım ihalesi 28 Kasım 2025'te yapıldı, fiilen yapıma başlandığına dair resmi duyuru bulunamadı.",
+      "target": "2027",
+      "statusNote": "Resmi hat kodu yok; Barış-1 nötr kısaltmadır. Resmi adımlar: 2026 Yatırım Programı (Sürdürülebilir Şehirler, Dünya Bankası; Barış Caddesi Raylı Sistem Hattı 13,85 km, 2023–2027; hedef yıl bu sürenin bitişi), Dünya Bankası kredisi ve uluslararası yapım ihalesi (13,85 km çift hat, 18 hemzemin istasyon, 22 ay). Ocak 2026'da KBB 'bahar ayında yapımına başlayacağız' dedi; başlangıç teyit edilemediği için 'planned' bırakıldı. İstasyon adları yayımlanmadı, ihale adındaki uçlar verildi.",
+      "history": [
+        {
+          "date": "Ağustos 2025",
+          "text": "Yapım ihalesi ilanı yayımlandı (teklif tarihi 28.11.2025)."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "KBB ihalenin yapıldığını ve yapıma baharda başlanacağını açıkladı."
+        }
+      ],
+      "stations": [
+        {
+          "name": "Beyhekim"
+        },
+        {
+          "name": "Kent Plaza"
+        }
+      ],
+      "osm_hint": "Barış Caddesi Tramvay Hattı",
+      "sources": [
+        {
+          "title": "Barış Caddesi Tramvay Hattı LOT-2 İnşaatı Projesi – Çevresel ve Sosyal Yönetim Planı (ÇSYP)",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-11-06",
+          "url": "https://files.konya.bel.tr/kbb/kbb/dosya/duyuru/67/lApziox8AHKlMK1JkPADWtjmTE0Q4OCOoYqDJRVI.pdf"
+        },
+        {
+          "title": "Konya'nın raylı sistem ağını güçlendirecek Adliye-Şehir Hastanesi hattı açıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-09-09",
+          "url": "https://www.konya.bel.tr/haber/konyanin-rayli-sistem-agini-guclendirecek-adliye-sehir-hastanesi-hatti-acildi"
+        },
+        {
+          "title": "Konya'nın gelişen raylı sistem yolculuğunda önemli bir yatırımın daha temeli atıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-01-26",
+          "url": "https://www.konya.bel.tr/haber/konyanin-gelisen-rayli-sistem-yolculugunda-onemli-bir-yatirimin-daha-temeli-atildi"
+        },
+        {
+          "title": "Construction of Tram Line for Barış Street (Beyhekim-Kentplaza) and Traffic Control Center (KONYAAF-TRANSPORT-W3)",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2025-08-13",
+          "url": "https://www.konya.bel.tr/ihale/construction-of-tram-line-for-baris-street-beyhekim-kentplaza-and-traffic-control-center-konyaaf-transport-w3"
+        },
+        {
+          "title": "Başkan Altay: Şehrimiz kuzeyden güneye, doğudan batıya raylı sistemlerle donatılacak",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2025-08-11",
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-sehrimiz-kuzeyden-guneye-dogudan-batiya-rayli-sistemlerle-donatilacak"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.konya.bel.tr/ihale/construction-of-tram-line-for-baris-street-beyhekim-kentplaza-and-traffic-control-center-konyaaf-transport-w3"
+        },
+        {
+          "url": "https://www.konya.bel.tr/haber/konyanin-gelisen-rayli-sistem-yolculugunda-onemli-bir-yatirimin-daha-temeli-atildi"
+        },
+        {
+          "url": "https://files.konya.bel.tr/kbb/kbb/dosya/duyuru/67/lApziox8AHKlMK1JkPADWtjmTE0Q4OCOoYqDJRVI.pdf"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "konya-baris-caddesi-lot2",
+      "city": "konya",
+      "code": "Barış-2",
+      "type": "tram",
+      "name": "Barış Caddesi tramvayı uzatmaları: YHT Gar ve Fırat Caddesi (Lot-2)",
+      "status": "planned",
+      "authority": "Konya Büyükşehir Belediyesi (Dünya Bankası Yeşil ve Geleceğin Şehirleri Projesi, İLBANK aracılığıyla)",
+      "km": 5.5,
+      "update": "Kasım 2026'da KBB, Lot-2 yapım işi için Çevresel ve Sosyal Yönetim Planı ile Paydaş Katılım Planı'nı yayımladı; Çevre Bakanlığı 'ÇED Gerekli Değildir' kararı verdi.",
+      "target": "2029",
+      "statusNote": "Resmi hat kodu yok; Barış-2 nötr kısaltmadır. Lot-1'in iki ucuna eklenen YHT Gar uzatması (1,5 km, 2 istasyon) ve Fırat Caddesi uzatması (4,0 km, 5 istasyon) ile tramvay deposu. Resmi adımlar: 2026 Yatırım Programı'nda 'Barış Caddesi Tramvay Lot 2 Yapımı' (2026–2029; hedef yıl bu sürenin bitişi) ve ÇED Gerekli Değildir kararı. İstasyon adları yayımlanmadığı için istasyon listesi verilmedi.",
+      "history": [
+        {
+          "date": "Mayıs 2026",
+          "text": "KBB, Barış Caddesi tramvayının son durağının Selçuklu YHT Gar transfer merkezinde olacağını açıkladı."
+        },
+        {
+          "date": "Kasım 2026",
+          "text": "Lot-2 için ÇSYP ve paydaş katılım planı yayımlandı."
+        }
+      ],
+      "osm_hint": "Barış Caddesi Tramvay Hattı",
+      "sources": [
+        {
+          "title": "Barış Caddesi Tramvay Hattı 2'inci Etap Yapımı İşi Çevre ve Sosyal Yönetim Planları Dokümanları",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-11-06",
+          "url": "https://www.konya.bel.tr/duyuru/baris-caddesi-tramvay-hatti-2inci-etap-yapimi-isi-cevre-ve-sosyal-yonetim-planlari-dokumanlari"
+        },
+        {
+          "title": "Barış Caddesi Tramvay Hattı LOT-2 İnşaatı Projesi – Çevresel ve Sosyal Yönetim Planı (ÇSYP)",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-11-06",
+          "url": "https://files.konya.bel.tr/kbb/kbb/dosya/duyuru/67/lApziox8AHKlMK1JkPADWtjmTE0Q4OCOoYqDJRVI.pdf"
+        },
+        {
+          "title": "Başkan Altay: Raylı sistem ağlarımızda erişilebilirliği artırmak adına önemli bir transfer merkezi oluşturuyoruz",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-05-19",
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-konyamizda-gelisen-rayli-sistem-aglarimizda-erisilebilirligi-artirmak-adina-onemli-bir-transfer-merkezi-olusturuyoruz"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://files.konya.bel.tr/kbb/kbb/dosya/duyuru/67/lApziox8AHKlMK1JkPADWtjmTE0Q4OCOoYqDJRVI.pdf"
+        },
+        {
+          "url": "https://files.konya.bel.tr/kbb/kbb/dosya/duyuru/67/lApziox8AHKlMK1JkPADWtjmTE0Q4OCOoYqDJRVI.pdf"
+        },
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://www.konya.bel.tr/haber/baskan-altay-konyamizda-gelisen-rayli-sistem-aglarimizda-erisilebilirligi-artirmak-adina-onemli-bir-transfer-merkezi-olusturuyoruz"
+        }
+      ]
+    },
+    {
+      "id": "konya-fetih-ahmet-ozcan",
+      "city": "konya",
+      "code": "FAÖ",
+      "type": "tram",
+      "name": "Fetih Caddesi – Ahmet Özcan Caddesi halka tramvay hattı",
+      "status": "planned",
+      "authority": "Ulaştırma ve Altyapı Bakanlığı",
+      "km": 19.5,
+      "update": "Eylül 2026'da KBB, Fetih-Ahmet Özcan Caddesi, Şehir Caddesi, Sivaslı Ali Kemal Caddesi, Şehit Ömer Halisdemir Caddesi ve Çevre Yolu güzergâhındaki 19 km'lik hat için çalışmaların son aşamaya geldiğini açıkladı.",
+      "target": "2029",
+      "statusNote": "Resmi hat kodu yok; FAÖ nötr kısaltmadır. Resmi adım: 2026 Yatırım Programı'na Bakanlık projesi olarak alındı ('Fetih-Ahmet Özcan-Fatih Işıklar Tramvay Hattı', 19,50 km, 2026–2029; hedef yıl bu sürenin bitişi). Bakan Uraloğlu Temmuz 2025'te hattı 'Konya şehir merkezini ring şeklinde saran' hat olarak tanımladı. İstasyon ve uç noktalar resmi kaynakta adlandırılmadığı için istasyon listesi verilmedi.",
+      "history": [
+        {
+          "date": "Temmuz 2025",
+          "text": "Bakanlık 19,4 km'lik Fetih Caddesi–Ahmet Özcan Caddesi tramvay hattını planladığını açıkladı."
+        },
+        {
+          "date": "Ocak 2026",
+          "text": "Hat 2026 Yatırım Programı'na alındı."
+        },
+        {
+          "date": "Eylül 2026",
+          "text": "KBB, çalışmaların son aşamaya geldiğini açıkladı."
+        }
+      ],
+      "osm_hint": "Konya Ring Tramvay Hattı",
+      "sources": [
+        {
+          "title": "Konya'nın raylı sistem ağını güçlendirecek Adliye-Şehir Hastanesi hattı açıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-09-09",
+          "url": "https://www.konya.bel.tr/haber/konyanin-rayli-sistem-agini-guclendirecek-adliye-sehir-hastanesi-hatti-acildi"
+        },
+        {
+          "title": "Konya'nın gelişen raylı sistem yolculuğunda önemli bir yatırımın daha temeli atıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2026-01-26",
+          "url": "https://www.konya.bel.tr/haber/konyanin-gelisen-rayli-sistem-yolculugunda-onemli-bir-yatirimin-daha-temeli-atildi"
+        },
+        {
+          "title": "Stadyum-Şehir Hastanesi tramvay hattı 2. etabının temeli atıldı",
+          "publisher": "Konya Büyükşehir Belediyesi",
+          "date": "2025-07-07",
+          "url": "https://www.konya.bel.tr/haber/stadyum-sehir-hastanesi-tramvay-hatti-2-etabinin-temeli-atildi"
+        },
+        {
+          "title": "2026 Yılı Kamu Yatırım Programı",
+          "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+          "date": "2026-01-26",
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+        },
+        {
+          "url": "https://www.konya.bel.tr/haber/konyanin-gelisen-rayli-sistem-yolculugunda-onemli-bir-yatirimin-daha-temeli-atildi"
+        },
+        {
+          "url": "https://www.konya.bel.tr/haber/konyanin-rayli-sistem-agini-guclendirecek-adliye-sehir-hastanesi-hatti-acildi"
+        },
+        {
+          "url": "https://www.konya.bel.tr/haber/stadyum-sehir-hastanesi-tramvay-hatti-2-etabinin-temeli-atildi"
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "city": "konya",
+      "name": "Konya Metrosu (Selçuk Üniversitesi / Konya Teknik Üniversitesi – Alaaddin – Necmettin Erbakan Üniversitesi, yaklaşık 29 km)",
+      "reason": "Ocak 2026 itibarıyla yalnızca proje çalışması sürüyor; 2026 Yatırım Programı'nda yapım kalemi yok. 2019'da ihalesi yapılan NEÜ–YHT Gar–Fetih Cad.–Meram metrosu (21,1 km) da 2026 Yatırım Programı'nda yer almıyor.",
+      "url": "https://www.konya.bel.tr/haber/konyanin-gelisen-rayli-sistem-yolculugunda-onemli-bir-yatirimin-daha-temeli-atildi"
+    },
+    {
+      "city": "konya",
+      "name": "KONYARAY 2. etap Konya Gar – Yaylapınar (6 km)",
+      "reason": "Temmuz 2025'te Bakan proje ve keşif çalışmalarının sürdüğünü, 2026'da yatırım programına alınacağını söyledi; 2026 Yatırım Programı'nda kalem yok, ihale de yok.",
+      "url": "https://www.konya.bel.tr/haber/stadyum-sehir-hastanesi-tramvay-hatti-2-etabinin-temeli-atildi"
+    },
+    {
+      "city": "kayseri",
+      "name": "Erkilet tramvay hattı (Kumsmall – Erkilet – Havalimanı – Kayseri Garı – Cumhuriyet Meydanı – Millet Bahçesi, 18 km, 19 istasyon)",
+      "reason": "Kasım 2026 itibarıyla zemin etüdü, ulaşım etüdü ve mali ön fizibilite tamamlandı; proje AYGM onayı bekliyor, ardından Strateji ve Bütçe Başkanlığı'na sunulacak. Yatırım programında, ihalede veya meclis kararında yok.",
+      "url": "https://www.kayseri.bel.tr/haberler/baskan-buyukkilictan-kayserinin-rayli-sistem-agina-18-kilometrelik-yeni-hat33210"
+    },
+    {
+      "city": "eskisehir",
+      "name": "Eskişehir Teknik Üniversitesi tramvay hattı",
+      "reason": "Büyükşehir Belediye Başkanı Ünlüce Ocak 2026'da havalimanı kaynaklı sorunlar nedeniyle bu güzergâhın metrobüsle çözüleceğini açıkladı (kaynak: Büyükşehir Belediye Başkanı Ayşe Ünlüce, Karar gazetesi aracılığıyla; resmi belediye sayfası erişilemedi).",
+      "url": "https://www.karar.com/sehir-haberleri/eskisehir-ulasim-filosuna-25-yeni-otobus-katildi-2024779"
+    }
+  ],
+  "open_missing": [],
+  "data_issues": [
+    {
+      "city": "konya",
+      "issue": "Haritada açık görünen 'T3 Adliye–Stadyum' (19,7 km) hizmette değil. 9 Eylül 2026'da yalnızca Adliye–Şehir Hastanesi arasındaki 1,4 km açıldı (haritadaki H4 Alaaddin–Şehir Hastanesi). Şehir Hastanesi–Yeni Sanayi (KBB) ve Yeni Sanayi–Stadyum (Bakanlık) kesimleri Kasım 2026 itibarıyla inşaat hâlinde; 21,1 − 1,4 = 19,7 km tam olarak bu kesimlere denk geliyor. OSM'deki 'Adliye – Şehir Hastanesi – Stadyum Tramvay Hattı' railway=construction etiketi doğru; açık rota (T3) kaldırılmalı veya construction olarak çizilmeli.",
+      "url": "https://www.konya.bel.tr/haber/konyanin-rayli-sistem-agini-guclendirecek-adliye-sehir-hastanesi-hatti-acildi"
+    },
+    {
+      "city": "kayseri",
+      "issue": "OSM'de railway=construction olarak işaretli 'YHT Gar - Meydan - Gültepe Tramvay Hattı' (~11,6 km), 'Kadir Has - Bekir Yıldız Raylı Sistem Hattı' (~5,7 km) ve 'Erkilet Bulvarı Havalimanı Kılçık Hattı' (~2 km, opening_date 2028) için yapım başlamadı. KBB'ye göre (7 Kasım 2026) kentin yeni tramvay projesi (Erkilet hattı, 18 km) henüz AYGM onayı bekliyor. Bu yollar en fazla 'proposed' olmalı; Kadir Has–Bekir Yıldız adlı bir resmi proje bulunamadı.",
+      "url": "https://www.kayseri.bel.tr/haberler/baskan-buyukkilictan-kayserinin-rayli-sistem-agina-18-kilometrelik-yeni-hat33210"
+    },
+    {
+      "city": "ankara",
+      "issue": "Esenboğa hattının OSM istasyon platformları 'proposed' ve resmi olmayan adlarla (YHT Garı, Hastaneler, Güneşevler-Solfasol, Üniversite) girilmiş. Bakanlığa göre hat Ekim 2026'dan beri yer teslimi yapılmış, şantiye kurulumu sürüyor (construction); resmi adlar: YHT Gar, Hastane, Solfasol, Yıldırım Beyazit Üniversite.",
+      "url": "https://www.uab.gov.tr/haberler/yht-gar-esenboga-havalimani-arasi-36-kilometrelik-rayli-sistemle-baglanacak/"
+    },
+    {
+      "city": "ankara",
+      "issue": "OSM'deki 'Ankaray Natoyolu Uzatması Planı' yolunda opening_date=2029 var; resmi bir açılış tarihi yok, 2026 Yatırım Programı'nda proje süresi 2022–2028. Ad da ('Planı') hat inşaat hâlinde olduğu için yanıltıcı.",
+      "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    },
+    {
+      "city": "ankara",
+      "issue": "OSM'de 'M5 Dikmen Uzatması' olarak geçen hat resmi olarak yeni bir hattır: 'M5 Kızılay–Dikmen Hattı'.",
+      "url": "https://web.archive.org/web/20260408144019/https://www.ankara.bel.tr/haberler/ankara-ya-4-yeni-metro-hatti-toplam-44-kilometrelik-dev-ulasim-hamlesi-18202"
+    },
+    {
+      "city": "konya",
+      "issue": "OSM'deki KonyaRay yollarında opening_date=2028 var; KBB'nin son açıklaması 2027 (şantiye işlerinin 2027 içinde tamamlanması).",
+      "url": "https://www.konya.bel.tr/haber/baskan-altay-basin-mensuplariyla-birlikte-rayli-sistem-projelerini-inceledi"
+    }
+  ],
+  "uncertain": [
+    "Ankara M5, M6 ve M4 Şehitler–Forum için tek resmi adım Ulaştırma ve Altyapı Bakanlığı'nın proje onayı; Yatırım Programı'nda yoklar. 'planned' olarak bırakıldı, isterseniz haritadan çıkarın.",
+    "M4 Şehitler–Forum, Nisan 2025'te onaylı hatlar arasındaydı ama ABB'nin Nisan 2026'daki 4 hatlık listesinde yok. Bakanlığın 'YHT Gar–Şehir Hastanesi' etüdü aynı bölgeye (Etlik/Ovacık) gidiyor; ilişkisi resmi kaynakta açıklanmıyor.",
+    "Ankara YHT Gar–Şehir Hastanesi yalnızca Yatırım Programı'nda etüt-proje kalemi olarak var; uzunluk, istasyon ve yapım takvimi yok. 'planned' sayılıp sayılmayacağına siz karar verin.",
+    "M6 ile Bakanlığın 'Ankara Metroları M2-M3 Bağlantı Hattı' etüt kalemi aynı koridor olabilir; resmi kaynak eşleştirmiyor. OSM'deki 'M2 Bağlıca – Devlet Mahallesi Uzatması' için resmi kaynak bulunamadı (M6 hakkındaki Haziran 2025 konuşmasında Devlet Mahallesi geçiyor).",
+    "OSM'deki 'Yıldırım Beyazıt Üniversitesi – Çubuk Raylı Sistem Bağlantı Projesi' (tramvay) için resmi kaynak bulunamadı. Esenboğa hattı artık Yıldırım Beyazıt Üniversitesi'nde bitiyor. Web arama kotası dolduğu için ayrıca aranamadı.",
+    "Esenboğa hattında 'YHT Gar' durağı mevcut M4 Gar istasyonu ve Başkentray ile aktarma noktası olduğu için existing=true işaretlendi; resmi kaynak durağın mevcut istasyonla aynı yapı olup olmadığını söylemiyor. Yükleniciler (basında Çelikler, Söğüt, Fernas–Tekfen) resmi kaynakla doğrulanamadı.",
+    "Yatırım Programı bitiş yıllarını (Natoyolu 2028, Esenboğa 2029, M2 2029, Barış-1 2027, Barış-2 2029, Fetih–Ahmet Özcan 2029) 'target' olarak yazdım; bunlar açılış vaadi değil, programdaki proje süresidir.",
+    "Konya Barış Caddesi Lot-1: ihale Kasım 2025'te yapıldı ve KBB yapıma 2026 baharında başlanacağını söyledi, ancak fiilen başladığı resmi olarak teyit edilemedi (Kasım 2026 belgesi 'uygulanmaktadır' diyor). Başlangıç teyit edilirse 'construction' yapılmalı.",
+    "Konya Stadyum hattı uzunlukları tutarsız: KBB Şehir Hastanesi–Yeni Sanayi kesimini 10 km, 11,1 km ve 11,2 km olarak; Bakanlık kesimini 9,7 km (Yatırım Programı), 10 km ve 11,2 km olarak veriyor. Toplam 21,1–21,2 km.",
+    "KONYARAY ilerleme oranları tutarsız: Temmuz 2025'te Bakan %60, 11 Ağustos 2025'te KBB %70, 18 Ağustos 2025'te KBB %54 dedi; bu yüzden progress alanı boş bırakıldı. Ara durak adları resmi kaynakta bulunamadı.",
+    "Kayseri Erkilet hattı için basında bir etüt-proje ihalesi yapıldığı geçiyor (resmi kaynak açılmadı). Bir etüt ihalesini resmi adım sayarsanız 'planned' yapılabilir; KBB'ye göre proje hâlâ AYGM onayı bekliyor.",
+    "Yenimahalle–Şentepe teleferiği (EGO) 26 Nisan 2024'ten beri, mahkemenin imar planını iptal etmesi nedeniyle süresiz kapalı (EGO duyurusu: https://www.ego.gov.tr/tr/haber/6170/teleferik-isletmemiz-suresiz-olarak-kapatilmistir). Basına göre ABB Meclisi tasfiye raporunu kabul etti. 2025–2026'da yeniden açıldığına dair bilgi bulunamadı; haritada olmaması doğru.",
+    "Ankara–Elmadağ treni (Mart 2024) bölgesel tren olduğu için kapsam dışı bırakıldı.",
+    "Eskişehir: 2026 Yatırım Programı'nda yalnızca 15 tramvay aracı alımı var (yeni hat yok). eskisehir.bel.tr ve estram.com.tr buradan erişilemedi, web arama kotası da dolduğu için Estram uzatmaları ve 2025–2026'da açılmış olabilecek hatlar tam taranamadı.",
+    "Kırıkkale, Sivas, Çorum, Yozgat, Kırşehir, Aksaray, Nevşehir, Niğde ve Karaman için 2026 Yatırım Programı'nın kent içi ulaşım bölümünde raylı sistem kalemi yok. Belediye düzeyindeki kararlar ayrıca taranamadı (arama kotası doldu).",
+    "2025–2026'da açılıp haritada eksik olan hat bulunamadı: Konya'daki tek yeni açılış (Adliye–Şehir Hastanesi, 9 Eylül 2026) haritada H4 olarak var. Kayseri belediyesinin son ~2.400 haberinde yeni hat açılışı yok. Eskişehir için tarama eksik (yukarıya bakın)."
+  ]
+}

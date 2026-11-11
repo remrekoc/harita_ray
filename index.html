@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<!-- Copyright (C) 2026 remrekoc. SPDX-License-Identifier: GPL-3.0-or-later (see LICENSE) -->
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Türkiye Raylı Sistemler · Harita Ray</title>
+<meta name="description" content="Türkiye'nin tüm raylı sistemleri tek haritada: YHT, ana hat, banliyö, metro ve tramvay; işletmedeki, yapımdaki ve planlanan hatlar, kaynaklı yolcu sayılarıyla.">
+<meta name="application-name" content="Harita Ray">
+<meta name="apple-mobile-web-app-title" content="Harita Ray">
+<meta name="theme-color" content="#ffffff">
+<link rel="canonical" href="https://haritaray.pages.dev/">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Harita Ray">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:url" content="https://haritaray.pages.dev/">
+<meta property="og:title" content="Türkiye Raylı Sistemler · Harita Ray">
+<meta property="og:description" content="Türkiye'nin tüm raylı sistemleri tek haritada: YHT, ana hat, banliyö, metro ve tramvay; işletmedeki, yapımdaki ve planlanan hatlar, kaynaklı yolcu sayılarıyla.">
+<meta property="og:image" content="https://haritaray.pages.dev/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Türkiye'nin demiryolu ve raylı sistem ağı koyu zemin üzerinde, Harita Ray logosuyla">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400..800&display=swap">
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <div id="map" aria-label="Türkiye raylı sistem haritası"></div>
+  <div class="tip" id="tip" aria-hidden="true"></div>
+
+  <nav class="presets" id="presets" aria-label="Şehir seç"></nav>
+
+  <section class="legend" id="legend" aria-label="Harita ve gösterim">
+    <div class="lh"><b>Harita</b><button id="lg-reset" disabled>Sıfırla</button><button class="lg-close" id="lg-close" aria-label="Kapat">×</button></div>
+    <div class="by" id="basemaps" role="group" aria-label="Altlık harita">
+      <button data-base="light" aria-pressed="true">Açık</button>
+      <button data-base="dark" aria-pressed="false">Koyu</button>
+      <button data-base="streets" aria-pressed="false">Sokak</button>
+      <button data-base="satellite" aria-pressed="false">Uydu</button>
+    </div>
+    <div class="lg-fold" id="lg-fold"><div>
+    <div id="keys"></div>
+    <p class="lnote">Bir türe tıklayın, yalnız o kalır. Tıkladığınız her tür eklenir; yeniden tıklayınca çıkar.</p>
+    <label class="switch" id="ride-switch"><input type="checkbox" id="ride-mode"><span class="sw-track"><i></i></span><span class="sw-text">Çizgi kalınlığı: günlük yolcu</span></label>
+    <div class="ride-scale" id="ride-scale" hidden></div>
+    </div></div>
+    <button class="lg-tog" id="lg-tog" aria-expanded="true" aria-controls="lg-fold" aria-label="Süzgeçleri gizle"><span class="lg-cue" id="lg-cue"></span><svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.5 7.5L6 4l3.5 3.5"/></svg></button>
+  </section>
+
+  <div class="ctl" role="group" aria-label="Harita kontrolleri">
+    <button id="layers" aria-label="Harita ayarları" aria-expanded="false"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"><path d="M8 1.8L1.5 5.2 8 8.6l6.5-3.4L8 1.8z"/><path d="M1.5 8.2L8 11.6l6.5-3.4M1.5 11.2L8 14.6l6.5-3.4"/></svg></button>
+    <button id="zin" aria-label="Yakınlaştır"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M7 1.5v11M1.5 7h11"/></svg></button>
+    <button id="zout" aria-label="Uzaklaştır"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M1.5 7h11"/></svg></button>
+    <button id="zfit" aria-label="Seçili alanı göster"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1.5 5V1.5H5M9 1.5h3.5V5M12.5 9v3.5H9M5 12.5H1.5V9"/></svg></button>
+    <button id="tilt" aria-label="3B görünüm" aria-pressed="false"><b>3B</b></button>
+    <button id="locate" aria-label="Konumum ve en yakın istasyon"><svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="4.5"/><circle cx="8" cy="8" r="1.4" fill="currentColor" stroke="none"/><path d="M8 .8v2.4M8 12.8v2.4M.8 8h2.4M12.8 8h2.4"/></svg></button>
+  </div>
+
+  <button class="ptab" id="ptab" aria-controls="panel" aria-expanded="true" aria-label="Paneli gizle" title="Paneli gizle"><svg width="12" height="12" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M9.25 2.5L4.75 7l4.5 4.5"/></svg></button>
+  <aside id="panel" aria-label="Hatlar">
+    <div class="grab" id="grab" role="button" tabindex="0" aria-label="Paneli büyüt ya da küçült"></div>
+    <div class="p-head" id="phead">
+      <div class="brand">
+        <svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="15" fill="#e30a17"/><g fill="none" stroke="#fff" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 34h8.69l20-20H54"/><path d="M10 42h12l20-20h12" stroke-opacity=".78"/><path d="M10 50h15.31l20-20H54" stroke-opacity=".56"/></g></svg>
+        <div><h1>Türkiye Raylı Sistemler</h1><p id="brand-sub">Yolcu taşıyan tüm demiryolu ve raylı sistem hatları</p></div>
+      </div>
+      <nav class="tabs" role="tablist">
+        <button role="tab" id="tab-lines" aria-selected="true">Hatlar</button>
+        <button role="tab" id="tab-insights" aria-selected="false">Özet</button>
+      </nav>
+    </div>
+    <div class="p-body" id="pbody">
+      <section class="view" id="v-list">
+        <div class="tally">
+          <div class="tally-main"><b id="t-n" class="num">0</b><span id="t-of"></span></div>
+          <div class="sbar" id="t-bar"></div>
+        </div>
+        <div class="scope" id="scope" role="group" aria-label="Şehirlerarası ve şehir içi hatlar"></div>
+        <label class="search"><span class="sr">Hat, şehir ya da istasyon ara</span>
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="7" cy="7" r="5"/><path d="M11 11l3.5 3.5"/></svg>
+          <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Hat, şehir ya da istasyon ara">
+          <kbd>/</kbd>
+        </label>
+        <div id="list"></div>
+      </section>
+      <section class="view det" id="v-city" hidden></section>
+      <section class="view det" id="v-line" hidden></section>
+      <section class="view det" id="v-station" hidden></section>
+      <section class="view" id="v-insights" hidden></section>
+    </div>
+  </aside>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</div>
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

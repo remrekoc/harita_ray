@@ -1,0 +1,657 @@
+[
+ {
+  "line": "izmir-m1",
+  "kind": "gtfs",
+  "publisher": "Metro İzmir A.Ş.",
+  "title": "Metro İzmir GTFS tarifesi (rail-metro-gtfs.zip, sürüm 2026-07-09)",
+  "url": "https://www.izmirmetro.com.tr/gtfs/rail-metro-gtfs.zip",
+  "date": "2026-07-09",
+  "dirs": [
+   {
+    "label": "Kaymakamlık → Evka - 3",
+    "min": 45.33,
+    "trips": 362,
+    "stops": [
+     [
+      "Kaymakamlık",
+      0.0
+     ],
+     [
+      "100. Yıl Cumhuriyet Şehitlik",
+      1.57
+     ],
+     [
+      "Narlıdere İtfaiye",
+      4.07
+     ],
+     [
+      "Güzel Sanatlar",
+      5.5
+     ],
+     [
+      "Dokuz Eylül Üniversitesi Hastanesi",
+      7.95
+     ],
+     [
+      "Çağdaş",
+      9.25
+     ],
+     [
+      "Balçova",
+      11.18
+     ],
+     [
+      "Fahrettin Altay",
+      13.33
+     ],
+     [
+      "Poligon",
+      15.33
+     ],
+     [
+      "Göztepe",
+      17.33
+     ],
+     [
+      "Hatay",
+      19.33
+     ],
+     [
+      "İzmirspor",
+      21.33
+     ],
+     [
+      "Üçyol",
+      23.33
+     ],
+     [
+      "Konak",
+      25.83
+     ],
+     [
+      "Çankaya",
+      27.83
+     ],
+     [
+      "Basmane",
+      29.33
+     ],
+     [
+      "Hilal",
+      31.33
+     ],
+     [
+      "Halkapınar",
+      33.33
+     ],
+     [
+      "Stadyum",
+      35.33
+     ],
+     [
+      "Sanayi",
+      37.33
+     ],
+     [
+      "Bölge",
+      39.33
+     ],
+     [
+      "Bornova",
+      41.33
+     ],
+     [
+      "Ege Üniversitesi",
+      43.33
+     ],
+     [
+      "Evka - 3",
+      45.33
+     ]
+    ]
+   },
+   {
+    "label": "Evka - 3 → Kaymakamlık",
+    "min": 46.33,
+    "trips": 362,
+    "stops": [
+     [
+      "Evka - 3",
+      0.0
+     ],
+     [
+      "Ege Üniversitesi",
+      2.0
+     ],
+     [
+      "Bornova",
+      4.0
+     ],
+     [
+      "Bölge",
+      6.0
+     ],
+     [
+      "Sanayi",
+      8.5
+     ],
+     [
+      "Stadyum",
+      11.0
+     ],
+     [
+      "Halkapınar",
+      13.0
+     ],
+     [
+      "Hilal",
+      15.0
+     ],
+     [
+      "Basmane",
+      17.0
+     ],
+     [
+      "Çankaya",
+      18.5
+     ],
+     [
+      "Konak",
+      21.5
+     ],
+     [
+      "Üçyol",
+      23.5
+     ],
+     [
+      "İzmirspor",
+      24.5
+     ],
+     [
+      "Hatay",
+      26.0
+     ],
+     [
+      "Göztepe",
+      28.75
+     ],
+     [
+      "Poligon",
+      31.0
+     ],
+     [
+      "Fahrettin Altay",
+      33.0
+     ],
+     [
+      "Balçova",
+      35.15
+     ],
+     [
+      "Çağdaş",
+      37.08
+     ],
+     [
+      "Dokuz Eylül Üniversitesi Hastanesi",
+      38.38
+     ],
+     [
+      "Güzel Sanatlar",
+      40.83
+     ],
+     [
+      "Narlıdere İtfaiye",
+      42.27
+     ],
+     [
+      "100. Yıl Cumhuriyet Şehitlik",
+      44.77
+     ],
+     [
+      "Kaymakamlık",
+      46.33
+     ]
+    ]
+   }
+  ],
+  "basis": "Tarifedeki tam seferlerin durak saatleri; her yönde tüm tam seferler aynı süreyi verir."
+ },
+ {
+  "line": "izmir-t1",
+  "kind": "gtfs",
+  "publisher": "İzmir Metro A.Ş. (Tram İzmir)",
+  "title": "Tram İzmir GTFS tarifesi (rail-tramizmir-gtfs.zip, sürüm 2026-07-16)",
+  "url": "https://www.tramizmir.com/gtfs/rail-tramizmir-gtfs.zip",
+  "date": "2026-07-16",
+  "dirs": [
+   {
+    "label": "Alaybey → Flamingo",
+    "min": 33.65,
+    "trips": 293,
+    "stops": [
+     [
+      "Alaybey",
+      0.0
+     ],
+     [
+      "Karşıyaka İskele",
+      3.6
+     ],
+     [
+      "Nikah Sarayı",
+      7.38
+     ],
+     [
+      "Yunuslar",
+      9.18
+     ],
+     [
+      "Bostanlı İskele (Kara)",
+      10.9
+     ],
+     [
+      "Çarşı Durağı",
+      13.75
+     ],
+     [
+      "Vilayet Evi",
+      16.0
+     ],
+     [
+      "Selçuk Yaşar",
+      18.23
+     ],
+     [
+      "Atakent",
+      20.08
+     ],
+     [
+      "Bilim Müzesi",
+      22.7
+     ],
+     [
+      "Mustafa Kemal Spor Salonu",
+      24.82
+     ],
+     [
+      "Mavişehir",
+      27.35
+     ],
+     [
+      "Flamingo",
+      33.65
+     ]
+    ]
+   },
+   {
+    "label": "Flamingo → Alaybey",
+    "min": 33.65,
+    "trips": 293,
+    "stops": [
+     [
+      "Flamingo",
+      0.0
+     ],
+     [
+      "Mavişehir",
+      6.3
+     ],
+     [
+      "Mustafa Kemal Spor Salonu",
+      8.83
+     ],
+     [
+      "Bilim Müzesi",
+      10.95
+     ],
+     [
+      "Atakent",
+      13.57
+     ],
+     [
+      "Selçuk Yaşar",
+      15.42
+     ],
+     [
+      "Vilayet Evi",
+      17.65
+     ],
+     [
+      "Çarşı Durağı",
+      19.9
+     ],
+     [
+      "Bostanlı İskele (Deniz)",
+      22.75
+     ],
+     [
+      "Yunuslar",
+      24.47
+     ],
+     [
+      "Nikah Sarayı",
+      26.27
+     ],
+     [
+      "Karşıyaka İskele",
+      30.05
+     ],
+     [
+      "Alaybey",
+      33.65
+     ]
+    ]
+   }
+  ],
+  "basis": "Tarifedeki seferlerin durak saatleri; her yönde tüm seferler aynı süreyi verir."
+ },
+ {
+  "line": "izmir-t2",
+  "kind": "gtfs",
+  "publisher": "İzmir Metro A.Ş. (Tram İzmir)",
+  "title": "Tram İzmir GTFS tarifesi (rail-tramizmir-gtfs.zip, sürüm 2026-07-16)",
+  "url": "https://www.tramizmir.com/gtfs/rail-tramizmir-gtfs.zip",
+  "date": "2026-07-16",
+  "dirs": [
+   {
+    "label": "Halkapınar → Fahrettin Altay",
+    "min": 52.27,
+    "trips": 365,
+    "stops": [
+     [
+      "Halkapınar",
+      0.0
+     ],
+     [
+      "Havagazı",
+      5.85
+     ],
+     [
+      "Alsancak Gar",
+      9.22
+     ],
+     [
+      "Atatürk Spor Salonu",
+      11.98
+     ],
+     [
+      "Hocazade Camii",
+      13.02
+     ],
+     [
+      "Kültürpark Atatürk Lisesi",
+      16.02
+     ],
+     [
+      "Gazi Bulvarı",
+      20.45
+     ],
+     [
+      "Konak İskele",
+      26.18
+     ],
+     [
+      "Karataş",
+      30.77
+     ],
+     [
+      "Karantina",
+      34.72
+     ],
+     [
+      "Köprü (Deniz)",
+      38.68
+     ],
+     [
+      "Sadıkbey (Deniz)",
+      40.32
+     ],
+     [
+      "Göztepe (Deniz)",
+      41.95
+     ],
+     [
+      "Güzelyalı (Deniz)",
+      44.63
+     ],
+     [
+      "A.A.S.S.M. (Deniz)",
+      46.25
+     ],
+     [
+      "Üçkuyular İskele",
+      48.52
+     ],
+     [
+      "Fahrettin Altay",
+      52.27
+     ]
+    ]
+   },
+   {
+    "label": "Fahrettin Altay → Halkapınar",
+    "min": 57.32,
+    "trips": 365,
+    "stops": [
+     [
+      "Fahrettin Altay",
+      0.0
+     ],
+     [
+      "Üçkuyular İskele",
+      2.97
+     ],
+     [
+      "A.A.S.S.M. (Kara)",
+      5.03
+     ],
+     [
+      "Güzelyalı (Kara)",
+      8.15
+     ],
+     [
+      "Göztepe (Kara)",
+      10.7
+     ],
+     [
+      "Sadıkbey (Kara)",
+      13.3
+     ],
+     [
+      "Köprü (Kara)",
+      15.18
+     ],
+     [
+      "Karantina",
+      19.38
+     ],
+     [
+      "Karataş",
+      23.88
+     ],
+     [
+      "Konak İskele",
+      28.35
+     ],
+     [
+      "Gazi Bulvarı",
+      34.68
+     ],
+     [
+      "Kültürpark Atatürk Lisesi",
+      38.8
+     ],
+     [
+      "Hocazade Camii",
+      42.0
+     ],
+     [
+      "Atatürk Spor Salonu",
+      43.03
+     ],
+     [
+      "Alsancak Gar",
+      45.8
+     ],
+     [
+      "Alsancak Stadyumu",
+      48.52
+     ],
+     [
+      "Üniversite",
+      52.28
+     ],
+     [
+      "Halkapınar",
+      57.32
+     ]
+    ]
+   }
+  ],
+  "basis": "Tarifedeki seferlerin durak saatleri; iki yönün durakları kısmen farklıdır."
+ },
+ {
+  "line": "izmir-t3",
+  "kind": "gtfs",
+  "publisher": "İzmir Metro A.Ş. (Tram İzmir)",
+  "title": "Tram İzmir GTFS tarifesi (rail-tramizmir-gtfs.zip, sürüm 2026-07-16)",
+  "url": "https://www.tramizmir.com/gtfs/rail-tramizmir-gtfs.zip",
+  "date": "2026-07-16",
+  "dirs": [
+   {
+    "label": "İç hat (mavi): Flamingo → Nazım Hikmet Ran",
+    "min": 31.47,
+    "trips": 168,
+    "stops": [
+     [
+      "Flamingo",
+      0.0
+     ],
+     [
+      "Semra Aksu",
+      2.88
+     ],
+     [
+      "Eski Havaalanı",
+      4.98
+     ],
+     [
+      "Yenimahalle",
+      7.42
+     ],
+     [
+      "Çiğli Bölge Hastanesi",
+      9.33
+     ],
+     [
+      "Ata Sanayi",
+      11.87
+     ],
+     [
+      "Evka-5",
+      14.33
+     ],
+     [
+      "İAOSB Nedim Uysal Lisesi",
+      15.97
+     ],
+     [
+      "Mustafa Kemal Atatürk Bulvarı",
+      18.25
+     ],
+     [
+      "İAOSB Müdürlüğü",
+      22.68
+     ],
+     [
+      "Kemal Baysak",
+      25.6
+     ],
+     [
+      "Nihat Karakartal",
+      28.0
+     ],
+     [
+      "Nazım Hikmet Ran",
+      31.47
+     ]
+    ]
+   },
+   {
+    "label": "Dış hat (kırmızı): Nazım Hikmet Ran → Flamingo",
+    "min": 36.88,
+    "trips": 165,
+    "stops": [
+     [
+      "Nazım Hikmet Ran",
+      0.0
+     ],
+     [
+      "Nihat Karakartal",
+      3.47
+     ],
+     [
+      "Kemal Baysak",
+      5.87
+     ],
+     [
+      "İAOSB Müdürlüğü",
+      8.78
+     ],
+     [
+      "Mustafa Kemal Atatürk Bulvarı",
+      13.22
+     ],
+     [
+      "İAOSB Nedim Uysal Lisesi",
+      15.5
+     ],
+     [
+      "Katip Çelebi Üniversitesi",
+      18.22
+     ],
+     [
+      "Evka-5",
+      22.55
+     ],
+     [
+      "Ata Sanayi",
+      25.02
+     ],
+     [
+      "Çiğli Bölge Hastanesi",
+      27.55
+     ],
+     [
+      "Yenimahalle",
+      29.47
+     ],
+     [
+      "Eski Havaalanı",
+      31.9
+     ],
+     [
+      "Semra Aksu",
+      34.0
+     ],
+     [
+      "Flamingo",
+      36.88
+     ]
+    ]
+   }
+  ],
+  "basis": "Çiğli tramvayı bir halkadır: iç hat bir yönde, dış hat (Katip Çelebi Üniversitesi üzerinden) öbür yönde döner."
+ },
+ {
+  "line": "ankara-baskentray",
+  "kind": "stated",
+  "min": 50,
+  "km": 36,
+  "label": "Sincan – Kayaş",
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı (Anadolu Ajansı aracılığıyla)",
+  "title": "Marmaray, Başkentray ve İzban ile 1 milyar 663 milyonu aşkın yolcu seyahat etti",
+  "url": "https://www.aa.com.tr/tr/ekonomi/marmaray-baskentray-ve-izban-ile-1-milyar-663-milyonu-askin-yolcu-seyahat-etti/2694714",
+  "date": "2022-09-26"
+ }
+]

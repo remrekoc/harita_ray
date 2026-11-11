@@ -1,0 +1,16 @@
+{
+  "name": "Harita Ray · Türkiye Raylı Sistemler",
+  "short_name": "Harita Ray",
+  "description": "Türkiye'nin tüm raylı sistemleri tek haritada: YHT, ana hat, banliyö, metro ve tramvay.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

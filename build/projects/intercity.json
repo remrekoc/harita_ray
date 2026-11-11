@@ -1,0 +1,2865 @@
+{
+ "lines": [
+  {
+   "id": "yht-cerkezkoy-kapikule",
+   "type": "hst",
+   "name": "Çerkezköy – Kapıkule",
+   "project": "Halkalı – Kapıkule Hızlı Tren Projesi",
+   "status": "open",
+   "opened": 2026,
+   "authority": "TCDD Genel Müdürlüğü",
+   "km": 153,
+   "speed": "200 km/sa",
+   "update": "9 Ekim 2026'da hizmete açıldı. 10 Ekim 2026'dan bu yana Çerkezköy – Edirne arasında günde karşılıklı 6 hızlı tren seferi yapılıyor; yolculuk 54 dakika sürüyor.",
+   "statusNote": "Seferler Çerkezköy – Edirne arasında",
+   "history": [
+    {
+     "date": "Haziran 2019",
+     "text": "Yapım sözleşmesi imzalandı."
+    },
+    {
+     "date": "Eylül 2019",
+     "text": "Temel atma töreni yapıldı."
+    },
+    {
+     "date": "Haziran 2022",
+     "text": "İlk ray kaynağı yapıldı."
+    },
+    {
+     "date": "Haziran 2026",
+     "text": "Bakan Uraloğlu hatta test sürüşü yaptı."
+    },
+    {
+     "date": "9 Ekim 2026",
+     "text": "Hat hizmete açıldı."
+    },
+    {
+     "date": "10 Ekim 2026",
+     "text": "İlk yolculu hızlı tren Edirne'den hareket etti."
+    }
+   ],
+   "stations": [
+    "Çerkezköy",
+    "Büyükkarıştıran",
+    "Lüleburgaz",
+    "Babaeski",
+    "Edirne",
+    "Kapıkule"
+   ],
+   "sources": [
+    {
+     "title": "Çerkezköy–Kapıkule Hızlı Demiryolu Hattı'nda Yolculuk Başladı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-10",
+     "url": "https://www.uab.gov.tr/haberler/cerkezkoey-kapikule-hizli-demiryolu-hattinda-yolculuk-basladi/"
+    },
+    {
+     "title": "Halkalı-Kapıkule'de Seyahat Süresi 4 Saatten 1,5 Saate Düşecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-04",
+     "url": "https://www.uab.gov.tr/haberler/halkali-kapikule-de-seyahat-sueresi-4-saatten-1-5-saate-duesecek/"
+    },
+    {
+     "title": "Halkalı-Kapıkule Arası Hızlı Trenle 1,5 Saate Düşecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-06-06",
+     "url": "https://www.uab.gov.tr/haberler/halkali-kapikule-arasi-hizli-trenle-1-5-saate-duesecek/"
+    },
+    {
+     "title": "Halkalı Kapıkule Demir Yolu Hattı Çerkezköy-Kapıkule Kesimi İnşası Projesi (web.archive.org kopyası)",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı, AB ve Dış İlişkiler Genel Müdürlüğü",
+     "date": "2026-09-06",
+     "url": "https://web.archive.org/web/20260906153713/https://ipa.uab.gov.tr/halkali-kapikule-demiryolu-hatti-cerkezkoy-kapikule-kesimi-insasi-projesi"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1215302746,
+    1214600594,
+    1214600597,
+    1214600595,
+    1530361764,
+    1530361765,
+    1214600602,
+    1214600606,
+    1214600607,
+    1214600603,
+    1214600598,
+    1360117008,
+    1360117035,
+    1360117020,
+    1530763420,
+    1530763421,
+    1360117009,
+    1360117014,
+    1360117015,
+    1360117021,
+    1360117026,
+    1360117027,
+    1503587355,
+    1566923212,
+    1214600578,
+    1214600586,
+    1214600583,
+    1214600582,
+    1214600575,
+    1214600591,
+    1530361758,
+    1360090185,
+    1530361756,
+    1530361757,
+    1360090187,
+    1151355932,
+    1215302750,
+    1215302747,
+    1215302753,
+    1530361759,
+    1356508996,
+    1360090179,
+    1567030458,
+    1360090178,
+    1356509002,
+    1297287947,
+    1356508998,
+    1356507538,
+    1360163778,
+    1524912778,
+    1567030476,
+    1567030471,
+    1540304486,
+    1567030472,
+    1539416954,
+    1540211128,
+    1360163781,
+    1539416952,
+    1540304485,
+    1540211130,
+    1215302754,
+    1530113163,
+    1530113164,
+    1356507541,
+    1356507534,
+    1540730012,
+    1540730004,
+    1540730008,
+    1540730006,
+    1540729999,
+    1540730002,
+    1540730010,
+    1356507535,
+    1530353239,
+    1540729996,
+    1540729997,
+    1356510446,
+    1530353240,
+    1540729992,
+    1567030463,
+    1567030469,
+    1567030468,
+    1356510448,
+    1567030466,
+    1356511328,
+    1540373807,
+    1540373808,
+    1540333654,
+    1540333640,
+    1540333649,
+    1540333641,
+    1540333642,
+    1356511334,
+    1540333681,
+    1540333682,
+    1356511329,
+    1540333659,
+    1356511333,
+    1540333661,
+    1540333663,
+    1540333665,
+    1540333666,
+    1382376695,
+    1530113169,
+    1530113170,
+    1382376680,
+    1530113159,
+    1530113160,
+    1382376682,
+    1382376694,
+    1530113150,
+    1530113153,
+    1530113154,
+    1530113149,
+    1533133968,
+    1544547424,
+    1349002776,
+    1349002778,
+    1349002780,
+    1349002781,
+    1330225245,
+    1330225244,
+    1330225248,
+    1330225246,
+    1566923209,
+    620055270,
+    1566923210,
+    1537227287,
+    169862181,
+    1537227288,
+    1531205655,
+    1531205656,
+    26276109,
+    623928840,
+    1503448770,
+    1503448774,
+    623928841,
+    1503448771,
+    1537188494,
+    49026180,
+    1537188493,
+    1503448779,
+    1503448775,
+    1503448780,
+    1277915742,
+    1503448783,
+    1360153349,
+    1360153350,
+    1564398972,
+    89805423,
+    1503587357,
+    1008093080,
+    1564398970,
+    1360117022
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-ispartakule-cerkezkoy",
+   "type": "hst",
+   "name": "Ispartakule – Çerkezköy",
+   "project": "Halkalı – Kapıkule Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "km": 69,
+   "update": "Ekim 2026'da Bakanlık, Ispartakule – Çerkezköy etabında çalışmaların sürdüğünü açıkladı. Yapıma Çerkezköy tarafından başlanmıştı.",
+   "target": "2028",
+   "statusNote": "Yapım sürüyor",
+   "history": [
+    {
+     "date": "Aralık 2021",
+     "text": "Asya Altyapı Yatırım Bankası 300 milyon avroluk kredi anlaşmasını imzaladı."
+    },
+    {
+     "date": "Aralık 2022",
+     "text": "Yapım sözleşmesi imzalandı."
+    },
+    {
+     "date": "Kasım 2024",
+     "text": "Bakanlık, 67 km'lik güzergâhta çalışmalara Çerkezköy tarafından başlandığını açıkladı."
+    },
+    {
+     "date": "Kasım 2025",
+     "text": "Bakan, Çerkezköy – Halkalı arasının 2028'de bitirilmesinin hedeflendiğini söyledi."
+    },
+    {
+     "date": "Ekim 2026",
+     "text": "Bakanlık, 69 km'lik etapta çalışmaların sürdüğünü açıkladı."
+    }
+   ],
+   "stations": [
+    "Ispartakule",
+    "Bahçeşehir",
+    "Çatalca",
+    "Çerkezköy"
+   ],
+   "sources": [
+    {
+     "title": "Cumhurbaşkanı Erdoğan, Çerkezköy–Kapıkule Demiryolu Hattı'nı Yarın Hizmete Açacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-08",
+     "url": "https://www.uab.gov.tr/haberler/cumhurbaskani-erdogan-cerkezkoey-kapikule-demiryolu-hatti-ni-yarin-hizmete-acacak/"
+    },
+    {
+     "title": "2 Bin 171 Proje, Toplam 5,2 Trilyon Lira Yatırım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-11-19",
+     "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+    },
+    {
+     "title": "3,1 Milyon Kişi Daha İstanbul'un Raylı Sistem Ağına Kavuşacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2024-11-04",
+     "url": "https://www.uab.gov.tr/haberler/3-1-milyon-kisi-daha-istanbul-un-rayli-sistem-agina-kavusacak"
+    },
+    {
+     "title": "Project Implementation Monitoring Report #5, Ispartakule–Çerkezköy Railway Project",
+     "publisher": "Asya Altyapı Yatırım Bankası (AIIB)",
+     "date": "2024-04-30",
+     "url": "https://aiib.org/en/projects/details/2024/_download/Turkiye/AIIB-PIMR_SBF_Turkiye_P000345_No.5_April_2024_Public-Version.pdf"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1458466425,
+    1458460537,
+    1458466428,
+    1528472146,
+    1458460540,
+    1458470711,
+    1458470712,
+    1458466423,
+    1458466422,
+    1458466421,
+    1458466424,
+    1458466419,
+    1458466420,
+    180257898,
+    1458462751,
+    1458462752,
+    1458462742,
+    1458462743,
+    1458466426,
+    89807184,
+    26276108,
+    172082303,
+    1124204013,
+    1309514392,
+    1530036762,
+    290562996,
+    172082301,
+    172082300,
+    172082299,
+    290562995,
+    643439303,
+    643439304,
+    683029118,
+    1513453205,
+    1513453209,
+    1513453210,
+    1513453211,
+    1052733669,
+    1052733670,
+    124776211,
+    172438374,
+    172388075,
+    124776212,
+    172438373
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-halkali-ispartakule",
+   "type": "hst",
+   "name": "Halkalı – Ispartakule",
+   "project": "Halkalı – Kapıkule Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "km": 8.4,
+   "update": "Ekim 2026'da Bakan, bu kesimde yapımın bitmek üzere olduğunu ve kesimin yıl sonundan önce açılmasının planlandığını söyledi. Kesimin 6,4 km'si çift tüplü TBM tüneli.",
+   "target": "2026 sonu",
+   "statusNote": "Yapım bitmek üzere",
+   "history": [
+    {
+     "date": "Kasım 2024",
+     "text": "TBM-1 tünelinde ışık göründü; etapta ilerleme yüzde 74."
+    },
+    {
+     "date": "Şubat 2025",
+     "text": "TBM-2 tünelinde ışık göründü; etapta ilerleme yüzde 79."
+    },
+    {
+     "date": "Mart 2026",
+     "text": "Bakan, yapımın yıl sonunda bitirilip 2027 başında testlere başlanacağını söyledi."
+    },
+    {
+     "date": "Ekim 2026",
+     "text": "Bakan, kesimin yıl bitmeden açılmasının planlandığını söyledi."
+    }
+   ],
+   "stations": [
+    "Halkalı",
+    "Ispartakule"
+   ],
+   "sources": [
+    {
+     "title": "Cumhurbaşkanı Erdoğan, Çerkezköy–Kapıkule Demiryolu Hattı'nı Yarın Hizmete Açacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-08",
+     "url": "https://www.uab.gov.tr/haberler/cumhurbaskani-erdogan-cerkezkoey-kapikule-demiryolu-hatti-ni-yarin-hizmete-acacak/"
+    },
+    {
+     "title": "3,1 Milyon İstanbullu Daha Raylı Sistem Ağına Kavuşacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-03-13",
+     "url": "https://www.uab.gov.tr/haberler/3-1-milyon-istanbullu-daha-rayli-sistem-agina-kavusacak/"
+    },
+    {
+     "title": "İstanbul'da Yaşayan 3,1 Milyon Kişi Daha Raylı Sistem Ağına Ulaşacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-02-13",
+     "url": "https://www.uab.gov.tr/haberler/istanbul-da-yasayan-3-1-milyon-kisi-daha-rayli-sistem-agina-ulasacak/"
+    },
+    {
+     "title": "3,1 Milyon Kişi Daha İstanbul'un Raylı Sistem Ağına Kavuşacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2024-11-04",
+     "url": "https://www.uab.gov.tr/haberler/3-1-milyon-kisi-daha-istanbul-un-rayli-sistem-agina-kavusacak"
+    }
+   ],
+   "osm_ways": [
+    1217602868,
+    1284144435,
+    1284144433
+   ],
+   "approx": false
+  },
+  {
+   "id": "hat-cayirova-catalca",
+   "type": "main",
+   "name": "Çayırova – Çatalca",
+   "project": "İstanbul Kuzey Demir Yolu Geçişi (Kuzey Çevre Demiryolu) Projesi",
+   "status": "planned",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "km": 125,
+   "update": "Temmuz 2026'da ihalenin 14 Ekim 2026'da yapılacağı açıklandı; ihale sonucu henüz resmi kaynaklarda yer almıyor. Hat Çayırova'dan Sabiha Gökçen Havalimanı, Yavuz Sultan Selim Köprüsü ve İstanbul Havalimanı üzerinden Çatalca'ya uzanıp Halkalı – Çerkezköy hattına bağlanacak.",
+   "statusNote": "İhale aşamasında",
+   "history": [
+    {
+     "date": "Şubat 2026",
+     "text": "Altı uluslararası finans kuruluşuyla toplam 6,75 milyar dolarlık finansman için ön mutabakat sağlandı."
+    },
+    {
+     "date": "Şubat 2026",
+     "text": "Yapım ve danışmanlık ihale ilanı Resmî Gazete'de yayımlandı."
+    },
+    {
+     "date": "Nisan 2026",
+     "text": "Dünya Bankası finansman anlaşması imzalandı."
+    },
+    {
+     "date": "Haziran 2026",
+     "text": "Asya Kalkınma Bankası 750 milyon dolarlık krediyi onayladı."
+    },
+    {
+     "date": "Temmuz 2026",
+     "text": "Tasarım ve yapım ihalesinin 14 Ekim'de yapılacağı açıklandı."
+    }
+   ],
+   "stations": [
+    "Çayırova",
+    "Çatalca"
+   ],
+   "sources": [
+    {
+     "title": "İstanbul Kuzey Demir Yolu Geçişi Projesinde Dev Adım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-07-24",
+     "url": "https://www.uab.gov.tr/haberler/istanbul-kuzey-demir-yolu-gecisi-projesinde-dev-adim/"
+    },
+    {
+     "title": "Kuzey Çevre Demiryolu Projesi İçin Tarihi Adım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-02-27",
+     "url": "https://www.uab.gov.tr/haberler/kuzey-cevre-demiryolu-projesi-icin-tarihi-adim/"
+    },
+    {
+     "title": "Türkiye'nin En Büyük Dış Finansmanlı Demiryolu Projesi",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-02-24",
+     "url": "https://www.uab.gov.tr/haberler/tuerkiye-nin-en-bueyuek-dis-finansmanli-demiryolu-projesi/"
+    },
+    {
+     "title": "Minister Şimşek finalizes third largest World Bank deal (Istanbul rail project)",
+     "publisher": "Cumhurbaşkanlığı Yatırım Ofisi",
+     "date": "2026-04-17",
+     "url": "https://f.invest.gov.tr/en/news/news-from-turkey/pages/minister-simsek-finalizes-third-largest-world-bank-deal-istanbul-rail-project.aspx"
+    },
+    {
+     "title": "ADB Approves $750 Million Loan for New Railway Line Enhancing Türkiye Transport and Logistics",
+     "publisher": "Asya Kalkınma Bankası",
+     "date": "2026-06-09",
+     "url": "https://www.adb.org/news/adb-approves-750-million-loan-new-railway-line-enhancing-turkiye-transport-and-logistics"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1448388379,
+    1448388382,
+    1448388384,
+    1289167657,
+    1448295576,
+    1289167655,
+    1302863039,
+    1448295575,
+    1448295583,
+    1448346331,
+    1448346325,
+    1448346329,
+    1448346333,
+    1448346336,
+    1448346337,
+    1448346326,
+    1448346344,
+    1448346341,
+    1448346342,
+    1448346345,
+    1448346348,
+    1448346350,
+    1448346352,
+    1448346354,
+    1448346357,
+    1448346355,
+    1448346360,
+    1448346361,
+    1448346366,
+    1448346364,
+    1448346367,
+    1448346369,
+    1448346374,
+    1448388377,
+    1302272051,
+    1448388370,
+    1448388375,
+    1448388365,
+    1448388374,
+    1448388367,
+    1448388371,
+    1448388359,
+    1448388363,
+    1448388355,
+    1448388360,
+    1448388354,
+    1448388358,
+    1448388351,
+    1448388347,
+    1448388350,
+    1448388345,
+    1448388340,
+    1448388344,
+    1448374035,
+    1302272056,
+    1448374018,
+    1448374016,
+    1448374030,
+    1448374022,
+    1448374024,
+    1448374026,
+    1448374032,
+    1448374029,
+    1448374020,
+    1448374011,
+    1302272054,
+    1448374015,
+    1125915288,
+    1448374013,
+    1448374008,
+    1448374006,
+    1448374003,
+    1448374005,
+    1448373998,
+    1448374001,
+    1448373993,
+    1448373995,
+    1448373996,
+    1448373990,
+    1448373970,
+    1448373968,
+    1448373963,
+    1448373965,
+    1448373967,
+    1448373960,
+    1448373956,
+    1448373958,
+    1448373954,
+    1448373951,
+    1448373952,
+    1448373943,
+    1302272062,
+    1205482223,
+    1448373927,
+    1448373928,
+    1448373931,
+    1448373933,
+    1448373935,
+    1448373936,
+    1448373939,
+    1448373941,
+    1448373944,
+    1205482221,
+    1205482222,
+    1217595740,
+    1448346447,
+    1448346443,
+    1448346439,
+    1448346448,
+    1448373987,
+    1448373989,
+    1448373985,
+    1448373976,
+    1448373979,
+    1448373981,
+    1448373982,
+    1448373975,
+    1448373974,
+    1448373949,
+    1448373946,
+    1448346399,
+    1448346397,
+    1448346398,
+    1448346400,
+    1448346429,
+    1448346438,
+    1448346442,
+    1448346427,
+    1448346434,
+    1448346435,
+    1448346430,
+    1448346422,
+    1448346423,
+    1448346425,
+    1448346424,
+    1448346417,
+    1448346418,
+    1448346411,
+    1448346410,
+    1448346413,
+    1448346404,
+    1448346406,
+    1448346409,
+    1448346384,
+    1448346371,
+    1448346378,
+    1448346377,
+    1448346382,
+    1448346380,
+    1448346386,
+    1448346389,
+    1448346392,
+    1448346394,
+    1448346387
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-osmaneli-bursa",
+   "type": "hst",
+   "name": "Osmaneli – Bursa",
+   "project": "Bandırma – Bursa – Yenişehir – Osmaneli Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "km": 106,
+   "speed": "250 km/sa",
+   "update": "Mart 2026'da kazı-dolgu, tünel ve sanat yapısı işlerinin bittiği, üstyapıda yüzde 90 ilerleme sağlandığı açıklandı. Temmuz 2026'da Bakan, test sürüşlerine yakında başlanacağını söyledi.",
+   "target": "2026'nın ikinci yarısı",
+   "statusNote": "Test sürüşleri bekleniyor",
+   "history": [
+    {
+     "date": "Kasım 2025",
+     "text": "Bakan, Osmaneli – Bursa arasının 2026'da hizmete alınacağını söyledi."
+    },
+    {
+     "date": "Mart 2026",
+     "text": "Altyapı işleri tamamlandı; üstyapıda ilerleme yüzde 90."
+    },
+    {
+     "date": "Temmuz 2026",
+     "text": "Test sürüşlerine yakında başlanacağı açıklandı."
+    }
+   ],
+   "stations": [
+    "Osmaneli",
+    "Yenişehir",
+    "Yenişehir Havalimanı",
+    "Gürsu",
+    "Bursa"
+   ],
+   "sources": [
+    {
+     "title": "Osmaneli–Bursa Hattında Test Süreci Başlıyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-07-28",
+     "url": "https://www.uab.gov.tr/haberler/osmaneli-bursa-hattinda-test-suereci-basliyor/"
+    },
+    {
+     "title": "Bir İl Daha Yüksek Hızlı Trene Kavuşuyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-03-08",
+     "url": "https://www.uab.gov.tr/haberler/bir-il-daha-yueksek-hizli-trene-kavusuyor/"
+    },
+    {
+     "title": "2 Bin 171 Proje, Toplam 5,2 Trilyon Lira Yatırım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-11-19",
+     "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1532780756,
+    1101677837,
+    1532780744,
+    699350431,
+    808111907,
+    1101677838,
+    808111906,
+    1302834927,
+    1204761401,
+    1204761403,
+    1204761402,
+    1204761404,
+    1204761405,
+    1302834938,
+    1204761412,
+    1204761411,
+    1204761420,
+    1204761418,
+    1204761419,
+    1204761415,
+    1204761416,
+    1204761417,
+    1204761414,
+    1204761413,
+    1204761421,
+    1204761422,
+    1204761423,
+    1302834946,
+    1302834947,
+    1204761427,
+    1204761424,
+    1204761425,
+    1204761426,
+    1204761440,
+    1204761442,
+    1204761441,
+    1204761428,
+    1204761429,
+    1204761430,
+    1204761431,
+    1302834965,
+    1204761432,
+    1204761433,
+    1204761434,
+    1302834964,
+    1456752410,
+    1456752411,
+    1204761435,
+    1204761438,
+    1204761406,
+    1204761407,
+    1204761408,
+    1204761409,
+    1204761410,
+    1302834932,
+    1302834933,
+    1302834936,
+    1204754502,
+    1547982772,
+    1547982775,
+    1302834971,
+    1302834970,
+    1302834974,
+    1547982769,
+    1302834975,
+    1547982770,
+    1573783498,
+    1574044766,
+    1574044767,
+    1573783499,
+    1574044846,
+    1574044850,
+    1204761446,
+    1204761451,
+    1204761447,
+    1204761452,
+    1479697951,
+    1479697952,
+    1204761455,
+    1456688926,
+    1456688925,
+    1204761456,
+    1204761462,
+    1204761464,
+    1204761457,
+    1289085051,
+    1204761460,
+    1289085052
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-bursa-bandirma",
+   "type": "hst",
+   "name": "Bursa – Bandırma",
+   "project": "Bandırma – Bursa – Yenişehir – Osmaneli Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "speed": "250 km/sa",
+   "update": "Mart 2026'da Bakan, Bursa'dan sonra Teknosab, Karacabey, Dağkadı ve Kuşcenneti güzergâhındaki çalışmaların 2028'de tamamlanmasının hedeflendiğini açıkladı.",
+   "target": "2028",
+   "statusNote": "Yapım sürüyor",
+   "history": [
+    {
+     "date": "Kasım 2025",
+     "text": "Bakan, Bandırma – Bursa arasının 2028'de hizmete alınacağını söyledi."
+    },
+    {
+     "date": "Mart 2026",
+     "text": "2028 hedefi yinelendi."
+    }
+   ],
+   "stations": [
+    "Bursa",
+    "Teknosab",
+    "Karacabey",
+    "Dağkadı",
+    "Kuşcenneti",
+    "Bandırma"
+   ],
+   "sources": [
+    {
+     "title": "Bir İl Daha Yüksek Hızlı Trene Kavuşuyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-03-08",
+     "url": "https://www.uab.gov.tr/haberler/bir-il-daha-yueksek-hizli-trene-kavusuyor/"
+    },
+    {
+     "title": "2 Bin 171 Proje, Toplam 5,2 Trilyon Lira Yatırım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-11-19",
+     "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1532780756,
+    1532780737,
+    1286662121,
+    1491046104,
+    1491046102,
+    1491046113,
+    1491046114,
+    1491046111,
+    1491046112,
+    1532780736,
+    1572207645,
+    1422234005,
+    1532780758,
+    706625587,
+    1532780734,
+    207069587,
+    89134826
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-polatli-afyonkarahisar",
+   "type": "hst",
+   "name": "Polatlı – Afyonkarahisar",
+   "project": "Ankara – İzmir Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "speed": "250 km/sa",
+   "update": "Nisan 2026'da kesim genelinde ilerlemenin yüzde 90'a yaklaştığı açıklandı; kazı işlerinde yüzde 98, köprü ve viyadüklerde yüzde 83 ilerleme var. En uzun tünel olan Köroğlu Tüneli'nin kazısı Ekim 2025'te tamamlandı.",
+   "target": "2027",
+   "statusNote": "Yapım sürüyor",
+   "history": [
+    {
+     "date": "Ekim 2025",
+     "text": "Köroğlu Tüneli'nde ışık göründü."
+    },
+    {
+     "date": "Kasım 2025",
+     "text": "Bakan, Polatlı – Afyonkarahisar arasının 2027'de, hattın tamamının 2028'de bitirilmesinin hedeflendiğini söyledi."
+    },
+    {
+     "date": "Nisan 2026",
+     "text": "Kesim genelinde ilerlemenin yüzde 90'a yaklaştığı açıklandı."
+    }
+   ],
+   "stations": [
+    "Polatlı",
+    "Emirdağ",
+    "Afyonkarahisar"
+   ],
+   "sources": [
+    {
+     "title": "11,5 Milyon Kişi Daha YHT Konforuyla Seyahat Edecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-04-03",
+     "url": "https://www.uab.gov.tr/haberler/11-5-milyon-kisi-daha-yht-konforuyla-seyahat-edecek/"
+    },
+    {
+     "title": "2 Bin 171 Proje, Toplam 5,2 Trilyon Lira Yatırım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-11-19",
+     "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+    },
+    {
+     "title": "Ankara-İzmir YHT'nin En Uzun Tünelinde Işık Göründü",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-10-08",
+     "url": "https://www.uab.gov.tr/haberler/ankara-izmir-yht-nin-en-uzun-tuenelinde-isik-goeruendue/"
+    },
+    {
+     "title": "Ankara-İzmir Hızlı Tren Projesi, teknik özellikler",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+     "date": "2026-11-11",
+     "url": "https://aygm.uab.gov.tr/media/aygm/v0mpwbzy/ankara-izmir-hizli-tren-projesi.docx"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    478258753,
+    1030042234,
+    1302552090,
+    952628924,
+    1015856861,
+    1015856819,
+    1015856839,
+    1015856820,
+    1015856860,
+    1015856838,
+    1212238582,
+    1212238583,
+    1212238581,
+    1212238579,
+    1203411848,
+    1015866624,
+    478258760,
+    1015866625,
+    1212238589,
+    478258757,
+    1212238592,
+    1212238597,
+    1212238598,
+    478258756,
+    478258758,
+    478258755,
+    478258759,
+    478258762,
+    478258763,
+    478258761,
+    478258764,
+    478258767,
+    478258765,
+    525133410,
+    478258766,
+    1203412033,
+    1203412032,
+    1203411844,
+    1212238614,
+    1203411846,
+    1203411847,
+    1203411845,
+    1212238615,
+    1203411843,
+    1212238630,
+    1212238633,
+    1070406006,
+    1070406007,
+    1070406004,
+    1070406005,
+    1070406002,
+    1070406003,
+    1070406001,
+    1212238642,
+    1212238643,
+    1070406000,
+    1070405997,
+    1070405996,
+    1212238658,
+    1070405998,
+    1070405999,
+    1212238659,
+    1026718090,
+    1212238669,
+    1026718089,
+    1212238667,
+    213558312,
+    1466412581,
+    846912860,
+    107629880,
+    494825008,
+    846912857,
+    846912854,
+    846912852,
+    494825005,
+    494825006,
+    846912850,
+    846912849,
+    846912851,
+    846912843,
+    846912844,
+    846912837,
+    846912836,
+    846912833,
+    1464140345,
+    846912830,
+    846912832,
+    1464140344,
+    846912831,
+    1464140348,
+    1464140347
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-afyonkarahisar-izmir",
+   "type": "hst",
+   "name": "Afyonkarahisar – İzmir",
+   "project": "Ankara – İzmir Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "TCDD Genel Müdürlüğü (Banaz – Manisa altyapısı); Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü (tamamlama ve üstyapı)",
+   "speed": "250 km/sa",
+   "update": "Ağustos 2025'te TCDD'nin yaptığı 180 km'lik Banaz – Eşme – Salihli – Manisa kesiminin altyapısında yüzde 77 ilerleme açıklandı. Nisan 2026'da Bakan, hattın Afyonkarahisar'dan sonra kademeli olarak İzmir'e ulaşacağını söyledi.",
+   "target": "2028",
+   "statusNote": "Altyapı yapımı sürüyor",
+   "history": [
+    {
+     "date": "Ağustos 2025",
+     "text": "Banaz – Manisa arasındaki 180 km'lik altyapıda ilerleme yüzde 77."
+    },
+    {
+     "date": "Kasım 2025",
+     "text": "Bakan, hattın tamamının 2028'de bitirilmesinin hedeflendiğini söyledi."
+    }
+   ],
+   "stations": [
+    "Afyonkarahisar",
+    "Uşak",
+    "Salihli",
+    "Manisa",
+    "Menemen"
+   ],
+   "sources": [
+    {
+     "title": "11,5 Milyon Vatandaş Doğrudan Hızlı Tren Konforuna Kavuşacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-08-08",
+     "url": "https://www.uab.gov.tr/haberler/11-5-milyon-vatandas-dogrudan-hizli-tren-konforuna-kavusacak/"
+    },
+    {
+     "title": "2 Bin 171 Proje, Toplam 5,2 Trilyon Lira Yatırım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-11-19",
+     "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+    },
+    {
+     "title": "11,5 Milyon Kişi Daha YHT Konforuyla Seyahat Edecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-04-03",
+     "url": "https://www.uab.gov.tr/haberler/11-5-milyon-kisi-daha-yht-konforuyla-seyahat-edecek/"
+    },
+    {
+     "title": "Ankara-İzmir YHT'nin En Uzun Tünelinde Işık Göründü",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-10-08",
+     "url": "https://www.uab.gov.tr/haberler/ankara-izmir-yht-nin-en-uzun-tuenelinde-isik-goeruendue/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1024304326,
+    1490615687,
+    1154484767,
+    1392110367,
+    1302690045,
+    1484489564,
+    1484489563,
+    1302690047,
+    1483941232,
+    1050285189,
+    1050285190,
+    1050285191,
+    1024304283,
+    1050285188,
+    1024304282,
+    1050285186,
+    947888545,
+    1024304286,
+    1050285187,
+    1024304285,
+    1024304284,
+    1024304321,
+    1050285185,
+    1024304325,
+    1024304327,
+    1024304322,
+    1024304323,
+    1024304324,
+    1186829710,
+    1050285193,
+    1050285195,
+    1050285194,
+    1050285192,
+    1213136649,
+    1213136650,
+    1030042274,
+    1030042273,
+    1030042269,
+    1030042272,
+    1030042271,
+    1030042270,
+    1030042267,
+    1030042268,
+    1023824886,
+    1023824885,
+    1030042246,
+    1030042247,
+    1030042244,
+    1030042245,
+    1030042242,
+    1030042243,
+    1273139661,
+    1213136634,
+    781123273,
+    1273139662,
+    1030042250,
+    1030042248,
+    1030042249,
+    1030042251,
+    1030042240,
+    1030042241,
+    1212846871,
+    1030042235,
+    1030042234,
+    1302552090,
+    1212846882,
+    1212846883,
+    1212846879,
+    1212846878,
+    1212846875,
+    952628924,
+    16352725,
+    497855065
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-karaman-ulukisla",
+   "type": "hst",
+   "name": "Karaman – Ulukışla",
+   "project": "Konya – Karaman – Ulukışla Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "TCDD Genel Müdürlüğü",
+   "km": 135,
+   "speed": "200 km/sa",
+   "update": "Nisan 2025'te altyapı ve üstyapıda yüzde 92,5, elektrifikasyonda yüzde 5 ilerleme açıklandı; sinyalizasyon ihalesi sonraya bırakılmıştı. Kasım 2025'te Bakanlık hattın 2028 sonuna kadar bitirilmesini hedeflediğini bildirdi.",
+   "target": "2028 sonu",
+   "statusNote": "Elektrifikasyon ve sinyalizasyon aşamasında",
+   "history": [
+    {
+     "date": "Nisan 2025",
+     "text": "Altyapı ve üstyapıda ilerleme yüzde 92,5; hattın 2026 sonu ya da 2027 başında açılması hedeflendi."
+    },
+    {
+     "date": "Kasım 2025",
+     "text": "Bitiş hedefi 2028 sonu olarak açıklandı."
+    }
+   ],
+   "stations": [
+    "Karaman",
+    "Sudurağı",
+    "Ayrancı",
+    "Ereğli",
+    "Çakmak",
+    "Ulukışla"
+   ],
+   "sources": [
+    {
+     "title": "Karaman-Ulukışla Hattı Türkiye'nin Kalkınma Yolu'ndaki Rolünü Güçlendirecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-04-26",
+     "url": "https://www.uab.gov.tr/haberler/karaman-ulukisla-hatti-tuerkiye-nin-kalkinma-yolu-ndaki-roluenue-gueclendirecek/"
+    },
+    {
+     "title": "2 Bin 171 Proje, Toplam 5,2 Trilyon Lira Yatırım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-11-19",
+     "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1197488700,
+    1356773939,
+    13858850,
+    1197666440,
+    104380833,
+    1286657175,
+    1286657174,
+    1197666464,
+    1197666465,
+    152098025,
+    152098031,
+    152098022,
+    152098024,
+    189582393,
+    189582395,
+    1540821350,
+    1540821351,
+    683665976,
+    1197666450,
+    1197666449,
+    1197666454,
+    1197666455,
+    1197666451,
+    1540835667,
+    1540835668,
+    1197684381,
+    1101884781,
+    1101884769,
+    1540835680,
+    1540835677,
+    1101884776,
+    1197684388,
+    1197684389,
+    1197684393,
+    1197684395
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-aksaray-ulukisla-yenice",
+   "type": "hst",
+   "name": "Aksaray – Ulukışla – Yenice",
+   "project": "Aksaray – Ulukışla – Yenice Yüksek Standartlı Demiryolu Projesi",
+   "status": "planned",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "km": 190,
+   "update": "Üç kesimden ilkinin ihalesi 2025 sonunda, diğer ikisinin ihalesi 27 Ocak 2026'da yapıldı; Bakan üç kesimin yaklaşık maliyetini 160 milyar lira olarak açıkladı. Haziran 2026'da Pozantı – Yenice arasındaki 3. kesim için acele kamulaştırma kararı yayımlandı.",
+   "statusNote": "İhaleler yapıldı",
+   "history": [
+    {
+     "date": "2025 sonu",
+     "text": "İlk kesimin ihalesi yapıldı."
+    },
+    {
+     "date": "Ocak 2026",
+     "text": "Kalan iki kesimin ihalesi yapıldı."
+    },
+    {
+     "date": "Haziran 2026",
+     "text": "3. kesim (km 55+001 – 106+126) için acele kamulaştırma kararı Resmî Gazete'de yayımlandı."
+    }
+   ],
+   "approxNote": "Aksaray – Ulukışla arası OSM'deki önerilen güzergâhtan ve Karaman – Ulukışla hattından çizildi. Ulukışla – Yenice arası için güzergâh verisi olmadığından Ulukışla, Belemedik (3. kesimin başı) ve Yenice arasında düz çizgiyle yaklaşık gösterildi.",
+   "stations": [
+    "Aksaray",
+    "Yenice"
+   ],
+   "sources": [
+    {
+     "title": "Bir İlimiz Daha Hızlı Trene Kavuşuyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-01-28",
+     "url": "https://www.uab.gov.tr/haberler/bir-ilimiz-daha-hizli-trene-kavusuyor/"
+    },
+    {
+     "title": "Aksaray-Ulukışla-Yenice Kesimi 3. Kısım Yüksek Standartlı Demiryolu Hattı Projesi Acele Kamulaştırma Kararı (Karar Sayısı: 11403)",
+     "publisher": "Resmî Gazete",
+     "date": "2026-06-06",
+     "url": "https://www.resmigazete.gov.tr/eskiler/2026/06/20260606-8.pdf"
+    },
+    {
+     "title": "Mersin Limanı Kalkınma Yolu ile Avrupa'ya Bağlanıyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-05-03",
+     "url": "https://www.uab.gov.tr/haberler/mersin-limani-kalkinma-yolu-ile-avrupa-ya-baglaniyor/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1410166000,
+    152098027,
+    1135514048,
+    1197684390,
+    1197684391,
+    1197684392,
+    1197684394
+   ],
+   "approx": true
+  },
+  {
+   "id": "yht-mersin-adana",
+   "type": "hst",
+   "name": "Mersin – Adana",
+   "project": "Mersin – Adana – Osmaniye – Gaziantep Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "speed": "200 km/sa",
+   "progress": 84.72,
+   "update": "Kasım 2026'da Mersin – Adana kesiminde fiziki ilerlemenin yüzde 84,72 olduğu açıklandı. Tarsus şehir geçişinin betonarme imalatları bitti; istasyon, köprü ve hat serimi çalışmaları sürüyor.",
+   "target": "2027",
+   "statusNote": "Yapım sürüyor",
+   "history": [
+    {
+     "date": "Mayıs 2026",
+     "text": "Bakan, kesimin yıl sonunda bitirilip 2027'nin ilk aylarında test edilerek açılmasının planlandığını söyledi."
+    },
+    {
+     "date": "Kasım 2026",
+     "text": "İlerleme yüzde 84,72; yapımın 2027'de tamamlanması hedefleniyor."
+    }
+   ],
+   "stations": [
+    "Mersin",
+    "Tarsus",
+    "Adana"
+   ],
+   "sources": [
+    {
+     "title": "Hızlı Tren ile Mersin-Gaziantep Arası 2 Saat 15 Dakikaya Düşecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-11-02",
+     "url": "https://www.uab.gov.tr/haberler/hizli-tren-ile-mersin-gaziantep-arasi-2-saat-15-dakikaya-duesecek/"
+    },
+    {
+     "title": "Mersin Limanı Kalkınma Yolu ile Avrupa'ya Bağlanıyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-05-03",
+     "url": "https://www.uab.gov.tr/haberler/mersin-limani-kalkinma-yolu-ile-avrupa-ya-baglaniyor/"
+    },
+    {
+     "title": "Mersin Limanları, Orta Koridor'a ve Kalkınma Yolu'na Yüksek Hızda Bağlanacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-05-26",
+     "url": "https://www.uab.gov.tr/haberler/mersin-limanlari-orta-koridor-a-ve-kalkinma-yolu-na-yueksek-hizda-baglanacak/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1220132825,
+    252209809,
+    1220132826,
+    1220132820,
+    1220132824,
+    1220342026,
+    1220342022,
+    1220342025,
+    1220342030,
+    1220342029,
+    1220343230,
+    1220343229,
+    1220576001,
+    1220576010,
+    1220576002,
+    1220576009,
+    1220576015,
+    1220576017,
+    1220576016,
+    1481582678,
+    1112839007,
+    1071901361,
+    1481582683,
+    1308010150,
+    1308010155,
+    1308010151,
+    1112839008,
+    1308010139,
+    1308010140,
+    1302741958,
+    1553953825
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-cukurova-havalimani",
+   "type": "hst",
+   "name": "Çukurova Havalimanı bağlantısı",
+   "project": "Mersin – Adana – Osmaniye – Gaziantep Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı (AYGM)",
+   "update": "Şubat 2026'da Bakanlık, Çukurova Havalimanı bağlantısında ilerlemenin yüzde 90 olduğunu açıkladı. Kasım 2026 başında üstyapı imalatlarının ve Seyhan ile Çukurova viyadüklerinin tamamlandığı bildirildi. Bağlantı bitince Adana ve Mersin'den havalimanına trenle yaklaşık 23 dakikada gidilecek.",
+   "statusNote": "Üstyapı tamamlandı",
+   "history": [
+    {
+     "date": "Şubat 2026",
+     "text": "Bağlantıda ilerleme yüzde 90 olarak açıklandı."
+    },
+    {
+     "date": "Kasım 2026",
+     "text": "Üstyapı ile Seyhan ve Çukurova viyadüklerinin tamamlandığı bildirildi."
+    }
+   ],
+   "stations": [
+    "Çukurova Havalimanı"
+   ],
+   "sources": [
+    {
+     "title": "Hızlı Tren ile Mersin-Gaziantep Arası 2 Saat 15 Dakikaya Düşecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "url": "https://www.uab.gov.tr/haberler/hizli-tren-ile-mersin-gaziantep-arasi-2-saat-15-dakikaya-duesecek/"
+    },
+    {
+     "title": "Mersin ile Gaziantep arası seyahat hızlı trenle 2 saat 15 dakikaya inecek",
+     "publisher": "Anadolu Ajansı (Foreks)",
+     "date": "2026-11-02",
+     "url": "https://www.foreks.com/haber/detay/6ae855d2b79e301c04a66d9c/AA/tr/mersin-ile-gaziantep-arasi-seyahat-hizli-trenle-2-saat-15-dakikaya-inecek-02-11-26/"
+    },
+    {
+     "title": "Dört ili birbirine bağlayacak hızlı tren projesi 2028'de tamamlanacak",
+     "publisher": "Medyascope",
+     "date": "2026-02-08",
+     "url": "https://medyascope.tv/2026/02/08/dort-ili-birbirine-baglayacak-hizli-tren-projesi-2028de-tamamlanacak/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "approx": false,
+   "osm_ways": [
+    1098368849,
+    1220131115,
+    1220131103,
+    1466764290,
+    1466764291,
+    1220131104
+   ]
+  },
+  {
+   "id": "yht-adana-gaziantep",
+   "type": "hst",
+   "name": "Adana – Gaziantep",
+   "project": "Mersin – Adana – Osmaniye – Gaziantep Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "TCDD Genel Müdürlüğü; Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "speed": "200 km/sa",
+   "update": "Şubat 2026'da Toprakkale – Mamure arasındaki 17 km'lik kesim tamamlandı. Kasım 2026'da Nurdağı tünellerinde kaplama betonu ve flüt imalatlarının bittiği açıklandı.",
+   "target": "2028",
+   "statusNote": "Yapım sürüyor",
+   "history": [
+    {
+     "date": "Şubat 2026",
+     "text": "Proje genelinde ilerleme yüzde 85; Toprakkale – Mamure kesimi tamamlandı; bitiş hedefi 2028."
+    },
+    {
+     "date": "Mayıs 2026",
+     "text": "Osmaniye ve Nurdağı istasyonlarının yapımı sürüyor."
+    },
+    {
+     "date": "Kasım 2026",
+     "text": "Nurdağı tünellerinde kaplama imalatları bitti."
+    }
+   ],
+   "stations": [
+    "Adana",
+    "Osmaniye",
+    "Nurdağı",
+    "Gaziantep"
+   ],
+   "sources": [
+    {
+     "title": "Gaziantep, Mersin Limanı'na Yüksek Hızda Bağlanacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-02-08",
+     "url": "https://www.uab.gov.tr/haberler/gaziantep-mersin-limani-na-yueksek-hizda-baglanacak/"
+    },
+    {
+     "title": "Hızlı Tren ile Mersin-Gaziantep Arası 2 Saat 15 Dakikaya Düşecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-11-02",
+     "url": "https://www.uab.gov.tr/haberler/hizli-tren-ile-mersin-gaziantep-arasi-2-saat-15-dakikaya-duesecek/"
+    },
+    {
+     "title": "Mersin Limanları, Orta Koridor'a ve Kalkınma Yolu'na Yüksek Hızda Bağlanacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-05-26",
+     "url": "https://www.uab.gov.tr/haberler/mersin-limanlari-orta-koridor-a-ve-kalkinma-yolu-na-yueksek-hizda-baglanacak/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1302741952,
+    1302741951,
+    1302741953,
+    1302712515,
+    1302712511,
+    1302712512,
+    1302736785,
+    88379154,
+    272040592,
+    1476988976,
+    1476988974,
+    1476988975,
+    1302726059,
+    1302726063,
+    1302726056,
+    1302865782,
+    1302726064,
+    1302726060,
+    1302726062,
+    1302726058,
+    1302726061,
+    1303313022,
+    1302726054,
+    1449568825,
+    1302726055,
+    1212057683,
+    1212106513,
+    1031657051,
+    1306992462,
+    1306992464,
+    1306992467,
+    1212057684,
+    1212106516,
+    1212106515,
+    982278066,
+    1212057678,
+    1212057681,
+    1540222739,
+    1212057679,
+    1212057680,
+    982278067,
+    1156451277,
+    982278068,
+    1156451278,
+    982250113,
+    982258527,
+    982258528,
+    982258529,
+    982258531,
+    982258530,
+    982261507,
+    1156451298,
+    982261510,
+    1156451283,
+    982261509,
+    1156451289,
+    1156451294,
+    1156451284,
+    1156451285,
+    1156451295,
+    1156451299,
+    1156451300,
+    15801271,
+    268096325,
+    268096324,
+    1302730395,
+    1302730417,
+    1534331871,
+    1302730418,
+    1534331872,
+    1466495134,
+    206813195,
+    1534331864,
+    249107105,
+    1534331865,
+    88375622,
+    1534238020,
+    1466496482,
+    1466496481,
+    1466495135,
+    88379156,
+    1534238021,
+    1534238025,
+    1534238024,
+    88379168,
+    88379180,
+    273844000,
+    1110580835,
+    274122572,
+    1120747224,
+    870947616,
+    1309976951,
+    1535593111,
+    1110593483,
+    870947618,
+    870947617,
+    1110580843
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-toprakkale-iskenderun",
+   "type": "hst",
+   "name": "Toprakkale – İskenderun",
+   "project": "Toprakkale – İskenderun Hızlı Tren Projesi",
+   "status": "planned",
+   "authority": "TCDD Genel Müdürlüğü",
+   "km": 59,
+   "update": "2026 Yatırım Programı'na 2026–2029 dönemi için yeni proje olarak alındı. Fizibilite etüdü Strateji ve Bütçe Başkanlığınca onaylanmadan ihaleye çıkılamıyor.",
+   "statusNote": "Fizibilite onayı bekleniyor",
+   "approxNote": "Güzergâh yayımlanmadı; Toprakkale ve İskenderun istasyonları arasında düz çizgiyle yaklaşık gösterildi.",
+   "stations": [
+    "Toprakkale",
+    "İskenderun"
+   ],
+   "sources": [
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [],
+   "approx": true
+  },
+  {
+   "id": "hat-payas-hassa",
+   "type": "main",
+   "name": "Payas – Hassa",
+   "project": "Dörtyol – Hassa Demiryolu ve Otoyolu Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı",
+   "km": 25,
+   "update": "Mayıs 2026'da Bakanlık, yer tesliminin yapıldığını ve mobilizasyon çalışmalarının sürdüğünü açıkladı. İlk etapta Amanos Dağları altında 19,5 km'lik bir demiryolu tüneli yapılıyor; projede toplam 55 km demiryolu planlanıyor.",
+   "statusNote": "Yapım başladı",
+   "history": [
+    {
+     "date": "Eylül 2025",
+     "text": "1,55 milyar avroluk dış finansman sağlandı."
+    },
+    {
+     "date": "Şubat 2026",
+     "text": "Tünel kazı ve inşa çalışmalarına başlanacağı açıklandı."
+    },
+    {
+     "date": "Mayıs 2026",
+     "text": "Yer teslimi yapıldı; mobilizasyon sürüyor."
+    }
+   ],
+   "stations": [],
+   "sources": [
+    {
+     "title": "Amik Ovasına Ulaşım 1 Saatten 5 Dakikaya Düşecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-05-31",
+     "url": "https://www.uab.gov.tr/haberler/amik-ovasina-ulasim-1-saatten-5-dakikaya-duesecek/"
+    },
+    {
+     "title": "Orta Koridoru Akdeniz'e Bağlayan Projede İnşaat Başlıyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-02-20",
+     "url": "https://www.uab.gov.tr/haberler/orta-koridoru-akdenize-baglayan-projede-insaat-basliyor/"
+    },
+    {
+     "title": "Dörtyol-Hassa Demiryolu ve Otoyol Projesi İçin 1,55 Milyar Euro Finansman",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-09-02",
+     "url": "https://www.uab.gov.tr/haberler/doertyol-hassa-demiryolu-ve-otoyol-projesi-icin-1-55-milyar-euro-finansman/"
+    }
+   ],
+   "osm_ways": [
+    1409530472,
+    1409530474,
+    1467979791,
+    1467979792,
+    1409530475
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-gaziantep-sanliurfa",
+   "type": "hst",
+   "name": "Gaziantep – Şanlıurfa",
+   "project": "Kalkınma Yolu Projesi",
+   "status": "planned",
+   "authority": "TCDD Genel Müdürlüğü",
+   "km": 136,
+   "update": "2026 Yatırım Programı'nda 2025–2030 dönemiyle yer alıyor. Ekim 2026'da projelerin tamamlandığı ve en kısa sürede ihaleye çıkılmasının planlandığı açıklandı.",
+   "statusNote": "İhale bekleniyor",
+   "history": [
+    {
+     "date": "Ocak 2026",
+     "text": "Yatırım programında hızlı tren çift hat (136 km) olarak yer aldı."
+    },
+    {
+     "date": "Ekim 2026",
+     "text": "Projelerin tamamlandığı, ihalenin en kısa sürede yapılmasının planlandığı açıklandı."
+    }
+   ],
+   "stations": [
+    "Gaziantep",
+    "Şanlıurfa"
+   ],
+   "sources": [
+    {
+     "title": "Şanlıurfa'da Ulaştırma Yatırımları Hizmete Açıldı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-03",
+     "url": "https://www.uab.gov.tr/haberler/sanliurfa-da-ulastirma-yatirimlari-hizmete-acildi/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1312329532,
+    1110586509,
+    16941042,
+    274151411,
+    88493524
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-sanliurfa-mardin",
+   "type": "hst",
+   "name": "Şanlıurfa – Mardin",
+   "project": "Kalkınma Yolu Projesi",
+   "status": "planned",
+   "authority": "TCDD Genel Müdürlüğü",
+   "km": 180,
+   "update": "2026 Yatırım Programı'nda 2025–2031 dönemiyle yer alıyor. Ekim 2026'da projelerin tamamlandığı ve en kısa sürede ihaleye çıkılmasının planlandığı açıklandı.",
+   "statusNote": "İhale bekleniyor",
+   "history": [
+    {
+     "date": "Ocak 2026",
+     "text": "Yatırım programında hızlı tren çift hat (180 km) olarak yer aldı."
+    },
+    {
+     "date": "Ekim 2026",
+     "text": "Projelerin tamamlandığı, ihalenin en kısa sürede yapılmasının planlandığı açıklandı."
+    }
+   ],
+   "stations": [
+    "Şanlıurfa",
+    "Mardin"
+   ],
+   "sources": [
+    {
+     "title": "Şanlıurfa'da Ulaştırma Yatırımları Hizmete Açıldı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-03",
+     "url": "https://www.uab.gov.tr/haberler/sanliurfa-da-ulastirma-yatirimlari-hizmete-acildi/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1312325882
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-malatya-narli",
+   "type": "hst",
+   "name": "Malatya – Narlı",
+   "project": "Malatya – Narlı – Nurdağı Hızlı Tren Projesi",
+   "status": "planned",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "km": 155,
+   "update": "2026 Yatırım Programı'na 155 km'lik çift hatlı, elektrikli ve sinyalli yeni proje olarak alındı (2026–2029). Fizibilite etüdü onaylanmadan ihaleye çıkılamıyor.",
+   "statusNote": "Fizibilite onayı bekleniyor",
+   "approxNote": "Güzergâh yayımlanmadı; Malatya ve Narlı istasyonları arasında düz çizgiyle yaklaşık gösterildi.",
+   "stations": [
+    "Malatya",
+    "Narlı"
+   ],
+   "sources": [
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    },
+    {
+     "title": "Kahramanmaraş'a Yüksek Hızlı Tren Müjdesi",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-02-10",
+     "url": "https://www.uab.gov.tr/haberler/kahramanmarasa-yueksek-hizli-tren-muejdesi/"
+    },
+    {
+     "title": "2 Bin 171 Proje, Toplam 5,2 Trilyon Lira Yatırım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-11-19",
+     "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+    }
+   ],
+   "osm_ways": [],
+   "approx": true
+  },
+  {
+   "id": "yht-yerkoy-kayseri",
+   "type": "hst",
+   "name": "Yerköy – Kayseri",
+   "project": "Yerköy – Kayseri Yüksek Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "km": 142,
+   "speed": "250 km/sa",
+   "progress": 53,
+   "update": "Ağustos 2026'da proje genelinde yüzde 53 fiziki ilerleme açıklandı; Ekim 2026'da T1, T2, T3/4 ve T5 tünellerinin kazısının tamamlandığı bildirildi. Himmetdede'ye kadar olan bölümün 2027'de bitirilmesi hedefleniyor.",
+   "target": "2028'in ikinci yarısı",
+   "statusNote": "Yapım sürüyor",
+   "history": [
+    {
+     "date": "Kasım 2025",
+     "text": "Bakanlık hattın 2028 sonuna kadar bitirilmesini hedeflediğini açıkladı."
+    },
+    {
+     "date": "Ağustos 2026",
+     "text": "Fiziki ilerleme yüzde 53."
+    },
+    {
+     "date": "Ekim 2026",
+     "text": "Fiziki ilerlemenin yüzde 50'yi aştığı, dört tünelin kazısının bittiği açıklandı."
+    }
+   ],
+   "stations": [
+    "Yerköy",
+    "Şefaatli",
+    "Yenifakılı",
+    "Himmetdede",
+    "Kayseri"
+   ],
+   "sources": [
+    {
+     "title": "Ankara-Kayseri Arası 1 Saat 45 Dakikaya Düşecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-18",
+     "url": "https://www.uab.gov.tr/haberler/ankara-kayseri-arasi-1-saat-45-dakikaya-duesecek/"
+    },
+    {
+     "title": "Kayseri-Ankara Arası 1 Saat 45 Dakikaya, Kayseri-İstanbul Arası 5 Saate Düşecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-08-08",
+     "url": "https://www.uab.gov.tr/haberler/kayseri-ankara-arasi-1-saat-45-dakikaya-kayseri-istanbul-arasi-5-saate-duesecek/"
+    },
+    {
+     "title": "2 Bin 171 Proje, Toplam 5,2 Trilyon Lira Yatırım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-11-19",
+     "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1550896528,
+    1550896536,
+    1550896540,
+    1163113532,
+    1550896526,
+    1244705086,
+    1244705059,
+    1244705053,
+    1244705057,
+    1244705054,
+    1244705073,
+    1244705074,
+    1244705076,
+    1244705079,
+    1244705081,
+    1244705082,
+    1244705084,
+    1244705069,
+    1244705063,
+    1244705066,
+    1244705064,
+    1244705071,
+    1244705060,
+    1244705089,
+    1244705050,
+    1244705049,
+    1244705045,
+    1244705046,
+    1244705043,
+    1244705040,
+    1244705042,
+    1550896542,
+    1550896531,
+    1550896532,
+    1550896534,
+    87340325,
+    1455950698,
+    706725737,
+    893914321,
+    266009518,
+    266010448,
+    87340311,
+    1455950699,
+    254817033,
+    1176344502,
+    1176344501,
+    1176344500,
+    1176344503,
+    87344572,
+    254817031,
+    87340299,
+    89554858,
+    87344580,
+    903768039
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-delice-corum",
+   "type": "hst",
+   "name": "Delice – Çorum",
+   "project": "Ankara – Kırıkkale – Çorum – Samsun Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "TCDD Genel Müdürlüğü",
+   "km": 120,
+   "speed": "200 km/sa",
+   "update": "Ekim 2026'da genel ilerlemenin yüzde 40'ı aştığı açıklandı; kazı işlerinde yüzde 90 ilerleme var, 8 tünel ile 31 köprünün 19'unda çalışma sürüyor.",
+   "target": "2028 sonu",
+   "statusNote": "Yapım sürüyor",
+   "history": [
+    {
+     "date": "Haziran 2025",
+     "text": "Temeli atıldı."
+    },
+    {
+     "date": "Kasım 2025",
+     "text": "Bitiş hedefi 2028 sonu olarak açıklandı."
+    },
+    {
+     "date": "Haziran 2026",
+     "text": "Genel ilerleme yüzde 25'i aştı."
+    },
+    {
+     "date": "Ekim 2026",
+     "text": "Genel ilerleme yüzde 40'ı aştı."
+    }
+   ],
+   "stations": [
+    "Delice",
+    "Çorum"
+   ],
+   "sources": [
+    {
+     "title": "Ankara-Samsun Arası 2,5 Saate Düşecek",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-14",
+     "url": "https://www.uab.gov.tr/haberler/ankara-samsun-arasi-2-5-saate-duesecek-1/"
+    },
+    {
+     "title": "Hızlı Tren Samsun'a Bir Adım Daha Yaklaştı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-06-05",
+     "url": "https://www.uab.gov.tr/haberler/hizli-tren-samsun-a-bir-adim-daha-yaklasti/"
+    },
+    {
+     "title": "2 Bin 171 Proje, Toplam 5,2 Trilyon Lira Yatırım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-11-19",
+     "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1418889822,
+    1418889816,
+    1463262116,
+    1463262103,
+    1463262107,
+    1463262105
+   ],
+   "approx": false
+  },
+  {
+   "id": "yht-corum-havza",
+   "type": "hst",
+   "name": "Çorum – Havza",
+   "project": "Ankara – Kırıkkale – Çorum – Samsun Hızlı Tren Projesi",
+   "status": "planned",
+   "authority": "TCDD Genel Müdürlüğü",
+   "km": 106,
+   "update": "Haziran 2026'da 66 km'lik Çorum – Merzifon ve 37 km'lik Merzifon – Havza kesimlerinin ihalesi yapıldı; yer tesliminin ardından çalışmalara başlanacak.",
+   "statusNote": "İhale yapıldı; yer teslimi bekleniyor",
+   "history": [
+    {
+     "date": "Ocak 2026",
+     "text": "Çorum – Samsun Hızlı Tren 1. Etap olarak yatırım programına alındı."
+    },
+    {
+     "date": "Haziran 2026",
+     "text": "Çorum – Merzifon ve Merzifon – Havza kesimlerinin ihalesi yapıldı."
+    }
+   ],
+   "approxNote": "OSM'deki önerilen güzergâh Çorum istasyonunun yaklaşık 4 km kuzeyinde başlıyor; bu ara düz çizgiyle birleştirildi.",
+   "stations": [
+    "Çorum",
+    "Havza"
+   ],
+   "sources": [
+    {
+     "title": "Hızlı Tren Samsun'a Bir Adım Daha Yaklaştı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-06-05",
+     "url": "https://www.uab.gov.tr/haberler/hizli-tren-samsun-a-bir-adim-daha-yaklasti/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1354911145
+   ],
+   "approx": true
+  },
+  {
+   "id": "yht-sivas-zara",
+   "type": "hst",
+   "name": "Sivas – Zara",
+   "project": "Sivas – Erzincan Hızlı Tren Projesi",
+   "status": "construction",
+   "authority": "TCDD Genel Müdürlüğü",
+   "update": "Bakanlığın Temmuz 2026'da TBMM'ye verdiği yazılı yanıta göre Sivas – Zara arasında 5. ve 24. kilometreler arasındaki 19 km'lik kesimin altyapısında yüzde 62,4 ilerleme var ve işin tamamlanması için ödenek temini sürüyor. 2026 Yatırım Programı'nda projeye 1.000 TL ödenek ayrıldı.",
+   "statusNote": "Yavaş ilerliyor; ödenek bekleniyor",
+   "history": [
+    {
+     "date": "Ocak 2024",
+     "text": "Bakanlık, 1. kesim altyapı işine süre uzatımı verildiğini ve yapımın sürdüğünü bildirdi."
+    },
+    {
+     "date": "Temmuz 2026",
+     "text": "19 km'lik kesimin altyapısında ilerleme yüzde 62,4."
+    }
+   ],
+   "stations": [
+    "Sivas",
+    "Zara"
+   ],
+   "sources": [
+    {
+     "title": "İktidarın ilk sözünü 2009 yılında verdiği Sivas-Erzincan YHT Projesi aradan geçen yıllara karşın tamamlanamadı",
+     "publisher": "Cumhuriyet (Bakanlığın TBMM yazılı yanıtını aktarıyor)",
+     "date": "2026-07-31",
+     "url": "https://www.cumhuriyet.com.tr/turkiye/iktidarin-ilk-sozunu-2009-yilinda-verdigi-sivas-erzincan-yht-projesi-aradan-gecen-yillara-karsin-tamamlanamadi-2525224"
+    },
+    {
+     "title": "7/7273 esas sayılı yazılı soru önergesinin cevabı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı (TBMM)",
+     "date": "2024-01-15",
+     "url": "https://cdn.tbmm.gov.tr/KKBSPublicFile/D28/Y2/T7/WebOnergeMetni/4ec7beb1-2aae-4347-8f60-4a18f547f1ee.pdf"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1216868774,
+    1392217243,
+    1392217244,
+    1392217248,
+    903772886,
+    1216868775,
+    1392217239,
+    1216868776,
+    1392217240,
+    1392217254,
+    1392217253,
+    1216868777,
+    1216868783,
+    1216868782,
+    1216868771,
+    1216868788,
+    1216868786,
+    1416512770,
+    1216868770,
+    1416415973,
+    1416512782,
+    1416512774,
+    1416512773,
+    1416512777,
+    1416512779,
+    1216868792,
+    1416512780,
+    1416512786,
+    1416512787,
+    1416415970,
+    1359855365,
+    1216868794,
+    1359855362,
+    1216868795,
+    1216868797,
+    1216868800,
+    954687843,
+    1216868801,
+    1257491824,
+    1257491823,
+    1257491826,
+    985818986,
+    985818985
+   ],
+   "approx": false
+  },
+  {
+   "id": "hat-kars-dilucu",
+   "type": "main",
+   "name": "Kars – Dilucu",
+   "project": "Kars – Iğdır – Aralık – Dilucu Demiryolu Projesi",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+   "km": 224,
+   "speed": "160 km/sa",
+   "update": "Temeli Ağustos 2025'te atıldı; Bakanlık Mart 2026'da yapım çalışmalarının sürdüğünü bildirdi. Çift hatlı, elektrikli ve sinyalli hattın yılda 5,5 milyon yolcu taşıma kapasitesi olacak.",
+   "statusNote": "Yapım sürüyor",
+   "history": [
+    {
+     "date": "Ağustos 2025",
+     "text": "2,4 milyar avroluk dış finansman sağlandı; 22 Ağustos'ta temel atıldı."
+    },
+    {
+     "date": "Mart 2026",
+     "text": "Bakanlık TBMM'ye verdiği yanıtta yapımın sürdüğünü bildirdi."
+    }
+   ],
+   "stations": [
+    "Kars",
+    "Dilucu"
+   ],
+   "sources": [
+    {
+     "title": "Zengezur Koridoru'nda Tarihi Adım",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-08-20",
+     "url": "https://www.uab.gov.tr/haberler/zengezur-koridoru-nda-tarihi-adim/"
+    },
+    {
+     "title": "Kalkınma Yolu, Taşımacılıkta 20 Gün Kazandıracak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-19",
+     "url": "https://www.uab.gov.tr/haberler/kalkinma-yolu-tasimacilikta-20-guen-kazandiracak/"
+    },
+    {
+     "title": "7/30803 esas sayılı yazılı soru önergesinin cevabı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı (TBMM)",
+     "date": "2026-03-18",
+     "url": "https://cdn.tbmm.gov.tr/KKBSPublicFile/D28/Y3/T7/WebOnergeMetni/82b309f4-2d90-4883-a697-7e5ea0500f36.pdf"
+    },
+    {
+     "title": "Kars – Iğdır – Aralık – Dilucu Demiryolu Bağlantısı, teknik özellikler",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı, Altyapı Yatırımları Genel Müdürlüğü",
+     "date": "2026-11-11",
+     "url": "https://aygm.uab.gov.tr/media/aygm/sfsh0pla/kars-igdir-aralik-dilucu-demiryolu-baglantisi.docx"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1329000251,
+    194074832,
+    195592729,
+    545909010,
+    545909009
+   ],
+   "approx": false
+  },
+  {
+   "id": "hat-kurtalan-siirt",
+   "type": "main",
+   "name": "Kurtalan – Siirt",
+   "project": "Siirt – Kurtalan Demiryolu Projesi",
+   "status": "construction",
+   "authority": "TCDD Genel Müdürlüğü",
+   "km": 34,
+   "speed": "160 km/sa",
+   "update": "Eylül 2026'da genel fiziki ilerlemenin yüzde 30'un üzerinde olduğu açıklandı. Hat havalimanı, üniversite ve şehir merkezini demiryoluna bağlayacak; yılda yaklaşık 500 bin yolcu potansiyeli öngörülüyor.",
+   "statusNote": "Yapım sürüyor",
+   "history": [
+    {
+     "date": "Nisan 2025",
+     "text": "2025 Yatırım Programı'na alındı; ihalenin 28 Mayıs'ta yapılacağı açıklandı."
+    },
+    {
+     "date": "Eylül 2026",
+     "text": "Genel fiziki ilerleme yüzde 30'un üzerinde."
+    }
+   ],
+   "stations": [
+    "Yeni Kurtalan",
+    "Havalimanı-Üniversite",
+    "Siirt"
+   ],
+   "sources": [
+    {
+     "title": "Siirt, Demiryolu Ağına Bağlanan 47. İl Olacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-09-23",
+     "url": "https://www.uab.gov.tr/haberler/siirt-demiryolu-agina-baglanan-47-il-olacak/"
+    },
+    {
+     "title": "Siirt-Kurtalan Yolu Hizmete Açıldı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-04-21",
+     "url": "https://www.uab.gov.tr/haberler/siirt-kurtalan-yolu-hizmete-acildi/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-15",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "osm_ways": [
+    1363131454,
+    1363134414,
+    1363134415,
+    1363134413,
+    1363134411,
+    1363134412,
+    1363134416,
+    1363134398,
+    1363134401,
+    1363134399,
+    1363134400,
+    1363134397,
+    1363134410,
+    1363134402,
+    1363134403,
+    1363134404,
+    1363134405,
+    1363134406,
+    1363134407,
+    1363134408,
+    1363134409
+   ],
+   "approx": false
+  },
+  {
+   "id": "hat-turistik-karaelmas",
+   "type": "main",
+   "name": "Ankara – Zonguldak",
+   "alias": "Turistik Karaelmas Ekspresi",
+   "status": "open",
+   "opened": 2025,
+   "authority": "TCDD Taşımacılık",
+   "update": "İlk seferini 13 Haziran 2025'te yaptı. 2026 sezonunda Ankara'dan 2, 16 ve 30 Ekim ile 13 Kasım tarihlerinde hareket ediyor; toplam 8 sefer yapılıyor.",
+   "statusNote": "Yalnızca belirli tarihlerde çalışan turistik tren",
+   "note": "Mevcut hat üzerinde turizm amaçlı işletilen tren; yeni bir hat değildir.",
+   "history": [
+    {
+     "date": "Haziran 2025",
+     "text": "İlk sefer yapıldı."
+    },
+    {
+     "date": "Eylül 2026",
+     "text": "2026 sezonu seferleri açıklandı."
+    }
+   ],
+   "stations": [
+    "Ankara",
+    "Kalecik",
+    "Çankırı",
+    "Çerkeş",
+    "Yeşilyenice",
+    "Zonguldak"
+   ],
+   "sources": [
+    {
+     "title": "Turistik Karaelmas Ekspresi Yeniden Raylara İniyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-09-29",
+     "url": "https://www.uab.gov.tr/haberler/turistik-karaelmas-ekspresi-yeniden-raylara-iniyor/"
+    },
+    {
+     "title": "Turistik Karaelmas Ekspresi Yarın Yola Çıkıyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-06-12",
+     "url": "https://www.uab.gov.tr/haberler/turistik-karaelmas-ekspresi-yarin-yola-cikiyor/"
+    }
+   ],
+   "osm_ways": [
+    23237207,
+    646096271,
+    1360333770,
+    771121653,
+    850621612,
+    89604526,
+    1462077114,
+    1462077113,
+    89604595,
+    89604565,
+    89604593,
+    1459319027,
+    89604589,
+    89604591,
+    89604552,
+    89604584,
+    89604529,
+    89604542,
+    89604554,
+    89604546,
+    89604587,
+    89604594,
+    89604572,
+    89604536,
+    89604556,
+    89604528,
+    89604541,
+    89604525,
+    89604524,
+    89604548,
+    89604531,
+    89604539,
+    89604540,
+    89604568,
+    1459319028,
+    89604545,
+    89596570,
+    646080225,
+    643122447,
+    1372197864,
+    643122446,
+    800465289,
+    1339174438,
+    643122444,
+    646080236,
+    643122445,
+    646080237,
+    123915404,
+    123915397,
+    643122440,
+    1207189105,
+    1207189107,
+    646080227,
+    646096255,
+    646080210,
+    800772642,
+    646096256,
+    646096269,
+    646096270,
+    1503665044,
+    1503665043,
+    1504691945,
+    89609071,
+    89608997,
+    89609056,
+    89609052,
+    1573968232,
+    89608971,
+    961561251,
+    1532377034,
+    1573968233,
+    89608975,
+    89608987,
+    89609062,
+    89608980,
+    89609076,
+    89609043,
+    235920365,
+    89609029,
+    89667267,
+    89667298,
+    951789356,
+    89641064,
+    1459072077,
+    1459072078,
+    169956953,
+    1459072080,
+    1459072079,
+    169956943,
+    169956947,
+    1459072081,
+    1459072082,
+    169956942,
+    169956951,
+    169956939,
+    169956935,
+    169956946,
+    169956948,
+    169956944,
+    169956941,
+    169963843,
+    1459852752,
+    1459852753,
+    169963834,
+    169963837,
+    235815309,
+    169963842,
+    273971016,
+    235815305,
+    1459854220,
+    169963833,
+    169963830,
+    1459854221,
+    169963839,
+    169963832,
+    1434868957,
+    1434868958,
+    181317369,
+    181317371,
+    176941416,
+    176941420,
+    230470747,
+    230470750,
+    230470744,
+    169932498,
+    169865973,
+    169932473,
+    169932476,
+    169932479,
+    169932456,
+    186041004,
+    169932460,
+    169932467,
+    169932495,
+    186040995,
+    169932469,
+    169932458,
+    169932471,
+    186040999,
+    186040991,
+    186040978,
+    186040993,
+    186040997,
+    186041002,
+    169932463,
+    169871910,
+    227027575,
+    169865969,
+    265748790,
+    169871919,
+    265748789,
+    169871902,
+    227027574,
+    169865964,
+    1464409731,
+    1464409732,
+    169865972,
+    169865957,
+    169865953,
+    169865960,
+    308074124,
+    491372991,
+    308074125,
+    169865958,
+    169865976,
+    491372990,
+    1435054140,
+    169865970,
+    1435054139,
+    169865974,
+    169865971,
+    169865963,
+    89667227,
+    89682290,
+    89682295,
+    89682372,
+    89682390,
+    89682350,
+    89682289,
+    89682381,
+    89682348,
+    89682327,
+    89682409,
+    89682292,
+    210448002,
+    210448003,
+    89682371,
+    89667261,
+    89682310,
+    235920355,
+    495420902,
+    495420900,
+    235920364,
+    235920369,
+    235920360,
+    235920368,
+    235920371,
+    235920356,
+    235920352,
+    235920366,
+    89667445,
+    89667350,
+    353525877,
+    353525856,
+    89667281,
+    89667458,
+    89682301,
+    89682321,
+    89682411,
+    89682410,
+    89682353,
+    89682384,
+    89682387,
+    89682394,
+    89682397,
+    274036970,
+    274036985,
+    274036966,
+    274036976,
+    274036986,
+    274036990,
+    274036955,
+    274036961,
+    274036965,
+    274036977,
+    274036980,
+    274036948,
+    274036983,
+    274036957,
+    274036954,
+    274036988,
+    274036963,
+    89682344,
+    89682392,
+    89682339,
+    89682406,
+    89667459,
+    89682382,
+    89682413,
+    230495433,
+    274036950,
+    230495429,
+    230495434,
+    1464644599,
+    230495432,
+    274036959,
+    274036968,
+    230495436,
+    1464644598,
+    274036958,
+    274036952,
+    230495430,
+    1464644596,
+    230495435,
+    1464644597,
+    169871906,
+    230495428,
+    230495426,
+    230495431,
+    353525868,
+    169871904,
+    169865979,
+    169865968,
+    169865965,
+    169865962,
+    169865956,
+    169865967,
+    169865954,
+    169865955,
+    353525858,
+    169950490,
+    186040981,
+    169950491,
+    169932506,
+    169950489,
+    1460978364,
+    169950488,
+    186040998,
+    1460978365,
+    1435050002,
+    1435050003,
+    169950487,
+    169950492,
+    186040990,
+    186041001,
+    1460957351,
+    1460957352,
+    186040996,
+    1435049181,
+    1435049180,
+    119996517,
+    81354416,
+    81354447,
+    186041003,
+    186040988,
+    188331722,
+    213552495,
+    213552496,
+    232159981,
+    232159984,
+    232159979,
+    232159975,
+    232159990,
+    232159972,
+    232159986,
+    1460950554,
+    1460950555,
+    232159973,
+    232159968,
+    232159970,
+    1434874720,
+    1434874721,
+    232159978,
+    232159980,
+    232159977,
+    232159976,
+    232159974,
+    232159985,
+    1460949983,
+    1460949984,
+    232159971,
+    232159982,
+    186176864,
+    232159983,
+    186176860,
+    232159969,
+    176941418,
+    176941411,
+    186176858,
+    176941405,
+    186176859,
+    176941408,
+    176941417,
+    176941406,
+    176941407,
+    176941409,
+    176941413,
+    176941404,
+    176941415,
+    176941403,
+    176941412,
+    176941414,
+    176941410,
+    235920367,
+    235920353,
+    757215076,
+    757215075,
+    757215073,
+    235920362,
+    757215074,
+    89609020,
+    235920370,
+    235920358,
+    235920363,
+    273971018,
+    235920351,
+    235920354,
+    235920357,
+    235920361,
+    495420901,
+    495420903,
+    89667318,
+    1567351910,
+    89667311,
+    89667203,
+    89667451,
+    235815308,
+    1026026768,
+    235815306,
+    1026026767,
+    235815307,
+    274032217,
+    274032220,
+    274032218,
+    274032221,
+    274032219,
+    274032223,
+    274032222,
+    169963838,
+    230494043,
+    230494042,
+    169963831,
+    169956936,
+    169963841,
+    169963836,
+    169963835,
+    169956938,
+    273983475,
+    1460703564,
+    273983473,
+    273983465,
+    356072677,
+    1460703565,
+    338490271,
+    273983494,
+    356072676,
+    273983470,
+    273983485,
+    338490269,
+    338490270,
+    1460703566,
+    338490268,
+    1460703567,
+    273983468
+   ],
+   "approx": false
+  }
+ ],
+ "rejected": [
+  {
+   "name": "Zara – Erzincan (Sivas – Erzincan Hızlı Tren Projesinin kalanı)",
+   "reason": "Yatırım programındaki kalem yalnız Sivas ili ve 33 km'yi kapsıyor; kalan kesim için ihale yok, Bakanlık Temmuz 2026'da finansman arandığını bildirdi.",
+   "url": "https://www.cumhuriyet.com.tr/turkiye/iktidarin-ilk-sozunu-2009-yilinda-verdigi-sivas-erzincan-yht-projesi-aradan-gecen-yillara-karsin-tamamlanamadi-2525224"
+  },
+  {
+   "name": "Erzincan – Erzurum – Kars Hızlı Tren",
+   "reason": "2026 Yatırım Programı'nda yalnızca ÇED ve etüt-proje kalemi var; ihale, sözleşme veya finansman bulunamadı.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Mardin – Nusaybin (Kalkınma Yolu)",
+   "reason": "Yatırım programında konvansiyonel çift hat olarak var ama ihale yok; yolcu taşıyacağına dair resmi bir kaynak bulunamadı.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Nusaybin – Cizre – Ovaköy (Habur) (Kalkınma Yolu)",
+   "reason": "Yük ağırlıklı sınır kesimi; yatırım programında var ve Temmuz 2026'da Irak ile mutabakat imzalandı, ama ihale yok ve yolcu taşımacılığı resmi olarak belirtilmemiş.",
+   "url": "https://www.uab.gov.tr/haberler/kalkinma-yolu-nda-calismalarin-bu-sene-baslamasi-hedefleniyor/"
+  },
+  {
+   "name": "Ankara – İstanbul Süper Hızlı Tren",
+   "reason": "2026 Yatırım Programı'nda yok; ihale, onaylı ÇED veya finansman bulunamadı, yalnızca açıklama düzeyinde.",
+   "url": "https://www.turkiyegazetesi.com.tr/ekonomi/super-hizli-trende-ilk-somut-adim-atiliyor-984785"
+  },
+  {
+   "name": "Antalya – Konya – Aksaray – Nevşehir – Kayseri Hızlı Tren (Antalya – Kayseri)",
+   "reason": "Yatırım programında yok; ihale, finansman veya ÇED bulunamadı.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Eskişehir – Kütahya – Afyonkarahisar – Antalya Hızlı Tren",
+   "reason": "Yatırım programında yok; yalnızca planlanan hat olarak söz ediliyor.",
+   "url": "https://www.cnnturk.com/ekonomi/demir-yollarinda-yeni-donem-38-hattin-projesi-tamamlandi-2398408"
+  },
+  {
+   "name": "Delice – Kırşehir – Aksaray (Yerköy – Kırşehir – Aksaray – Ulukışla)",
+   "reason": "Programda yalnızca etüt kalemi; Bakanlık hattın devamı olarak söz ediyor ama ihale veya finansman yok.",
+   "url": "https://www.uab.gov.tr/haberler/8-milyon-kisi-daha-yueksek-hizli-trene-kavusacak/"
+  },
+  {
+   "name": "Kayaş – Kırıkkale – Yerköy Demiryolu",
+   "reason": "Programda yalnızca etüt kalemi.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Havza – Samsun (Çorum – Samsun hattının devamı)",
+   "reason": "Yatırım programında ayrı kalemi yok; ihalesine dair resmi açıklama bulunamadı.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Samsun – Trabzon – Sarp (Samsun – Doğu Karadeniz) Hızlı Tren",
+   "reason": "Programda yalnızca etüt-proje (2026–2028).",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Erzincan – Trabzon Demiryolu",
+   "reason": "Programda yalnızca etüt kalemi.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Sivas – Çetinkaya – Malatya Hızlı Tren",
+   "reason": "Bakan Kasım 2025'te planlandığını söyledi; yatırım programında yapım kalemi yok.",
+   "url": "https://www.uab.gov.tr/haberler/2-bin-171-proje-toplam-5-2-trilyon-lira-yatirim/"
+  },
+  {
+   "name": "Malatya – Elazığ (yeni hat)",
+   "reason": "Programda yalnızca etüt kalemi.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Nurdağı – Kahramanmaraş Hızlı Tren",
+   "reason": "Proje çalışmaları sürüyor; yatırım programında yok.",
+   "url": "https://www.uab.gov.tr/haberler/kahramanmarasa-yueksek-hizli-tren-muejdesi/"
+  },
+  {
+   "name": "Adıyaman – Kahta Demiryolu",
+   "reason": "Projesi bitti (Kasım 2025) ama 2026 Yatırım Programı'nda yok.",
+   "url": "https://www.uab.gov.tr/haberler/adiyaman-a-yeni-demiryolu-projesi/"
+  },
+  {
+   "name": "Karasu – Akçakoca – Zonguldak Demiryolu",
+   "reason": "Programda yalnızca etüt kalemi.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Pamukova – Mekece – Osmaneli – Sarmaşık Demiryolu",
+   "reason": "Programda yalnızca etüt kalemi.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Bursa – Gemlik Demiryolu",
+   "reason": "Programda var (2026–2029) ama fizibilite onayı yok; ağırlıklı olarak liman bağlantısı, yolcu taşıyacağı resmi olarak belirtilmemiş.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Ödemiş – Kiraz Demiryolu",
+   "reason": "Programda var (2018–2030, 2026 ödeneği 1.000 TL) ama fizibilite onayı yok; yolcu taşıyacağına dair resmi açıklama bulunamadı.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Mustafayavuz – Çobanbey Varyantı (Gaziantep – Halep)",
+   "reason": "Programda sembolik ödenekle var; yolcu taşımacılığına dair resmi açıklama ve ihale yok.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Mürşitpınar – Şanlıurfa Kuzey Demiryolu",
+   "reason": "Programda sembolik ödenekle var; yolcu amacı belirtilmemiş, ihale yok.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  },
+  {
+   "name": "Mazıdağ – Mardin / Diyarbakır – Mardin Demiryolu",
+   "reason": "Programda yalnızca etüt kalemi.",
+   "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+  }
+ ]
+}

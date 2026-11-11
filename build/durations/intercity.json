@@ -1,0 +1,63 @@
+[
+ {
+  "line": "yht-ankara-istanbul", "kind": "stated", "label": "Ankara – İstanbul", "min": 247,
+  "note": "Bakanlık, T26 Tüneli ve Doğançay Ripajı-2 tamamlanınca sürenin 3 saat 37 dakikaya ineceğini açıkladı.",
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı", "title": "Ankara-İstanbul YHT seferleri yarım saat kısalacak",
+  "url": "https://www.uab.gov.tr/haberler/ankara-istanbul-yht-seferleri-yarim-saat-kisalacak/", "date": "2026-06-10"
+ },
+ {
+  "line": "yht-ankara-konya", "kind": "stated", "label": "Ankara – Konya", "min": 120, "bound": "under",
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı", "title": "Türkiye'nin 2. yüksek hızlı tren hattı 15 yaşında",
+  "url": "https://www.uab.gov.tr/haberler/tuerkiye-nin-2-yueksek-hizli-tren-hatti-15-yasinda/", "date": "2026-08-23",
+  "vmax": {"kmh": 250, "kind": "tasarım hızı", "scope": "Polatlı–Konya kesimi",
+           "publisher": "TCDD", "title": "Ankara-Konya Yüksek Hızlı Tren Projesi",
+           "url": "https://www.tcdd.gov.tr/projeler/ankara-konya-yuksek-hizli-tren-projesi", "date": null}
+ },
+ {
+  "line": "yht-istanbul-konya", "kind": "stated", "label": "İstanbul – Konya", "min": 290, "km": 644,
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı (Anadolu Ajansı aracılığıyla)", "title": "İstanbul-Konya YHT Hattı 10 yılda 11,2 milyon yolcuya hizmet verdi",
+  "url": "https://www.aa.com.tr/tr/ekonomi/istanbul-konya-yht-hatti-10-yilda-11-2-milyon-yolcuya-hizmet-verdi/3426576", "date": "2024-12-17"
+ },
+ {
+  "line": "yht-ankara-eskisehir", "kind": "stated", "label": "Ankara – Eskişehir", "min": 85,
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı (Anadolu Ajansı aracılığıyla)", "title": "Ankara-Eskişehir YHT ile 20 milyondan fazla yolcu seyahat etti",
+  "url": "https://www.aa.com.tr/tr/ekonomi/ankara-eskisehir-yht-ile-20-milyondan-fazla-yolcu-seyahat-etti/3185266", "date": "2024-04-06"
+ },
+ {
+  "line": "yht-ankara-sivas", "kind": "stated", "label": "Ankara – Sivas", "min": 120, "round": true, "km": 405,
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı (Anadolu Ajansı aracılığıyla)", "title": "Sivas-İstanbul arasında aktarmasız YHT seferleri 4 Mayıs'ta başlayacak",
+  "url": "https://www.aa.com.tr/tr/gundem/sivas-istanbul-arasinda-aktarmasiz-yht-seferleri-4-mayista-baslayacak/3193987", "date": "2024-04-17",
+  "vmax": {"kmh": 250, "kind": "tasarım hızı",
+           "publisher": "TCDD (Anadolu Ajansı aracılığıyla)", "title": "Ankara-Sivas Hızlı Tren Hattı'nın açılışı için son hazırlıklar yapılıyor",
+           "url": "https://www.aa.com.tr/tr/gundem/ankara-sivas-hizli-tren-hattinin-acilisi-icin-son-hazirliklar-yapiliyor/2877087", "date": "2023-04-20"}
+ },
+ {
+  "line": "yht-istanbul-sivas", "kind": "stated", "train": "Ekspres YHT, aktarmasız",
+  "dirs": [{"label": "İstanbul → Sivas", "min": 438, "dep": "08.40", "arr": "15.58"}, {"label": "Sivas → İstanbul", "min": 428, "dep": "13.00", "arr": "20.08"}],
+  "note": "Ekspres sefer Yozgat, Kırıkkale, Ankara, Eskişehir, Arifiye ve Pendik'te durur; ara durak saatleri yayımlanmadı.",
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı (Anadolu Ajansı aracılığıyla)", "title": "Sivas-İstanbul arasında aktarmasız YHT seferleri 4 Mayıs'ta başlayacak",
+  "url": "https://www.aa.com.tr/tr/gundem/sivas-istanbul-arasinda-aktarmasiz-yht-seferleri-4-mayista-baslayacak/3193987", "date": "2024-04-17"
+ },
+ {
+  "line": "yht-ankara-karaman", "kind": "stated", "label": "Ankara – Karaman", "min": 160,
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı", "title": "Konya-Karaman hızlı tren hattı 3'üncü yılını kutluyor",
+  "url": "https://www.uab.gov.tr/haberler/konya-karaman-hizli-tren-hatti-3-uencue-yilini-kutluyor/", "date": "2025-01-08"
+ },
+ {
+  "line": "yht-istanbul-karaman", "kind": "stated", "label": "İstanbul – Karaman", "min": 360, "round": true,
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı", "title": "Konya-Karaman hızlı tren hattı 3'üncü yılını kutluyor",
+  "url": "https://www.uab.gov.tr/haberler/konya-karaman-hizli-tren-hatti-3-uencue-yilini-kutluyor/", "date": "2025-01-08"
+ },
+ {
+  "line": "ana-ankara-kars", "kind": "stated", "label": "Ankara – Kars", "min": 1560, "approx": true, "round": true, "km": 1360,
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı", "title": "Bakan Uraloğlu Turistik Doğu Ekspresi'ni uğurladı",
+  "url": "https://www.uab.gov.tr/haberler/bakan-uraloglu-turistik-dogu-ekspresi-ni-ugurladi", "date": "2023-12-11"
+ },
+ {
+  "line": "ana-turistik-dogu", "kind": "stated", "label": "Ankara – Kars", "min": 1920, "round": true, "km": 1360, "stopsIncluded": true,
+  "train": "2025–26 kış sezonu",
+  "note": "Süre uzun duruşları da kapsar: Ankara–Kars yönünde Erzincan'da 2 sa 30 dk ve Erzurum'da 4 sa; Kars–Ankara yönünde İliç'te 3 sa, Divriği'de 2 sa 30 dk ve Sivas'ta 3 sa.",
+  "publisher": "Ulaştırma ve Altyapı Bakanlığı (Anadolu Ajansı aracılığıyla)", "title": "Turistik Doğu Ekspresi'nin yeni sezon biletleri yarın satışa çıkacak",
+  "url": "https://www.aa.com.tr/tr/kultur/turistik-dogu-ekspresinin-yeni-sezon-biletleri-yarin-satisa-cikacak/3726867", "date": "2025-10-26"
+ }
+]

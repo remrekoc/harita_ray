@@ -1,0 +1,693 @@
+{
+ "lines": [
+  {
+   "id": "kocaeli-gebze-darica",
+   "city": "kocaeli",
+   "code": "GD",
+   "type": "metro",
+   "name": "Gebze OSB – Darıca Sahil",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı (AYGM); tamamlanınca Kocaeli Büyükşehir Belediyesine devredilecek",
+   "km": 15.4,
+   "fleet": "28 sürücüsüz metro aracı (tamamı teslim alındı)",
+   "progress": 86,
+   "update": "Cumhurbaşkanlığı 2027 Yıllık Programına (Ekim 2026) göre yapım sürüyor ve hattın 2026 sonuna kadar açılması planlanıyor; Bakan Uraloğlu Eylül 2026'da açılışın yakında yapılacağını söyledi.",
+   "target": "2026 sonu",
+   "statusNote": "Resmi hat kodu bulunamadı; GD kısa koddur. İlerleme oranı (yüzde 86) Şubat 2025 tarihli son resmi açıklamadandır. 2026 Yatırım Programı ve Mart 2026 bakanlık açıklaması 15,6 km diyor; belediye ve AYGM 15,4 km diyor. 11 istasyonun tam listesi resmi kaynakta bulunamadı; yalnızca uçlar ve Marmaray aktarması verildi. Hatta test sürüşleri yapılıyor ancak Kasım 2026 itibarıyla yolcu hizmeti başladığına dair resmi kaynak yok.",
+   "extension": false,
+   "history": [
+    {
+     "date": "2018",
+     "text": "Kocaeli Büyükşehir Belediyesi yapım ihalesini yaptı; 2019'da proje Ulaştırma ve Altyapı Bakanlığına devredildi."
+    },
+    {
+     "date": "Şubat 2025",
+     "text": "Bakanlık: genel ilerleme yaklaşık yüzde 86, 28 aracın tamamı teslim alındı, entegrasyon testleri başladı."
+    },
+    {
+     "date": "Mart 2026",
+     "text": "Bakanlık hattın yıl sonuna kadar tamamlanmasını hedefledi."
+    },
+    {
+     "date": "Eylül 2026",
+     "text": "Bakan Uraloğlu açılışın yakında yapılacağını söyledi."
+    },
+    {
+     "date": "Ekim 2026",
+     "text": "Cumhurbaşkanlığı 2027 Yıllık Programı: yapım sürüyor, 2026 sonuna kadar açılması planlanıyor."
+    }
+   ],
+   "stations": [
+    {
+     "name": "Darıca Sahil"
+    },
+    {
+     "name": "Gebze Gar",
+     "existing": true
+    },
+    {
+     "name": "Gebze OSB"
+    }
+   ],
+   "osm_hint": "Gebze–Darıca metro (railway=construction)",
+   "sources": [
+    {
+     "title": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı",
+     "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+     "date": "2026-10",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/10/2027-yilli-cumhurbaskanligi-yillik-programi.pdf"
+    },
+    {
+     "title": "Samsun'da 13,3 kilometrelik yeni tramvay hattının temeli atıldı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-09-03",
+     "url": "https://www.uab.gov.tr/haberler/samsun-da-13-3-kilometrelik-yeni-tramvay-hattinin-temeli-atildi/"
+    },
+    {
+     "title": "Beş büyükşehirde ulaşımı rahatlatan kent içi raylı sistemlerde kapasite artıyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı, AA aracılığıyla",
+     "date": "2026-03-02",
+     "url": "https://www.aa.com.tr/tr/gundem/bes-buyuksehirde-ulasimi-rahatlatan-kent-ici-rayli-sistemlerde-kapasite-artiyor/3846084"
+    },
+    {
+     "title": "Bakan Uraloğlu: Gebze OSB-Darıca Metro Hattı, Türk teknik ve mühendisliğinin ürünü olarak inşa edilen ilk metro hattımız",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı, AA aracılığıyla",
+     "date": "2025-02-07",
+     "url": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-gebze-osb-darica-metro-hatti-turk-teknik-ve-muhendisliginin-urunu-olarak-insa-edilen-ilk-metro-hattimiz/3474856"
+    },
+    {
+     "title": "Gebze OSB-Darıca Sahil Metro Hattı (hizmet sayfası)",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2026-11-11",
+     "url": "https://www.kocaeli.bel.tr/hizmet/gebze-osb-darica-sahil-metro-hatti-127.html"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-26",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "evidence": [
+    {
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/10/2027-yilli-cumhurbaskanligi-yillik-programi.pdf"
+    },
+    {
+     "url": "https://www.uab.gov.tr/haberler/samsun-da-13-3-kilometrelik-yeni-tramvay-hattinin-temeli-atildi/"
+    },
+    {
+     "url": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-gebze-osb-darica-metro-hatti-turk-teknik-ve-muhendisliginin-urunu-olarak-insa-edilen-ilk-metro-hattimiz/3474856"
+    },
+    {
+     "url": "https://www.kocaeli.bel.tr/hizmet/gebze-osb-darica-sahil-metro-hatti-127.html"
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-korfezray",
+   "city": "kocaeli",
+   "code": "Körfezray",
+   "type": "metro",
+   "name": "Körfezray (Kuzey Hafif Raylı Sistem Hattı 1. Etap): Tüpraş-Petkim – Özdilek",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı (AYGM) ile Kocaeli Büyükşehir Belediyesi",
+   "km": 29.1,
+   "fleet": "40 hafif raylı sistem aracı (2026 Yatırım Programı)",
+   "progress": 27.64,
+   "update": "Eylül 2026 itibarıyla 6 TBM ile 8.278,5 m tünel kazıldı, toplam fiziki gerçekleşme yüzde 27,64; 19 istasyonun 17'sinde çalışma sürüyor.",
+   "target": "2028",
+   "statusNote": "Resmi hat numarası yok; proje adı kod olarak kullanıldı (OSM'de M2). Uzunluk kaynaklara göre değişiyor: Yatırım Programı 26,85 km, Bakanlık (Eylül 2025) 28,5 km/18 istasyon, belediye (Mayıs ve Eylül 2026) 29,1 km/19 istasyon. 2028 hedefi belediyenin Temmuz 2025 açıklamasıdır; Yatırım Programı bitiş yılı 2029. İstasyonların tam listesi yayımlanmadığı için yalnızca uçlar verildi.",
+   "extension": false,
+   "history": [
+    {
+     "date": "Ekim 2023",
+     "text": "Cumhurbaşkanı Kararı ile 1. Aşama Bakanlıkça üstlenildi."
+    },
+    {
+     "date": "Ocak 2024",
+     "text": "1. Aşama 2024 Yatırım Programına alındı."
+    },
+    {
+     "date": "Haziran 2024",
+     "text": "Yükleniciye yer teslimi yapıldı."
+    },
+    {
+     "date": "Eylül 2025",
+     "text": "Temel atıldı; ilk TBM'ler kazıya başladı."
+    },
+    {
+     "date": "Mayıs 2026",
+     "text": "6 TBM'nin tamamı devreye girdi."
+    },
+    {
+     "date": "Eylül 2026",
+     "text": "Fiziki gerçekleşme yüzde 27,64."
+    }
+   ],
+   "stations": [
+    {
+     "name": "Tüpraş-Petkim"
+    },
+    {
+     "name": "Özdilek"
+    }
+   ],
+   "osm_hint": "Kocaeli Kuzey HRS Hattı 1. Aşama (M2 Körfez–Derince–İzmit–Kartepe) projesi güzergahı",
+   "sources": [
+    {
+     "title": "Körfezray’da ilerleme yüzde 27,64",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2026-09-03",
+     "url": "https://www.kocaeli.bel.tr/haber/x-51914.html"
+    },
+    {
+     "title": "Metro projesinde vatandaş soruyor, yetkililer cevaplıyor",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2026-05-05",
+     "url": "https://www.kocaeli.bel.tr/haber/x-50925.html"
+    },
+    {
+     "title": "Sanayinin başkentine yeni metro hattı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2025-09-04",
+     "url": "https://www.uab.gov.tr/haberler/sanayinin-baskentine-yeni-metro-hatti/"
+    },
+    {
+     "title": "Güney Metro Hattı için projelendirme ihalesi yapılacak",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2025-07-27",
+     "url": "https://www.kocaeli.bel.tr/haber/x-48571.html"
+    },
+    {
+     "title": "Kuzey Metro hattı 2024 yatırım programına alındı",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2024-01-22",
+     "url": "https://www.kocaeli.bel.tr/haber/x-45127.html"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-26",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "evidence": [
+    {
+     "url": "https://www.kocaeli.bel.tr/haber/x-51914.html"
+    },
+    {
+     "url": "https://www.kocaeli.bel.tr/haber/x-51914.html"
+    },
+    {
+     "url": "https://www.kocaeli.bel.tr/haber/x-50925.html"
+    },
+    {
+     "url": "https://www.kocaeli.bel.tr/haber/x-48571.html"
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-gebze-cayirova-birlik-osb",
+   "city": "kocaeli",
+   "code": "GÇB",
+   "type": "metro",
+   "name": "Gebze – Çayırova – Birlik OSB Hafif Raylı Sistem Hattı 1. Aşama",
+   "status": "planned",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı (AYGM)",
+   "km": 5.75,
+   "update": "Hat 4 Ekim 2025 tarihli Cumhurbaşkanı Kararı ile Bakanlıkça üstlenildi ve 2026 Yatırım Programına yeni proje olarak (2026–2029) girdi; Nisan 2026'da belediye hattın 3 istasyonla Gebze–Darıca metrosuna bağlanacağını açıkladı.",
+   "target": "2029",
+   "statusNote": "Resmi hat kodu yok; GÇB kısa koddur. Hedef yıl Yatırım Programının bitiş yılıdır. Yapımın başladığına dair açık kaynak bulunamadı. Belediye hattı 'Çayırova–Gebze Adliye, 5,7 km, 3 istasyon' olarak tanımlıyor; Adliye istasyonu Gebze–Darıca hattı üzerindedir.",
+   "extension": false,
+   "history": [
+    {
+     "date": "Ekim 2025",
+     "text": "Cumhurbaşkanı Kararı (sayı 10451) ile Bakanlıkça üstlenildi."
+    },
+    {
+     "date": "Ocak 2026",
+     "text": "2026 Yatırım Programına 5,75 km olarak alındı."
+    }
+   ],
+   "stations": [
+    {
+     "name": "Gebze Adliye"
+    },
+    {
+     "name": "Birlik OSB"
+    }
+   ],
+   "osm_hint": "M3 (Gebze – Sabiha Gökçen Havalimanı) Metro Hattı (olası eşleşme)",
+   "sources": [
+    {
+     "title": "Cumhurbaşkanı Kararı sayı 10451 (Şehir İçi Raylı Ulaşım Sistemleri ... Kararda Değişiklik)",
+     "publisher": "Resmî Gazete",
+     "date": "2025-10-04",
+     "url": "https://www.resmigazete.gov.tr/eskiler/2025/10/20251004-19.pdf"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-26",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    },
+    {
+     "title": "Başkan Büyükakın, şehrin geleceği metroyu anlattı",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2026-04-20",
+     "url": "https://www.kocaeli.bel.tr/haber/x-50785.html"
+    }
+   ],
+   "evidence": [
+    {
+     "url": "https://www.resmigazete.gov.tr/eskiler/2025/10/20251004-19.pdf"
+    },
+    {
+     "url": "https://www.kocaeli.bel.tr/haber/x-50785.html"
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-guney-hrs",
+   "city": "kocaeli",
+   "code": "Güney HRS",
+   "type": "metro",
+   "name": "Güney Hafif Raylı Sistem Hattı: İzmit – Başiskele – Gölcük",
+   "status": "planned",
+   "authority": "Kocaeli Büyükşehir Belediyesi",
+   "km": 21,
+   "update": "Belediye projelendirme ihalesini 30 Temmuz 2025'te yaptı; Nisan 2026'da projenin tamamlandığını, Eylül 2026'da Bakanlık yatırım programına alınması için sunulacağını açıkladı.",
+   "statusNote": "Resmi hat kodu yok (OSM'de M4). Biçimsel adım yalnızca belediyenin projelendirme (danışmanlık ve proje tasarım) ihalesidir; yapım ihalesi, Cumhurbaşkanı Kararı veya Yatırım Programı kaydı yok.",
+   "extension": false,
+   "history": [
+    {
+     "date": "Temmuz 2025",
+     "text": "Projelendirme ihalesi yapıldı (3 teklif)."
+    },
+    {
+     "date": "Nisan 2026",
+     "text": "Belediye projenin tamamlandığını açıkladı."
+    }
+   ],
+   "stations": [
+    {
+     "name": "Gölcük"
+    },
+    {
+     "name": "İzmit"
+    }
+   ],
+   "osm_hint": "Kocaeli Güney HRS Hattı (M4 İzmit–Başiskele–Gölcük)",
+   "sources": [
+    {
+     "title": "Güney Metro Hattı için projelendirme ihalesi yapılacak",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2025-07-27",
+     "url": "https://www.kocaeli.bel.tr/haber/x-48571.html"
+    },
+    {
+     "title": "Güney Metro Hattı’nın proje ihalesine 3 teklif",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2025-07-30",
+     "url": "https://www.kocaeli.bel.tr/haber/x-48598.html"
+    },
+    {
+     "title": "Başkan Büyükakın, şehrin geleceği metroyu anlattı",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2026-04-20",
+     "url": "https://www.kocaeli.bel.tr/haber/x-50785.html"
+    },
+    {
+     "title": "Büyükakın: Her işimizi ölçüp, biçip, hesaplayarak yapıyoruz",
+     "publisher": "Kocaeli Büyükşehir Belediyesi",
+     "date": "2026-09-15",
+     "url": "https://www.kocaeli.bel.tr/haber/buyukakin-her-isimizi-olcup-bicip-hesaplayarak-yapiyoruz-51990.html"
+    }
+   ],
+   "evidence": [
+    {
+     "url": "https://www.kocaeli.bel.tr/haber/x-48598.html"
+    },
+    {
+     "url": "https://www.kocaeli.bel.tr/haber/x-48571.html"
+    }
+   ]
+  },
+  {
+   "id": "sakarya-adapazari-serdivan",
+   "city": "sakarya",
+   "code": "T1",
+   "type": "tram",
+   "name": "Adapazarı – Serdivan Tramvay Hattı",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı (AYGM)",
+   "km": 15.2,
+   "fleet": "18 tramvay aracı (2026 Yatırım Programı)",
+   "update": "Bakanlık ihaleyi 28 Nisan 2026'da yaptı, sözleşmeyi 25 Ağustos 2026'da imzaladı, 27 Ağustos'ta yer teslimi yapıldı; Eylül 2026'da şantiye kurulumu sürüyordu ve Ekim 2026'da hat Bakanlığın yapımı süren hatları arasında sayıldı.",
+   "target": "2028",
+   "statusNote": "Resmi hat kodu bulunamadı; T1 kısa koddur. Hedef yıl Yatırım Programının bitiş yılıdır. Yatırım Programında 15,50 km, Bakanlık açıklamalarında 15,2 km. 19 istasyonun listesi yayımlanmadı; yalnızca uçlar verildi. Temel atma töreninin yapıldığına dair kaynak bulunamadı.",
+   "extension": false,
+   "history": [
+    {
+     "date": "Ekim 2023",
+     "text": "Cumhurbaşkanı Kararı ile Bakanlıkça üstlenildi."
+    },
+    {
+     "date": "Nisan 2026",
+     "text": "Yapım ihalesi yapıldı."
+    },
+    {
+     "date": "Ağustos 2026",
+     "text": "Sözleşme imzalandı ve yer teslimi yapıldı."
+    }
+   ],
+   "stations": [
+    {
+     "name": "15 Temmuz Demokrasi Meydanı (Gar Meydanı)"
+    },
+    {
+     "name": "Serdivan"
+    }
+   ],
+   "osm_hint": "Adapazarı-Serdivan Tramvayı; Sakarya Tramvayı",
+   "sources": [
+    {
+     "title": "Adapazarı ile Serdivan 15,2 kilometrelik tramvay hattıyla bağlanacak",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-09-21",
+     "url": "https://www.uab.gov.tr/haberler/adapazari-ile-serdivan-15-2-kilometrelik-tramvay-hattiyla-baglanacak/"
+    },
+    {
+     "title": "Raylı sistemleri 3,5 milyar kişi kullandı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-07",
+     "url": "https://www.uab.gov.tr/haberler/rayli-sistemleri-3-5-milyar-kisi-kullandi/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-26",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "evidence": [
+    {
+     "url": "https://www.uab.gov.tr/haberler/adapazari-ile-serdivan-15-2-kilometrelik-tramvay-hattiyla-baglanacak/"
+    },
+    {
+     "url": "https://www.uab.gov.tr/haberler/adapazari-ile-serdivan-15-2-kilometrelik-tramvay-hattiyla-baglanacak/"
+    }
+   ]
+  },
+  {
+   "id": "samsun-sehir-hastanesi",
+   "city": "samsun",
+   "code": "ŞH",
+   "type": "tram",
+   "name": "Kılıçdede – Şehir Hastanesi / Eğitim ve Araştırma Hastanesi Tramvay Hattı (Kamu Kampüsü kolu dahil)",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı (AYGM) ile Samsun Büyükşehir Belediyesi",
+   "km": 13.3,
+   "update": "Temeli 3 Eylül 2026'da Bakan Uraloğlu tarafından atıldı; Ekim 2026'da Bakanlığın yapımı süren hatları arasında 13,3 km olarak sayıldı.",
+   "target": "2029",
+   "statusNote": "Resmi hat kodu yok; ŞH kısa koddur. 13,3 km, Kamu Kampüsüne giden yaklaşık 3,7 km'lik kolu da kapsar (ana hatta 10, kolda 4 istasyon). Hat mevcut tramvaya Kılıçdede ile Samsunspor istasyonları arasından bağlanır. Yatırım Programında 12,25 km. Hedef yıl Yatırım Programının bitiş yılıdır. İstasyon listesi yayımlanmadı.",
+   "extension": true,
+   "extends": "samsun-t1",
+   "history": [
+    {
+     "date": "Ağustos 2024",
+     "text": "Cumhurbaşkanı Kararı ile Bakanlıkça üstlenildi."
+    },
+    {
+     "date": "Ocak 2025",
+     "text": "2025 Yatırım Programına alındı."
+    },
+    {
+     "date": "Mayıs 2026",
+     "text": "Hat için acele kamulaştırma kararı Resmî Gazete'de yayımlandı."
+    },
+    {
+     "date": "Eylül 2026",
+     "text": "Temel atıldı."
+    }
+   ],
+   "stations": [
+    {
+     "name": "Kılıçdede",
+     "existing": true
+    },
+    {
+     "name": "Şehir Hastanesi"
+    }
+   ],
+   "osm_hint": "Samsun Şehir Hastanesi Tramvay Hattı; Samsun Kamu Kampüs Tramvay Hattı",
+   "sources": [
+    {
+     "title": "Samsun'da 13,3 kilometrelik yeni tramvay hattının temeli atıldı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-09-03",
+     "url": "https://www.uab.gov.tr/haberler/samsun-da-13-3-kilometrelik-yeni-tramvay-hattinin-temeli-atildi/"
+    },
+    {
+     "title": "Raylı sistemleri 3,5 milyar kişi kullandı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-07",
+     "url": "https://www.uab.gov.tr/haberler/rayli-sistemleri-3-5-milyar-kisi-kullandi/"
+    },
+    {
+     "title": "Samsun Şehir Hastanesi Raylı Sistem (Tramvay) Hattı acele kamulaştırma kararı",
+     "publisher": "Resmî Gazete",
+     "date": "2026-05-22",
+     "url": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260522-10.pdf"
+    },
+    {
+     "title": "Başkan Doğan: Samsun Şehir Hastanesi tramvay hattı 2025 Yılı Yatırım Programı’na alındı",
+     "publisher": "Samsun Büyükşehir Belediyesi",
+     "date": "2025-01-15",
+     "url": "https://www.samsun.bel.tr/guncel/haberler/baskan-dogan-samsun-sehir-hastanesi-tramvay-hatti-2025-yili-yatirim-programina-alindi-2025-01-15"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-26",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "evidence": [
+    {
+     "url": "https://www.uab.gov.tr/haberler/samsun-da-13-3-kilometrelik-yeni-tramvay-hattinin-temeli-atildi/"
+    },
+    {
+     "url": "https://www.uab.gov.tr/haberler/samsun-da-13-3-kilometrelik-yeni-tramvay-hattinin-temeli-atildi/"
+    },
+    {
+     "url": "https://www.uab.gov.tr/haberler/rayli-sistemleri-3-5-milyar-kisi-kullandi/"
+    }
+   ]
+  },
+  {
+   "id": "trabzon-1-etap",
+   "city": "trabzon",
+   "code": "T1",
+   "type": "metro",
+   "name": "Trabzon Raylı Sistem Hattı 1. Etap: Karayolları – Havalimanı",
+   "status": "construction",
+   "authority": "Ulaştırma ve Altyapı Bakanlığı (AYGM) ile Trabzon Büyükşehir Belediyesi",
+   "contractor": "Kalyon İnşaat – Makyol İnşaat ortaklığı",
+   "km": 16.2,
+   "update": "Temeli 1 Eylül 2026'da atıldı; Ekim–Kasım 2026'da Avni Aker Millet Bahçesi istasyonunda ve Uzunkum tünel girişinde çalışmalar sürüyor, belediye 4 yılda tamamlamayı hedefliyor.",
+   "target": "4 yıl içinde (belediye, Kasım 2026); Yatırım Programı bitiş yılı 2029",
+   "statusNote": "Resmi hat kodu yok; T1 kısa koddur. Yatırım Programında 'Trabzon Tramvay Hattı-1. Etap' adıyla yer alır; AYGM ve belediye hattın büyük bölümü tünelde, metro standardında yapılacağını söylüyor, bu yüzden tür metro yazıldı. Belediye Ekim 2026'da uzunluğu yaklaşık 16,5 km olarak verdi. İstasyonlar Bakanlığın Ağustos 2026'da verdiği sırayla yazıldı.",
+   "extension": false,
+   "history": [
+    {
+     "date": "Ekim 2023",
+     "text": "Cumhurbaşkanı Kararı ile Bakanlıkça üstlenildi."
+    },
+    {
+     "date": "Aralık 2025",
+     "text": "1. etap yapımı 2025 Revize Yatırım Programına alındı."
+    },
+    {
+     "date": "Nisan 2026",
+     "text": "Yapım ihalesi yapıldı (12 teklif)."
+    },
+    {
+     "date": "Temmuz 2026",
+     "text": "Yapım sözleşmesi imzalandı, şantiye kurulumu başladı."
+    },
+    {
+     "date": "Eylül 2026",
+     "text": "Temel atıldı."
+    }
+   ],
+   "stations": [
+    {
+     "name": "Karayolları"
+    },
+    {
+     "name": "Şehir Hastanesi"
+    },
+    {
+     "name": "Trabzonspor Stadyumu"
+    },
+    {
+     "name": "Bayındırlık İskân"
+    },
+    {
+     "name": "Beşirli"
+    },
+    {
+     "name": "Trabzon Orman İşletme Bölge Müdürlüğü"
+    },
+    {
+     "name": "Tanjant"
+    },
+    {
+     "name": "İnönü"
+    },
+    {
+     "name": "Atapark"
+    },
+    {
+     "name": "Pazarkapı"
+    },
+    {
+     "name": "Trabzon Meydan Parkı"
+    },
+    {
+     "name": "Terminal"
+    },
+    {
+     "name": "Sanayi"
+    },
+    {
+     "name": "Forum AVM"
+    },
+    {
+     "name": "Karadeniz Teknik Üniversitesi"
+    },
+    {
+     "name": "Havalimanı"
+    }
+   ],
+   "osm_hint": "Trabzon Raylı Sistem Hattı",
+   "sources": [
+    {
+     "title": "Raylı sistemin yapımına resmen başlandı",
+     "publisher": "Trabzon Büyükşehir Belediyesi",
+     "date": "2026-09-01",
+     "url": "https://www.trabzon.bel.tr/Web/Icerik/rayli-sistemin-yapimina-resmen-baslandi"
+    },
+    {
+     "title": "Trabzon’un raylı sistem hayali gerçek oluyor",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-08-28",
+     "url": "https://www.uab.gov.tr/haberler/trabzon-un-rayli-sistem-hayali-gercek-oluyor/"
+    },
+    {
+     "title": "Başkan Genç raylı sistemi gün gün takip ediyor",
+     "publisher": "Trabzon Büyükşehir Belediyesi",
+     "date": "2026-10-22",
+     "url": "https://www.trabzon.bel.tr/Web/Icerik/baskan-genc-rayli-sistemi-gun-gun-takip-ediyor"
+    },
+    {
+     "title": "Başkan Genç raylı sistem çalışmalarını inceledi",
+     "publisher": "Trabzon Büyükşehir Belediyesi",
+     "date": "2026-11-02",
+     "url": "https://www.trabzon.bel.tr/Web/Icerik/baskan-genc-rayli-sistem-calismalarini-inceledi"
+    },
+    {
+     "title": "Raylı sistemleri 3,5 milyar kişi kullandı",
+     "publisher": "Ulaştırma ve Altyapı Bakanlığı",
+     "date": "2026-10-07",
+     "url": "https://www.uab.gov.tr/haberler/rayli-sistemleri-3-5-milyar-kisi-kullandi/"
+    },
+    {
+     "title": "2026 Yılı Kamu Yatırım Programı",
+     "publisher": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
+     "date": "2026-01-26",
+     "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/01/2026-Yili-Kamu-Yatirim-Programi-26012026.pdf"
+    }
+   ],
+   "evidence": [
+    {
+     "url": "https://www.trabzon.bel.tr/Web/Icerik/rayli-sistemin-yapimina-resmen-baslandi"
+    },
+    {
+     "url": "https://www.trabzon.bel.tr/Web/Icerik/rayli-sistemin-yapimina-resmen-baslandi"
+    },
+    {
+     "url": "https://www.uab.gov.tr/haberler/trabzon-un-rayli-sistem-hayali-gercek-oluyor/"
+    },
+    {
+     "url": "https://www.trabzon.bel.tr/Web/Icerik/baskan-genc-rayli-sistem-calismalarini-inceledi"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "city": "kocaeli",
+   "name": "Kuzey HRS (Körfezray) 2. Etap: Atalar ve Cengiz Topel / Fuar uzatmaları",
+   "reason": "Bakanlık ve belediye planladığını söylüyor (belediye hedefi 2033), ancak Cumhurbaşkanı Kararı ve Yatırım Programı yalnızca 1. Aşamayı kapsıyor; 2. etap için ihale veya karar bulunamadı.",
+   "url": "https://www.kocaeli.bel.tr/haber/x-45127.html"
+  },
+  {
+   "city": "kocaeli",
+   "name": "Akçaray tramvayı Kartepe Kent Meydanı uzatması",
+   "reason": "Yalnızca belediye başkanının açıklaması (Ekim 2025, Eylül 2026); ihale veya meclis kararı bulunamadı.",
+   "url": "https://www.kocaeli.bel.tr/haber/buyukakin-her-isimizi-olcup-bicip-hesaplayarak-yapiyoruz-51990.html"
+  },
+  {
+   "city": "trabzon",
+   "name": "Trabzon raylı sistem 2. etap (Akçaabat ve Yomra uzatmaları, toplam yaklaşık 32 km/31 istasyon)",
+   "reason": "Bakanlık Ekim 2026'da Trabzon'daki planlanan hatların fizibilite ve etüt aşamasında olduğunu söylüyor; bu uzatmalara özgü ihale, karar veya Yatırım Programı kaydı doğrulanamadı.",
+   "url": "https://www.uab.gov.tr/haberler/rayli-sistemleri-3-5-milyar-kisi-kullandi/"
+  },
+  {
+   "city": "erzurum",
+   "name": "Erzurum Gar – Atatürk Üniversitesi – Şehir Hastaneleri – Gar Tramvay Hattı 1. Etap",
+   "reason": "Bakanlık Ekim 2026'da Erzurum'u fizibilite ve etüt çalışmaları süren planlanan hatlar arasında sayıyor; Cumhurbaşkanı Kararı (2023–2026 Resmî Gazete taraması), Yatırım Programı kaydı, ihale veya meclis kararı bulunamadı.",
+   "url": "https://www.uab.gov.tr/haberler/rayli-sistemleri-3-5-milyar-kisi-kullandi/"
+  },
+  {
+   "city": "erzincan",
+   "name": "Erzincan Üniversitesi – Dörtyol – Otogar – Hava Meydanı Kent İçi Tramvay Hattı (ve ring hattı)",
+   "reason": "Bakanlık Ekim 2026'da Erzincan'ı fizibilite ve etüt çalışmaları süren planlanan hatlar arasında sayıyor; Cumhurbaşkanı Kararı, Yatırım Programı kaydı, ihale veya meclis kararı bulunamadı; belediyenin haber arşivinde tramvay haberi yok.",
+   "url": "https://www.uab.gov.tr/haberler/rayli-sistemleri-3-5-milyar-kisi-kullandi/"
+  },
+  {
+   "city": "tekirdag",
+   "name": "Çorlu Gar – Devlet Hastanesi (Otogar – Tren İstasyonu – Hastane) raylı sistem 1. etap",
+   "reason": "Belediye başkanı Ocak 2026'da 'bu yıl ihaleye çıkıyoruz' dedi; Kasım 2026'ya kadar belediye haberlerinde ihale, meclis kararı veya finansman bulunamadı.",
+   "url": "https://www.tekirdag.bel.tr/haber/50915"
+  }
+ ],
+ "open_missing": [],
+ "data_issues": [
+  {
+   "city": "samsun",
+   "issue": "Tekkeköy çevresindeki (yaklaşık 36,45–36,49 D, 41,20–41,24 K) isimsiz railway=construction yolları elektriksiz, standart açıklıklı ve kısmen 'yard'; bunlar kent içi raylı sistem değil, Gelemen–Tekkeköy lojistik iltisak hattıdır. Bakanlık Eylül 2026'da yaklaşık 7 km'lik bu iltisak hattının tamamlandığını söylüyor. Haritada kent raylısı olarak gösterilmemeli.",
+   "url": "https://www.uab.gov.tr/haberler/samsun-da-13-3-kilometrelik-yeni-tramvay-hattinin-temeli-atildi/"
+  },
+  {
+   "city": "samsun",
+   "issue": "OSM'de Şehir Hastanesi (≈17,6 km) ve Kamu Kampüs (≈8,5 km) yolları toplam ≈26 km; resmi uzunluk kol dahil 13,3 km (muhtemelen iki yön ayrı çizilmiş).",
+   "url": "https://www.uab.gov.tr/haberler/samsun-da-13-3-kilometrelik-yeni-tramvay-hattinin-temeli-atildi/"
+  },
+  {
+   "city": "trabzon",
+   "issue": "OSM yolu tramvay olarak etiketli ve ≈19 km; resmi uzunluk 16,2 km ve AYGM hattın tünelli, metro standardında yapılacağını söylüyor.",
+   "url": "https://www.trabzon.bel.tr/Web/Icerik/rayli-sistemin-yapimina-resmen-baslandi"
+  }
+ ],
+ "uncertain": [
+  "Akçaray (Kocaeli): haritadaki açık durum doğru. Belediyenin resmi hatları T1 Otogar–Kuruçeşme, T2 Şehir Hastanesi–Kuruçeşme, T3 Kartepe–Kocaeli Stadyumu–Otogar–Kuruçeşme. Açılışlar: Kuruçeşme 20.04.2023, Şehir Hastanesi 18.03.2024, Alikahya Stadyum 10.10.2025, Kartepe 15.09.2026 (toplam 18,7 km, 29 durak). Kaynak: kocaeli.bel.tr/haber/x-43415.html, x-45413.html, x-49228.html, x-51990.html.",
+  "Gebze–Çayırova–Birlik OSB: Bakanlık Ekim 2026'da Kocaeli'de 49,65 km hatta çalışmanın sürdüğünü söylüyor; bu sayı 15,4 + 28,5 + 5,75 km'ye denk geliyor, yani hat yapım aşamasında olabilir. Açık kaynak olmadığı için planlı bırakıldı.",
+  "Kocaeli Güney HRS yalnızca belediyenin projelendirme ihalesine dayanıyor; bunu 'planlı' saymak istemezseniz reddedilenlere taşıyın.",
+  "Gebze–Darıca: yüzde 86 ilerleme Şubat 2025 tarihli; bir milletvekilinin 'en geç Mart 2027' sözü resmi değil, kullanılmadı.",
+  "Diğer şehirler (Bolu, Düzce, Zonguldak, Ordu, Giresun, Rize, Kars, Edirne, Kırklareli, Yalova): 2026 Yatırım Programında, Bakanlığın planlanan hatlar listesinde ve 2023–2026 Resmî Gazete devir kararlarında kent içi raylı proje yok (Düzce'deki elektrikli metrobüs kapsam dışı). Bozüyük belediyesi haberlerinde yeni tramvay adımı yok. 2025–2026'da açılıp haritada eksik kalan hat bulunamadı.",
+  "Web arama kotası araştırma sırasında doldu; sonraki doğrulamalar doğrudan resmi sitelerden (uab.gov.tr, kocaeli.bel.tr, trabzon.bel.tr, samsun.bel.tr, tekirdag.bel.tr, sbb.gov.tr, resmigazete.gov.tr) yapıldı. sakarya.bel.tr içerik API'si erişilemedi."
+ ]
+}
