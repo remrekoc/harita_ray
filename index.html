@@ -9,6 +9,7 @@
 <meta name="application-name" content="Harita Ray">
 <meta name="apple-mobile-web-app-title" content="Harita Ray">
 <meta name="theme-color" content="#ffffff">
+<script>try { if (localStorage.getItem("theme") === "dark") document.documentElement.dataset.theme = "dark"; } catch (e) { /* private mode */ }</script>
 <link rel="canonical" href="https://haritaray.pages.dev/">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="assets/favicon-32.png" type="image/png" sizes="32x32">
@@ -62,6 +63,7 @@
     <button id="zfit" aria-label="Seçili alanı göster"><svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1.5 5V1.5H5M9 1.5h3.5V5M12.5 9v3.5H9M5 12.5H1.5V9"/></svg></button>
     <button id="tilt" aria-label="3B görünüm" aria-pressed="false"><b>3B</b></button>
     <button id="locate" aria-label="Konumum ve en yakın istasyon"><svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="4.5"/><circle cx="8" cy="8" r="1.4" fill="currentColor" stroke="none"/><path d="M8 .8v2.4M8 12.8v2.4M.8 8h2.4M12.8 8h2.4"/></svg></button>
+    <button id="theme" aria-label="Koyu tema" aria-pressed="false" title="Koyu temaya geç"><svg class="i-moon" width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"><path d="M13.5 9.6A5.8 5.8 0 1 1 6.4 2.5a4.6 4.6 0 0 0 7.1 7.1z"/></svg><svg class="i-sun" width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="8" cy="8" r="3"/><path d="M8 1v1.6M8 13.4V15M1 8h1.6M13.4 8H15M3.05 3.05l1.13 1.13M11.82 11.82l1.13 1.13M3.05 12.95l1.13-1.13M11.82 4.18l1.13-1.13"/></svg></button>
   </div>
 
   <button class="ptab" id="ptab" aria-controls="panel" aria-expanded="true" aria-label="Paneli gizle" title="Paneli gizle"><svg width="12" height="12" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M9.25 2.5L4.75 7l4.5 4.5"/></svg></button>

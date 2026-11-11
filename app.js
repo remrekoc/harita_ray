@@ -37,7 +37,7 @@ const GROUPS = [
   { k: "urban", label: "Şehir içi", sub: "Banliyö, metro, tramvay, füniküler" },
 ];
 const STATUS = [
-  { k: "open", label: "İşletmede", c: "#1a1a1a", dash: "" },
+  { k: "open", label: "İşletmede", c: "var(--open)", dash: "" }, // a CSS colour: the open swatch follows the theme
   { k: "construction", label: "İnşa halinde", c: "#e07000", dash: "6 4" },
   { k: "planned", label: "Planlanan", c: "#9a9da0", dash: ".1 5.5" },
 ];
@@ -60,12 +60,12 @@ function badge(l, cls = "", tag = "span") {
 const lineTitle = l => (l.city ? l.code + " " : "") + l.name + (l.alias ? ` (${l.alias})` : "");
 const swatch = (t, w = 30) => {
   const s = TY[t];
-  if (["hst", "main", "regional"].includes(t)) return `<svg class="sw" width="${w}" height="10" viewBox="0 0 ${w} 10" aria-hidden="true"><path d="M3 5h${w - 6}" stroke="#fff" stroke-width="${t === "hst" ? 6 : 5}" stroke-linecap="round"/><path d="M3 5h${w - 6}" stroke="${s.c}" stroke-width="${t === "hst" ? 3.6 : t === "main" ? 2.6 : 2}" stroke-linecap="round"/></svg>`;
+  if (["hst", "main", "regional"].includes(t)) return `<svg class="sw" width="${w}" height="10" viewBox="0 0 ${w} 10" aria-hidden="true"><path d="M3 5h${w - 6}" stroke="${TH().casing}" stroke-width="${t === "hst" ? 6 : 5}" stroke-linecap="round"/><path d="M3 5h${w - 6}" stroke="${TH()[t]}" stroke-width="${t === "hst" ? 3.6 : t === "main" ? 2.6 : 2}" stroke-linecap="round"/></svg>`;
   // urban lines are drawn in their own colours: a little bundle of three
   const sw = { suburban: 2.6, metro: 2.6, tram: 2, cable: 1.6 }[t], cols = { suburban: ["#0f86a8", "#77787c", "#00a49f"], metro: ["#ee3124", "#009944", "#1b64b6"], tram: ["#004f7d", "#f47e46", "#2f9c6a"], cable: ["#7c7358", "#a07f4f", "#7c7358"] }[t];
   return `<svg class="sw" width="${w}" height="10" viewBox="0 0 ${w} 10" aria-hidden="true">${cols.map((c, i) => `<path d="M${3 + i * (w - 6) / 3 + (i ? 1 : 0)} 5h${(w - 6) / 3 - (i ? 1 : 0)}" stroke="${c}" stroke-width="${sw}" stroke-linecap="${t === "cable" ? "butt" : "round"}"${t === "cable" ? ' stroke-dasharray="2 1.2"' : ""}/>`).join("")}</svg>`;
 };
-const statusSwatch = (s, w = 30) => `<svg class="sw" width="${w}" height="8" viewBox="0 0 ${w} 8" aria-hidden="true"><path d="M3 4h${w - 6}" fill="none" stroke="${s.c}" stroke-width="3" stroke-linecap="${s.k === "construction" ? "butt" : "round"}"${s.dash ? ` stroke-dasharray="${s.dash}"` : ""}/></svg>`;
+const statusSwatch = (s, w = 30) => `<svg class="sw" width="${w}" height="8" viewBox="0 0 ${w} 8" aria-hidden="true"><path d="M3 4h${w - 6}" fill="none" style="stroke:${s.c}" stroke-width="3" stroke-linecap="${s.k === "construction" ? "butt" : "round"}"${s.dash ? ` stroke-dasharray="${s.dash}"` : ""}/></svg>`;
 
 // ridership numbers, Turkish style: "163,1 milyon", "445.763", "≈ 6 milyon", "220 milyondan fazla"
 function big(n) {
@@ -207,6 +207,8 @@ async function styleFor(k) {
 const TH = () => BASES[base].dark
   ? { casing: "#0e1013", fill: "#16191d", ink: "#f4f4f4", halo: "rgba(14,16,19,.9)", text: "#f4f4f4", dim: .4, bldg: "#3b4048", glow: true, rail: "#59606b", gray: "#b3b8c1", hst: "#ff4a57", main: "#c9d3e6", regional: "#8f9bb3" }
   : { casing: "#ffffff", fill: "#ffffff", ink: "#1a1a1a", halo: "rgba(255,255,255,.95)", text: "#1a1a1a", dim: .4, bldg: "#dfddd7", glow: false, rail: "#b9bdc2", gray: "#4c5058", hst: TY.hst.c, main: TY.main.c, regional: TY.regional.c };
+
+const tyC = k => TH()[k] || TY[k].c; // a type's colour as drawn on the current basemap
 
 // line width by zoom and type; a highlighted line is drawn on top, half as wide again
 const ZS = [4.5, 7, 9, 11, 13, 16];
@@ -851,7 +853,7 @@ function renderTally() {
   const v = openLines(LINES.filter(passes));
   tween($("#t-n"), v.length);
   $("#t-of").textContent = `hat · ≈ ${nf(Math.round(trackKm(v) / 10) * 10, 0)} km güzergâh · ${nf(stationCount(v), 0)} istasyon`;
-  $("#t-bar").innerHTML = TYPES.map(t => { const ls = v.filter(l => l.type === t.k); return ls.length ? `<i style="--c:${t.c};flex-grow:${trackKm(ls)}" title="${t.label}: ${ls.length} hat"></i>` : ""; }).join("");
+  $("#t-bar").innerHTML = TYPES.map(t => { const ls = v.filter(l => l.type === t.k); return ls.length ? `<i style="--c:${tyC(t.k)};flex-grow:${trackKm(ls)}" title="${t.label}: ${ls.length} hat"></i>` : ""; }).join("");
 }
 function rowMeta(l) {
   if (l.status === "construction") return l.progress != null ? `<span class="mini num" style="--p:${l.progress}%">%${nf(l.progress)}<s></s></span>` : `<span class="pill" style="--c:${ST.construction.c}"><i></i>İnşa</span>`;
@@ -1161,7 +1163,7 @@ function renderInsights() {
   const cities = CITIES.map(c => { const ls = openLines(c.lineObjs.filter(passes)); return `<li><button data-city="${c.key}"><span class="k">${esc(c.name)}</span><span class="track">${c.annual ? `<i style="width:${100 * c.annual / cmax}%;background:var(--ink-2)"></i>` : ""}</span><span class="s">${ls.length} hat · ${nf(ls.reduce((a, l) => a + l.km, 0), 0)} km${c.ride?.year ? ` · ${c.ride.year}` : ""}</span><span class="v num">${c.annual ? shortN(c.annual) : "—"}</span></button></li>`; }).join("");
   const types = TYPES.map(t => { const ls = v.filter(l => l.type === t.k), km = trackKm(ls); return { t, ls, km }; });
   const kmax = Math.max(1, ...types.map(x => x.km));
-  const typeBars = types.map(({ t, ls, km }) => `<li><button data-type="${t.k}"><span class="k">${t.label}</span><span class="track"><i style="width:${100 * km / kmax}%;background:${t.c}"></i></span><span class="s">${ls.length} hat</span><span class="v num">${nf(Math.round(km), 0)} km</span></button></li>`).join("");
+  const typeBars = types.map(({ t, ls, km }) => `<li><button data-type="${t.k}"><span class="k">${t.label}</span><span class="track"><i style="width:${100 * km / kmax}%;background:${tyC(t.k)}"></i></span><span class="s">${ls.length} hat</span><span class="v num">${nf(Math.round(km), 0)} km</span></button></li>`).join("");
   const nat = GROUPFIG.map(g => `<li><b class="num">${big(g.annual)}</b><span>${esc(g.label)} · ${g.year} · ${srcLink(g.src, "kaynak")}</span></li>`).join("");
   // published intercity journey times, shortest first; YHT and ana hat each on their own scale (90 minutes against 32 hours)
   const timed = v.filter(l => !l.city && l.dur?.dirs[0].min);
@@ -1201,7 +1203,7 @@ $("#tab-insights").addEventListener("click", () => { setTab("insights"); setShee
 /* ---------- legend ---------- */
 function renderLegend() {
   const v = LINES.filter(l => l.status === "open" && (!cityKey || inScope(l)));
-  const dot = (stroke, sw, r) => `<svg width="30" height="14" viewBox="0 0 30 14" aria-hidden="true"><circle cx="15" cy="7" r="${r}" fill="#fff" stroke="${stroke}" stroke-width="${sw}"/></svg>`;
+  const dot = (stroke, sw, r) => `<svg width="30" height="14" viewBox="0 0 30 14" aria-hidden="true"><circle cx="15" cy="7" r="${r}" fill="${TH().fill}" stroke="${stroke}" stroke-width="${sw}"/></svg>`;
   const groups = GROUPS.map(g => {
     const st = groupState(g.k);
     const keys = TYPES.filter(t => t.g === g.k).map(t => { const n = v.filter(l => l.type === t.k).length; return `<li><button data-t="${t.k}" class="${typeOn(t.k) ? "" : "off"}${picked.has(t.k) ? " sel" : ""}" aria-pressed="${picked.has(t.k)}">${swatch(t.k)}<span>${t.label}</span><span class="n num">${n}</span></button></li>`; }).join("");
@@ -1210,7 +1212,7 @@ function renderLegend() {
   const statusKeys = STATUS.filter(s => LINES.some(l => l.status === s.k)).map(s => `<li><button data-st="${s.k}" class="${statusOn(s.k) ? "" : "off"}${pickedSt.has(s.k) ? " sel" : ""}" aria-pressed="${pickedSt.has(s.k)}">${statusSwatch(s)}<span>${s.label}</span><span class="n num">${LINES.filter(l => l.status === s.k && (!cityKey || inScope(l))).length}</span></button></li>`).join("");
   $("#keys").innerHTML = groups + `<ul class="keys extra">${statusKeys}<li><span class="k"><svg class="sw" width="30" height="8" viewBox="0 0 30 8"><path d="M3 4h24" stroke="${TH().rail}" stroke-width="1.6"/></svg><span>Yolcu treni olmayan hat</span></span></li>`
     + `<li><span class="k"><svg class="sw" width="30" height="8" viewBox="0 0 30 8"><path d="M3 4h24" stroke="${TH().rail}" stroke-width="1.6" stroke-dasharray="3 3"/></svg><span>Yapım ya da yenileme</span></span></li>`
-    + `<li><span class="k">${dot("#1a1a1a", 2.4, 4.6)}<span>Raylı sistemi olan şehir</span></span></li></ul>`;
+    + `<li><span class="k">${dot(TH().ink, 2.4, 4.6)}<span>Raylı sistemi olan şehir</span></span></li></ul>`;
 }
 $("#keys").addEventListener("click", e => {
   const b = e.target.closest("[data-g], [data-t], [data-st]"); if (!b) return;
@@ -1222,14 +1224,28 @@ $("#keys").addEventListener("mouseover", e => { const b = e.target.closest("[dat
 $("#keys").addEventListener("mouseleave", () => setHoverType(null));
 $("#lg-reset").addEventListener("click", resetFilters);
 function setBaseButtons() { for (const b of document.querySelectorAll("#basemaps button")) b.setAttribute("aria-pressed", b.dataset.base === base); }
-$("#basemaps").addEventListener("click", async e => {
-  const b = e.target.closest("[data-base]"); if (!b || b.dataset.base === base) return;
+async function setBase(k) {
   stopIntro();
-  base = b.dataset.base; store.set("base", base); setBaseButtons();
+  base = k; store.set("base", base); setBaseButtons();
   lineFC = lineFeatures(); staFC = stationFeatures();
   try { map.setStyle(await styleFor(base), { diff: false }); } catch (err) { console.error(err); toast("Altlık harita yüklenemedi"); }
   renderLegend();
+  if (tab === "insights") renderInsights(); // its type bars use the basemap palette too
+}
+$("#basemaps").addEventListener("click", e => { const b = e.target.closest("[data-base]"); if (b && b.dataset.base !== base) setBase(b.dataset.base); });
+// the dark theme dims the page for night use; light stays the default. The plain basemaps follow it (light ↔ dark),
+// streets and satellite stay as chosen. index.html applies a saved choice before the page draws, so there is no white flash
+function setTheme(dark) {
+  document.documentElement.dataset.theme = dark ? "dark" : "light"; store.set("theme", dark ? "dark" : "light");
+  $("#theme").setAttribute("aria-pressed", dark); $("#theme").title = dark ? "Açık temaya geç" : "Koyu temaya geç";
+  $('meta[name="theme-color"]').content = dark ? "#16191d" : "#ffffff";
+}
+$("#theme").addEventListener("click", () => {
+  const dark = document.documentElement.dataset.theme !== "dark";
+  setTheme(dark);
+  if (map && base === (dark ? "light" : "dark")) setBase(dark ? "dark" : "light"); else renderLegend();
 });
+setTheme(document.documentElement.dataset.theme === "dark");
 // ridership mode: line width follows average daily passengers (area-true: width grows with the square root)
 function renderRideScale() {
   const el = $("#ride-scale");
